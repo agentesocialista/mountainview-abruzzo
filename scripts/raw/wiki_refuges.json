@@ -1,0 +1,112 @@
+[
+  {
+    "title": "Rifugio Vincenzo Sebastiani",
+    "qid": "Q3935673",
+    "lat": 42.179066,
+    "lon": 13.392454,
+    "elevation": 2102,
+    "image": null,
+    "sourceUrl": "https://it.wikipedia.org/wiki/Rifugio_Vincenzo_Sebastiani",
+    "category": "Categoria:Rifugi dell'Abruzzo"
+  },
+  {
+    "title": "Rifugio Carlo Franchetti",
+    "qid": "Q3935487",
+    "lat": 42.477055,
+    "lon": 13.565091,
+    "elevation": 2433,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Rifugio_Franchetti_Gran_Sasso.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "sourceUrl": "https://it.wikipedia.org/wiki/Rifugio_Carlo_Franchetti",
+    "category": "Categoria:Rifugi dell'Abruzzo"
+  },
+  {
+    "title": "Rifugio Duca degli Abruzzi (Gran Sasso)",
+    "qid": "Q16596611",
+    "lat": 42.448066,
+    "lon": 13.552015,
+    "elevation": 2388,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Rifugio_Duca_degli_Abruzzi_%28Gran_Sasso%29_007.jpg/1280px-Rifugio_Duca_degli_Abruzzi_%28Gran_Sasso%29_007.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "sourceUrl": "https://it.wikipedia.org/wiki/Rifugio_Duca_degli_Abruzzi_(Gran_Sasso)",
+    "category": "Categoria:Rifugi dell'Abruzzo"
+  },
+  {
+    "title": "Rifugio Giuseppe Garibaldi (Gran Sasso)",
+    "qid": "Q28669518",
+    "lat": 42.46071,
+    "lon": 13.55033,
+    "elevation": 2231,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Rifugio_Giuseppe_Garibaldi_%28Gran_Sasso%29_04.jpg/1280px-Rifugio_Giuseppe_Garibaldi_%28Gran_Sasso%29_04.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "sourceUrl": "https://it.wikipedia.org/wiki/Rifugio_Giuseppe_Garibaldi_(Gran_Sasso)",
+    "category": "Categoria:Rifugi dell'Abruzzo"
+  },
+  {
+    "title": "Rifugio Antonella Panepucci Alessandri",
+    "qid": "Q28668231",
+    "lat": 42.47531,
+    "lon": 13.407147,
+    "elevation": 1700,
+    "image": null,
+    "sourceUrl": "https://it.wikipedia.org/wiki/Rifugio_Antonella_Panepucci_Alessandri",
+    "category": "Categoria:Rifugi dell'Abruzzo"
+  },
+  {
+    "title": "Rifugio Bruno Pomilio",
+    "qid": "Q60784900",
+    "lat": 42.160735,
+    "lon": 14.132572,
+    "elevation": null,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Blockhaus_Parco_nazionale_della_Majella_2010-by-RaBoe-36.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "sourceUrl": "https://it.wikipedia.org/wiki/Rifugio_Bruno_Pomilio",
+    "category": "Categoria:Rifugi dell'Abruzzo"
+  },
+  {
+    "title": "Bivacco Andrea Bafile",
+    "qid": "Q101363582",
+    "lat": 42.468621,
+    "lon": 13.571846,
+    "elevation": 2669,
+    "image": null,
+    "sourceUrl": "https://it.wikipedia.org/wiki/Bivacco_Andrea_Bafile",
+    "category": "Categoria:Rifugi dell'Abruzzo"
+  },
+  {
+    "title": "Rifugio Telespazio",
+    "qid": "Q131355903",
+    "lat": 42.138333,
+    "lon": 13.488333,
+    "elevation": 1980,
+    "image": null,
+    "sourceUrl": "https://it.wikipedia.org/wiki/Rifugio_Telespazio",
+    "category": "Categoria:Rifugi dell'Abruzzo"
+  },
+  {
+    "title": "Rifugio Coppo dell'Orso",
+    "qid": "Q140388911",
+    "lat": 41.837778,
+    "lon": 13.653056,
+    "elevation": 1870,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Serra_Lunga_%28AQ%29_Rifugio_Coppo_dell_orso_02.jpg/1280px-Serra_Lunga_%28AQ%29_Rifugio_Coppo_dell_orso_02.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "sourceUrl": "https://it.wikipedia.org/wiki/Rifugio_Coppo_dell'Orso",
+    "category": "Categoria:Rifugi dell'Abruzzo"
+  },
+  {
+    "title": "Rifugio Casale da Monte",
+    "qid": "Q142070360",
+    "lat": 42.118889,
+    "lon": 13.433889,
+    "elevation": 1150,
+    "image": null,
+    "sourceUrl": "https://it.wikipedia.org/wiki/Rifugio_Casale_da_Monte",
+    "category": "Categoria:Rifugi dell'Abruzzo"
+  },
+  {
+    "title": "Rifugio Capanna di Sevice",
+    "qid": "Q142091319",
+    "lat": null,
+    "lon": null,
+    "elevation": 2119,
+    "image": null,
+    "sourceUrl": "https://it.wikipedia.org/wiki/Rifugio_Capanna_di_Sevice",
+    "category": "Categoria:Rifugi dell'Abruzzo"
+  }
+]

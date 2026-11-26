@@ -1,0 +1,3540 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-11-26T16:41:51Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 342491396,
+  "lat": 41.8762612,
+  "lon": 13.7455178,
+  "tags": {
+    "name": "Rifugio Passo del Diavolo",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 438233441,
+  "lat": 41.8488683,
+  "lon": 13.8363181,
+  "tags": {
+    "amenity": "shelter",
+    "ele": "1536",
+    "name": "Rifugio Prato Rosso",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 476141980,
+  "lat": 41.7387894,
+  "lon": 13.8111597,
+  "tags": {
+    "amenity": "bar",
+    "name": "Rifugio Duca d'Aosta",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 805405165,
+  "lat": 42.1575561,
+  "lon": 12.9077161,
+  "tags": {
+    "access": "yes",
+    "building": "yes",
+    "ele": "1067",
+    "gestione": "no",
+    "name": "Colle Linzoli",
+    "reservation": "no",
+    "shelter_type": "basic",
+    "tourism": "wilderness_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1094418457,
+  "lat": 41.8378216,
+  "lon": 14.0026491,
+  "tags": {
+    "name": "Esagono",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1282760883,
+  "lat": 41.8418987,
+  "lon": 13.3882177,
+  "tags": {
+    "name": "Rifugio Collelungo",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1282760885,
+  "lat": 41.8270673,
+  "lon": 13.3882795,
+  "tags": {
+    "name": "Rifugio Marco Di Fabio",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1299330905,
+  "lat": 41.8280234,
+  "lon": 13.4195996,
+  "tags": {
+    "ele": "1236",
+    "fireplace": "yes",
+    "name": "Rifugio di Pietra Acquara",
+    "tourism": "wilderness_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1327859731,
+  "lat": 42.4255874,
+  "lon": 13.7415796,
+  "tags": {
+    "ele": "1632",
+    "name": "Rifugio Fonte Vetica",
+    "note": "non fruibile",
+    "operator": "Corpo Forestale dello Stato",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1407330867,
+  "lat": 41.8811635,
+  "lon": 14.1604853,
+  "tags": {
+    "name": "Rifugio Accio di Cotica",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1409052399,
+  "lat": 41.8622115,
+  "lon": 14.1136671,
+  "tags": {
+    "mattress": "no",
+    "name": "Rifugio Posta Grossa",
+    "shower": "no",
+    "toilets": "no",
+    "tourism": "wilderness_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1811930235,
+  "lat": 41.7966177,
+  "lon": 13.5014025,
+  "tags": {
+    "ele": "1770",
+    "name": "Rifugio Pino Ciuffarella",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2713143462,
+  "lat": 41.8656627,
+  "lon": 14.1336181,
+  "tags": {
+    "name": "Casa della Madonna",
+    "operator": "Corpo Forestale dello Stato Castel di Sangro",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 3749558602,
+  "lat": 41.8094882,
+  "lon": 14.2484565,
+  "tags": {
+    "name": "Rifugio Elda e Aldo Casciero",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 3847044279,
+  "lat": 41.7996213,
+  "lon": 13.6564009,
+  "tags": {
+    "internet_access:fee": "no",
+    "name": "Campo di Grano",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 3854658614,
+  "lat": 41.7879933,
+  "lon": 13.8744460,
+  "tags": {
+    "ele": "1580",
+    "name": "Stazzo di Monte Forcone",
+    "note": "closed",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 3856577782,
+  "lat": 41.7528081,
+  "lon": 13.8668672,
+  "tags": {
+    "name": "Stazzo di Val Fondillo",
+    "tourism": "wilderness_hut",
+    "website": "https://www.wildlifeadventures.it/stazzo-acquasfranatara/"
+  }
+},
+{
+  "type": "node",
+  "id": 3856662239,
+  "lat": 41.8804522,
+  "lon": 13.0693682,
+  "tags": {
+    "name": "Rifugio",
+    "tourism": "wilderness_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 3986163748,
+  "lat": 41.9167188,
+  "lon": 13.5959496,
+  "tags": {
+    "name": "Rifugio Aranello",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 3986181510,
+  "lat": 41.8724546,
+  "lon": 13.7123116,
+  "tags": {
+    "name": "Rifugio Le Prata",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 4659984962,
+  "lat": 41.8854813,
+  "lon": 14.1360158,
+  "tags": {
+    "name": "Rifugio Il Riposo",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 4828716043,
+  "lat": 41.8373165,
+  "lon": 13.9295703,
+  "tags": {
+    "name": "Ristorante Rifugio Lo Scoiattolo",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 4834764128,
+  "lat": 41.7091399,
+  "lon": 13.9022846,
+  "tags": {
+    "name": "Rifugio Acquanera",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 5014715622,
+  "lat": 41.8909463,
+  "lon": 13.1661311,
+  "tags": {
+    "addr:street": "del cesarea casale",
+    "amenity": "restaurant",
+    "internet_access": "wlan",
+    "name": "La villetta",
+    "name:it": "La villetta",
+    "phone": "+39 0774827051",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 5014900922,
+  "lat": 41.8908381,
+  "lon": 13.1664399,
+  "tags": {
+    "addr:street": "via della cesarea",
+    "internet_access": "wlan",
+    "name": "Bed and breakfast bellavista",
+    "name:it": "Bend and breakfast",
+    "opening_hours": "24/7",
+    "phone": "+39 0774827051",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 5758515375,
+  "lat": 42.0022378,
+  "lon": 13.2189237,
+  "tags": {
+    "name": "Rifugio Maddalena",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 6437005526,
+  "lat": 42.1338700,
+  "lon": 13.9025907,
+  "tags": {
+    "name": "Il Puzzacchio",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 6805946528,
+  "lat": 42.0935261,
+  "lon": 13.6178336,
+  "tags": {
+    "name": "La Canala",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 7148537446,
+  "lat": 42.4963357,
+  "lon": 12.9557002,
+  "tags": {
+    "name": "Rifugio Castiglioni",
+    "tourism": "wilderness_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 7757324823,
+  "lat": 41.7725322,
+  "lon": 13.6588831,
+  "tags": {
+    "name": "gle Cucchiarun",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 7761671992,
+  "lat": 42.6934379,
+  "lon": 13.6182285,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Rifugio delle Aquile",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 7929654702,
+  "lat": 41.8174224,
+  "lon": 13.7133580,
+  "tags": {
+    "name": "Rifugio Aceretta",
+    "tourism": "wilderness_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 8273886425,
+  "lat": 41.7376233,
+  "lon": 13.5130151,
+  "tags": {
+    "description": "Rifugio non gestito, portico esterno accessibile con camino",
+    "ele": "1272",
+    "name": "Rifugio Faito",
+    "source": "survey:CAI",
+    "source:ref": "9232002",
+    "tourism": "wilderness_hut",
+    "winter_room": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9209267900,
+  "lat": 42.7100879,
+  "lon": 13.2088789,
+  "tags": {
+    "name": "Rifugio",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 9252597836,
+  "lat": 42.2206467,
+  "lon": 13.3364435,
+  "tags": {
+    "description": "Open Sat and Sun",
+    "name": "Rifugio Prato San Rocco",
+    "operator": "Azienda Agricola Monte San Rocco",
+    "phone": "+393483156450",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 9443990611,
+  "lat": 42.1377951,
+  "lon": 13.6546690,
+  "tags": {
+    "name": "Rifugio di Canale",
+    "tourism": "wilderness_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 9517181768,
+  "lat": 42.6968450,
+  "lon": 13.6016978,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Rifugio Fratta Montanara",
+    "opening_hours": "Sa-Su",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 9770474347,
+  "lat": 42.4942178,
+  "lon": 13.0266046,
+  "tags": {
+    "fee": "no",
+    "name": "Rifugio Porcini",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 9810807900,
+  "lat": 42.0303537,
+  "lon": 13.1291131,
+  "tags": {
+    "access": "yes",
+    "drinking_water": "no",
+    "name": "Rifugio La Fossa",
+    "shower": "no",
+    "toilets": "no",
+    "tourism": "wilderness_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 9811004456,
+  "lat": 41.6920031,
+  "lon": 13.9718556,
+  "tags": {
+    "access": "permit",
+    "description": "Dotato di stufa a legna e punto acqua.",
+    "fee": "no",
+    "fireplace": "yes",
+    "name": "Bivacco Le Forme",
+    "operator": "C.A.I Sezione di Isernia",
+    "tourism": "wilderness_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 10916174062,
+  "lat": 41.9757293,
+  "lon": 13.2735124,
+  "tags": {
+    "access": "permissive",
+    "addr:city": "Camporotondo",
+    "addr:postcode": "67060",
+    "name": "Rifugio Pian delle Scagne",
+    "operator": "Comune di Cappadocia",
+    "operator:type": "public",
+    "tourism": "wilderness_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 10916356858,
+  "lat": 41.9691036,
+  "lon": 13.2671492,
+  "tags": {
+    "access": "yes",
+    "name": "Bivacco Cesacotta",
+    "name:en": "Cesacotta bivouac",
+    "tourism": "wilderness_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 11077415381,
+  "lat": 42.5980192,
+  "lon": 13.4118643,
+  "tags": {
+    "name": "Stazzo Mercurio",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 11645001904,
+  "lat": 41.9729898,
+  "lon": 13.8903615,
+  "tags": {
+    "name": "Rifugio Pelino",
+    "tourism": "wilderness_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 12177874436,
+  "lat": 42.2518167,
+  "lon": 13.3194243,
+  "tags": {
+    "internet_access": "no",
+    "name": "Club degli Alpini",
+    "tourism": "alpine_hut",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12512063317,
+  "lat": 42.3514554,
+  "lon": 13.8084641,
+  "tags": {
+    "name": "Sasso Vivo",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 12778894924,
+  "lat": 42.0525137,
+  "lon": 13.1417773,
+  "tags": {
+    "access": "permissive",
+    "name": "Casetta Simonelli",
+    "tourism": "wilderness_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 12778894928,
+  "lat": 42.0489850,
+  "lon": 13.1486408,
+  "tags": {
+    "access": "unknown",
+    "fireplace": "yes",
+    "name": "Rifugio Campitelli",
+    "tourism": "wilderness_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 12820441444,
+  "lat": 42.9002645,
+  "lon": 13.4584964,
+  "tags": {
+    "name": "Rifugio area camper",
+    "tourism": "wilderness_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 13738457501,
+  "lat": 41.8768317,
+  "lon": 13.0768862,
+  "tags": {
+    "name": "Rifugio Scout Roiate",
+    "phone": "+393455326133",
+    "tourism": "wilderness_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 14106359805,
+  "lat": 42.7596748,
+  "lon": 13.2091736,
+  "tags": {
+    "description": "Rifugio costituito da tre moduli abitativi prefabbricati, in attesa della ricostruzione del rifugio danneggiato dal sisma",
+    "email": "rifugi@crilumaviaggi.com",
+    "fee": "yes",
+    "name": "Rifugio Colle Le Cese",
+    "operator": "Crilumaviaggi",
+    "phone": "+39 392 6426897",
+    "tourism": "alpine_hut",
+    "website": "https://www.crilumaviaggi.com/"
+  }
+},
+{
+  "type": "way",
+  "id": 54579458,
+  "center": {
+    "lat": 42.7647414,
+    "lon": 13.2522696
+  },
+  "tags": {
+    "beds": "8",
+    "building": "yes",
+    "capacity": "8",
+    "description": "cartello 2025-09-17: \"nuova gestione, per info e prenotazioni +39 329 6164514\"",
+    "drinking_water": "yes",
+    "ele": "1577",
+    "email": "info@rifugideisibillini.it",
+    "name": "Rifugio Belvedere",
+    "operator": "Rifugi dei Sibillini",
+    "phone": "+39 330 280 690",
+    "reservation": "recommended",
+    "rooms": "1",
+    "toilets": "yes",
+    "tourism": "alpine_hut",
+    "website": "https://www.rifugideisibillini.it/",
+    "winter_room": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 67720999,
+  "center": {
+    "lat": 42.4886009,
+    "lon": 12.9140073
+  },
+  "tags": {
+    "building": "yes",
+    "internet_access": "no",
+    "name": "Rifugio Mattutino",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 73196824,
+  "center": {
+    "lat": 42.4673618,
+    "lon": 12.9900093
+  },
+  "tags": {
+    "addr:city": "Micigliano",
+    "addr:country": "IT",
+    "addr:place": "Monte Terminilletto",
+    "addr:postcode": "02010",
+    "beds": "12",
+    "building": "yes",
+    "ele": "2108",
+    "email": "info@cairieti.it",
+    "internet_access": "yes",
+    "name": "Rifugio Massimo Rinaldi",
+    "operator": "CAI Rieti",
+    "phone": "+39 328 6786518;+39 0746 202552",
+    "tourism": "alpine_hut",
+    "website": "https://cairieti.it/"
+  }
+},
+{
+  "type": "way",
+  "id": 96207220,
+  "center": {
+    "lat": 42.4771083,
+    "lon": 13.5652240
+  },
+  "tags": {
+    "addr:city": "Pietracamela",
+    "addr:country": "IT",
+    "addr:place": "Vallone delle Cornacchie",
+    "addr:postcode": "64047",
+    "building": "yes",
+    "capacity": "23",
+    "drinking_water": "yes",
+    "ele": "2433",
+    "email": "lucamazzoleni@rifugiofranchetti.it",
+    "internet_access": "yes",
+    "mobile": "+39 333 2324474",
+    "name": "Rifugio Carlo Franchetti",
+    "operator": "Luca Mazzoleni",
+    "phone": "+39 08611725662",
+    "rooms": "1",
+    "toilets": "yes",
+    "tourism": "alpine_hut",
+    "website": "https://rifugiofranchetti.it/",
+    "wikidata": "Q3935487",
+    "wikipedia": "it:Rifugio Carlo Franchetti"
+  }
+},
+{
+  "type": "way",
+  "id": 116694073,
+  "center": {
+    "lat": 42.4753597,
+    "lon": 13.4071303
+  },
+  "tags": {
+    "building": "hut",
+    "description": "Rifugio di proprieta della sezione CAI dell'Aquila situato alle pendici di Monte San Franco nel Parco Nazionale Gran Sasso e Monti della Laga.\n\nAttualmente il rifugio è in ristrutturazione.\n\nPer qualsiasi informazione rivolgersi al CAI L'Aquila\nhttps://ww",
+    "description:it": "Rifugio non gestito, occorre richiedere le chiavi al C.A.I.",
+    "ele": "1700",
+    "internet_access": "no",
+    "name": "Rifugio Antonella Panepucci-Alessandri",
+    "operator": "CAI - Sezione L'Aquila",
+    "tourism": "alpine_hut",
+    "wikidata": "Q28668231",
+    "wikipedia": "it:Rifugio Antonella Panepucci Alessandri"
+  }
+},
+{
+  "type": "way",
+  "id": 117584674,
+  "center": {
+    "lat": 41.9686165,
+    "lon": 13.2396172
+  },
+  "tags": {
+    "alt_name": "Rifugio S.A.I.F.A.R.",
+    "building": "yes",
+    "ele": "1328",
+    "name": "Rifugio SAIFAR",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 118456549,
+  "center": {
+    "lat": 42.4245678,
+    "lon": 13.0979604
+  },
+  "tags": {
+    "building": "yes",
+    "description": "Rifugio Privato. Chiuso. Aperto su richiesta. No service. Closed. Private. Open on request.",
+    "internet_access": "no",
+    "name": "Rifugio Giuseppe Cardellini",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 119443060,
+  "center": {
+    "lat": 41.9426443,
+    "lon": 13.9230369
+  },
+  "tags": {
+    "access": "permissive",
+    "building": "yes",
+    "building:levels": "1",
+    "drinking_water": "no",
+    "ele": "1655",
+    "fee": "no",
+    "name": "Rifugio La Fascia",
+    "reservation": "no",
+    "roof:colour": "lightgrey",
+    "roof:orientation": "across",
+    "roof:shape": "gabled",
+    "tourism": "wilderness_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 120331479,
+  "center": {
+    "lat": 42.4404919,
+    "lon": 13.5712871
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Rifugio Campo Imperatore",
+    "source": "PCN",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 121294985,
+  "center": {
+    "lat": 42.4775046,
+    "lon": 13.4591216
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Rifugio Domenico Fioretti",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 123691119,
+  "center": {
+    "lat": 41.9223884,
+    "lon": 13.3405428
+  },
+  "tags": {
+    "addr:city": "Campo Staffi",
+    "addr:postcode": "03010",
+    "building": "yes",
+    "ele": "1836",
+    "name": "Rifugio Viperella",
+    "operator": "a.s.d circolo Rifugio Viperella",
+    "phone": "+39 347 1665470",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 126705553,
+  "center": {
+    "lat": 42.4481200,
+    "lon": 13.5521002
+  },
+  "tags": {
+    "addr:place": "Monte Portella",
+    "beds": "15",
+    "building": "yes",
+    "capacity": "15",
+    "check_date": "2024-05-17",
+    "ele": "2388",
+    "email": "info@rifugioducadegliabruzzi.it",
+    "internet_access": "yes",
+    "internet_access:fee": "yes",
+    "name": "Rifugio Duca degli Abruzzi",
+    "note": "Alpine hut and winter emergency room closed for renovation",
+    "note:it": "Rifugio e locale invernale di emergenza chiusi per ristrutturazione",
+    "opening_hours": "Jun 01-Sep 30",
+    "operator": "CAI Roma",
+    "phone": "+39 347 5255250",
+    "ref": "923200102",
+    "source": "survey:CAI",
+    "source:ref": "9232001",
+    "tourism": "alpine_hut",
+    "website": "https://www.rifugioducadegliabruzzi.it/",
+    "wikidata": "Q16596611",
+    "wikipedia": "it:Rifugio Duca degli Abruzzi (Gran Sasso)",
+    "winter_room": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 126705557,
+  "center": {
+    "lat": 42.4607428,
+    "lon": 13.5503586
+  },
+  "tags": {
+    "addr:place": "Campo Pericoli",
+    "beds": "12",
+    "building": "yes",
+    "description": "La sua struttura è ancora quella originale e quindi è un rifugio molto spartano: si dorme in uno stanzone unico, non ci sono sorgenti di acqua, l'energia elettrica viene prodotta tramite un pannello fotovoltaico, c'è una radio vhf per le emergenze.",
+    "ele": "2230",
+    "internet_access": "no",
+    "name": "Rifugio Garibaldi",
+    "operator": "CAI L’Aquila",
+    "phone": "+39 3402466219",
+    "tourism": "alpine_hut",
+    "website": "https://www.cailaquila.it/rifugi-e-opere-alpine/attivita-del-rifugio-garibaldi/",
+    "wikidata": "Q28669518",
+    "wikipedia": "it:Rifugio Giuseppe Garibaldi (Gran Sasso)"
+  }
+},
+{
+  "type": "way",
+  "id": 129975618,
+  "center": {
+    "lat": 42.4756456,
+    "lon": 12.9774498
+  },
+  "tags": {
+    "building": "hut",
+    "ele": "1505",
+    "fee": "yes",
+    "internet_access": "no",
+    "name": "La Fossa",
+    "operator": "Legambiente",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 130429697,
+  "center": {
+    "lat": 41.8533117,
+    "lon": 14.2807451
+  },
+  "tags": {
+    "building": "yes",
+    "contact:phone": "+39 0865 94216",
+    "name": "Rifugio di Prato Gentile",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 143839953,
+  "center": {
+    "lat": 42.0884910,
+    "lon": 12.9337946
+  },
+  "tags": {
+    "amenity": "shelter",
+    "building": "yes",
+    "ele": "776",
+    "managed": "no",
+    "name": "La Porcareccia",
+    "official_name": "rifugio forestale La Porcareccia",
+    "tourism": "alpine_hut",
+    "wikimedia_commons": "File:Rifugio Forestale Porcareccia, Parco Naturale Regionale dei Monti Lucretili, Percile, Italia Jun 29, 2021 05-29-39 PM.jpeg"
+  }
+},
+{
+  "type": "way",
+  "id": 151770924,
+  "center": {
+    "lat": 42.8162944,
+    "lon": 13.5756040
+  },
+  "tags": {
+    "building": "yes",
+    "ele": "903",
+    "fee": "yes",
+    "name": "Rifugio Mario Paci - Centro di educazione ambientale",
+    "operator": "CAI - Sezione di Ascoli Piceno",
+    "reservation": "recommended",
+    "restaurant": "yes",
+    "tourism": "alpine_hut",
+    "website": "http://www.rifugiopaci.it"
+  }
+},
+{
+  "type": "way",
+  "id": 152903314,
+  "center": {
+    "lat": 41.8743404,
+    "lon": 13.3873296
+  },
+  "tags": {
+    "building": "yes",
+    "ele": "1630",
+    "name": "Rifugio Cerasoli",
+    "tourism": "wilderness_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 154049829,
+  "center": {
+    "lat": 41.8684224,
+    "lon": 13.3732460
+  },
+  "tags": {
+    "building": "yes",
+    "ele": "1350",
+    "name": "Rifugio Femmina Morta",
+    "tourism": "wilderness_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 158903827,
+  "center": {
+    "lat": 42.5982418,
+    "lon": 13.4671215
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Casetta dei Pastori",
+    "tourism": "wilderness_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 159214941,
+  "center": {
+    "lat": 42.6564528,
+    "lon": 13.4438760
+  },
+  "tags": {
+    "building": "yes",
+    "building:levels": "0",
+    "description": "chiuso",
+    "name": "Rifugio Lago dell'Orso",
+    "tourism": "wilderness_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 159844724,
+  "center": {
+    "lat": 41.9132890,
+    "lon": 13.8205532
+  },
+  "tags": {
+    "access": "permissive",
+    "ele": "1880",
+    "name": "Rifugio Stazzo Montagna Grande",
+    "reservation": "yes",
+    "toilets": "no",
+    "tourism": "wilderness_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 170301807,
+  "center": {
+    "lat": 41.7378555,
+    "lon": 13.9132610
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Rifugio di Forca Resuni",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 206099287,
+  "center": {
+    "lat": 41.9381577,
+    "lon": 13.3160082
+  },
+  "tags": {
+    "building": "yes",
+    "capacity": "10",
+    "contact:website": "https://www.escursionismo.it/rifugi-bivacchi/campo-ceraso-16909",
+    "description": "Rifugio non custodito, stufa a legna, no acqua",
+    "ele": "1561",
+    "fireplace": "yes",
+    "internet_access": "no",
+    "name": "Rifugio Campo Ceraso",
+    "shelter_type": "basic_hut",
+    "tourism": "wilderness_hut",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 224280806,
+  "center": {
+    "lat": 42.2073777,
+    "lon": 13.8572976
+  },
+  "tags": {
+    "access": "private",
+    "building": "house",
+    "image": "https://images.giope.re/buildings/1.jpg",
+    "image:name": "https://images.giope.re/inscriptions/192069.jpg",
+    "name": "Rifugio del colle della Madonna",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 228816616,
+  "center": {
+    "lat": 42.0908479,
+    "lon": 14.0899107
+  },
+  "tags": {
+    "building": "yes",
+    "contact:phone": "+39 085 72303",
+    "name": "Rifugio Ciro Manzini",
+    "operator": "Comune di Fara San Martino",
+    "tourism": "wilderness_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 233566928,
+  "center": {
+    "lat": 42.9402045,
+    "lon": 13.2242531
+  },
+  "tags": {
+    "access": "yes",
+    "building": "yes",
+    "drinking_water": "yes",
+    "ele": "1602",
+    "fee": "no",
+    "name": "Casale Rinaldi",
+    "reservation": "no",
+    "tourism": "wilderness_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 235752374,
+  "center": {
+    "lat": 41.6273641,
+    "lon": 13.1735266
+  },
+  "tags": {
+    "building": "yes",
+    "ele": "1331",
+    "name": "Capanna Cammicciola",
+    "note": "Struttura non gestita.",
+    "tourism": "wilderness_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 235752375,
+  "center": {
+    "lat": 41.6291882,
+    "lon": 13.1490268
+  },
+  "tags": {
+    "building": "hut",
+    "ele": "1180",
+    "fee": "no",
+    "fireplace": "yes",
+    "internet_access": "no",
+    "name": "Rifugio Canai",
+    "note": "Rifugio non gestito",
+    "tourism": "wilderness_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 241109579,
+  "center": {
+    "lat": 41.7611546,
+    "lon": 13.4677009
+  },
+  "tags": {
+    "access": "yes",
+    "building": "yes",
+    "capacity": "8",
+    "ele": "1026",
+    "email": "info@caifrosinone.it",
+    "name": "Capanna Sociale il Casotto",
+    "operator": "Sezione CAI di Frosinone",
+    "phone": "+393339683652",
+    "reservation": "required",
+    "source": "survey:CAI",
+    "survey:date": "2021/03/18",
+    "toilets": "yes",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 243432978,
+  "center": {
+    "lat": 41.6052218,
+    "lon": 14.4037722
+  },
+  "tags": {
+    "building": "yes",
+    "description": "16 posti letto in 1 camerata, 1 bagno con doccia, sala da pranzo con camino, angolo cottura, energia elettrica e riscaldamenti.",
+    "ele": "1254",
+    "name": "Rifugio Ar di Cosa",
+    "source": "Bing, Local knowledge",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 243705569,
+  "center": {
+    "lat": 41.6603603,
+    "lon": 13.9295782
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Il baraccone",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 249726637,
+  "center": {
+    "lat": 41.8572668,
+    "lon": 13.5723763
+  },
+  "tags": {
+    "addr:city": "Collelongo",
+    "addr:street": "Valico Sant'Elia",
+    "building": "yes",
+    "name": "Rifugio Sant'Elia",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 265685654,
+  "center": {
+    "lat": 41.8768142,
+    "lon": 14.1508659
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Ardicari",
+    "operator": "Comune di Ateleta",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 277525413,
+  "center": {
+    "lat": 42.1604580,
+    "lon": 13.6360124
+  },
+  "tags": {
+    "addr:housenumber": "11",
+    "addr:street": "Strada Provinciale 11 Sirentina",
+    "building": "yes",
+    "name": "Chalet del Sirente",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 280114637,
+  "center": {
+    "lat": 42.1999709,
+    "lon": 13.3592535
+  },
+  "tags": {
+    "building": "yes",
+    "ele": "1720",
+    "name": "Rifugio Forestale del Campitello",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 280165988,
+  "center": {
+    "lat": 42.1829321,
+    "lon": 13.3298366
+  },
+  "tags": {
+    "alt_name": "Stazzo Gigi Panei",
+    "amenity": "shelter",
+    "building": "hut",
+    "drinking_water": "no",
+    "ele": "1670",
+    "fireplace": "yes",
+    "name": "Bivacco Gigi Panei",
+    "shelter_type": "basic_hut",
+    "tourism": "wilderness_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 282095749,
+  "center": {
+    "lat": 42.4353013,
+    "lon": 13.7564175
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Rifugio Fonte Torricella",
+    "roof:orientation": "across",
+    "roof:shape": "gabled",
+    "tourism": "alpine_hut",
+    "website": "https://www.facebook.com/rifugiofontetorricella/"
+  }
+},
+{
+  "type": "way",
+  "id": 285950284,
+  "center": {
+    "lat": 42.6992470,
+    "lon": 13.1861949
+  },
+  "tags": {
+    "building": "hut",
+    "fireplace": "yes",
+    "name": "Capanna Federico Tosti",
+    "tourism": "wilderness_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 295338603,
+  "center": {
+    "lat": 41.8564533,
+    "lon": 14.3573462
+  },
+  "tags": {
+    "amenity": "cafe",
+    "building": "yes",
+    "cuisine": "sandwich",
+    "name": "Rifugio Guado Liscia",
+    "tourism": "wilderness_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 301856409,
+  "center": {
+    "lat": 42.2205332,
+    "lon": 13.3350287
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Rifugio Prato San Rocco I",
+    "operator": "Riserva Naturale Montagne della Duchessa",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 301856422,
+  "center": {
+    "lat": 42.2205627,
+    "lon": 13.3364617
+  },
+  "tags": {
+    "building": "yes",
+    "email": "azmontesanroccosrls@libero.it",
+    "internet_access": "no",
+    "name": "Rifugio Prato San Rocco II",
+    "operator": "Azienda Agricola Monte San Rocco",
+    "payment:cash": "yes",
+    "phone": "+393483156450",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 304589677,
+  "center": {
+    "lat": 42.5096272,
+    "lon": 13.5940794
+  },
+  "tags": {
+    "addr:city": "Isola del Gran Sasso d'Italia",
+    "building": "yes",
+    "name": "Rifugio del Fontanino (Rifugio Orazio Dèlfico)",
+    "operator": "CAI Isola del Gran Sasso d'Italia",
+    "roof:orientation": "along",
+    "roof:shape": "gabled",
+    "tourism": "wilderness_hut",
+    "website": "https://www.caiisola.it/index.php?option=com_content&view=article&id=62&Itemid=194"
+  }
+},
+{
+  "type": "way",
+  "id": 305866718,
+  "center": {
+    "lat": 41.6887549,
+    "lon": 13.9917498
+  },
+  "tags": {
+    "building": "yes",
+    "building:levels": "2",
+    "name": "Rifugio del Falco",
+    "operator": "Comune di Pizzone",
+    "tourism": "wilderness_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 307461887,
+  "center": {
+    "lat": 42.1808026,
+    "lon": 13.4684513
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Rifugio D'Eramo",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 307468758,
+  "center": {
+    "lat": 42.3053117,
+    "lon": 13.3808734
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Rifugio Campetello",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 312899217,
+  "center": {
+    "lat": 42.1245576,
+    "lon": 13.4149557
+  },
+  "tags": {
+    "addr:city": "Massa d'Albe",
+    "addr:country": "IT",
+    "addr:postcode": "67050",
+    "beds": "20",
+    "building": "yes",
+    "ele": "1150",
+    "name": "Rifugio Casale da Monte",
+    "phone": "+39 345 162 6570",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 313884987,
+  "center": {
+    "lat": 42.4974089,
+    "lon": 13.4973036
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Rifugio del Monte",
+    "operator": "Arnaldo Di Crescenzo",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 314744335,
+  "center": {
+    "lat": 42.1290589,
+    "lon": 14.1717288
+  },
+  "tags": {
+    "building": "hut",
+    "contact:phone": "+39 0871 895 145",
+    "name": "Rifugio Montagna D'Ugni",
+    "tourism": "wilderness_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 314744336,
+  "center": {
+    "lat": 42.1203133,
+    "lon": 14.1570153
+  },
+  "tags": {
+    "building": "hut",
+    "capacity": "4",
+    "contact:phone": "+39 0871 895 145",
+    "fireplace": "yes",
+    "mattress": "no",
+    "name": "Rifugio Martellese",
+    "tourism": "wilderness_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 318574770,
+  "center": {
+    "lat": 42.4072230,
+    "lon": 13.7451589
+  },
+  "tags": {
+    "addr:city": "Castel del Monte",
+    "addr:street": "Località Fonte Vetica",
+    "amenity": "restaurant",
+    "building": "yes",
+    "cuisine": "regional",
+    "delivery": "no",
+    "drive_through": "no",
+    "name": "Ristoro Mucciante",
+    "phone": "+39 339 885 5751",
+    "smoking": "outside",
+    "takeaway": "yes",
+    "tourism": "alpine_hut",
+    "website": "https://ristoromucciante.it/"
+  }
+},
+{
+  "type": "way",
+  "id": 318754401,
+  "center": {
+    "lat": 42.3814272,
+    "lon": 13.7610004
+  },
+  "tags": {
+    "abandoned": "yes",
+    "building": "hut",
+    "name": "Rifugio Ricotta",
+    "note": "L'edificio è in disuso e in stato di abbandono. The building is in disuse and in a state of neglect. Le bâtiment est tombé en désuétude et a été abandonnée. Das Gebäude ist in Vergessenheit und aufgegeben worden.",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 328252275,
+  "center": {
+    "lat": 41.6988133,
+    "lon": 13.9783281
+  },
+  "tags": {
+    "ele": "1445",
+    "name": "Campitelli",
+    "operator": "Comune di Alfedena",
+    "phone": "+39 0864 87114",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 329219294,
+  "center": {
+    "lat": 42.3362758,
+    "lon": 13.5553360
+  },
+  "tags": {
+    "addr:city": "Poggio Picenze",
+    "building": "yes",
+    "name": "Rifugio Cenerale",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 333612100,
+  "center": {
+    "lat": 41.7738584,
+    "lon": 13.7296357
+  },
+  "tags": {
+    "building": "yes",
+    "ele": "1218",
+    "name": "Rifugio Capo D' acqua",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 339331511,
+  "center": {
+    "lat": 42.6978762,
+    "lon": 13.5770475
+  },
+  "tags": {
+    "building": "yes",
+    "fee": "no",
+    "name": "Il Rifugio del Pastore",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 340379211,
+  "center": {
+    "lat": 41.7532451,
+    "lon": 13.7492772
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Rifugio di Val Lattara",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 345511944,
+  "center": {
+    "lat": 42.1521021,
+    "lon": 14.0985461
+  },
+  "tags": {
+    "building": "yes",
+    "contact:phone": "+39 085 922 343",
+    "ele": "1747",
+    "fireplace": "yes",
+    "name": "Rifugio Marcello Di Marco \"Stazzo di Caramanico\"",
+    "note": "È una costruzione ad un piano composta da due locali. La prima stanza è il locale sempre aperto, con un camino. Nella seconda, chiusa a chiave, ci sono una stufa, una cucina a gas e suppellettili. In questa stanza è stato creato un soppalco, cui si accede",
+    "operator": "CAI Pescara",
+    "ref": "923400501",
+    "short_name": "Rifugio Di Marco",
+    "source": "survey:CAI",
+    "source:ref": "9234005",
+    "tourism": "wilderness_hut",
+    "website": "https://www.caipescara.it/rifugio-marcello-di-marco",
+    "wikidata": "Q130192190"
+  }
+},
+{
+  "type": "way",
+  "id": 356815697,
+  "center": {
+    "lat": 41.9683143,
+    "lon": 13.2507555
+  },
+  "tags": {
+    "building": "yes",
+    "ele": "1329",
+    "name": "Casino di Troili",
+    "operator": "Comune di Vallepietra",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 356852360,
+  "center": {
+    "lat": 41.9895971,
+    "lon": 13.1511093
+  },
+  "tags": {
+    "building": "yes",
+    "building:material": "stone",
+    "drinking_water": "no",
+    "fee": "no",
+    "name": "Rifugio di Camposecco",
+    "roof:colour": "orange",
+    "roof:material": "tile",
+    "roof:shape": "gabled",
+    "tourism": "wilderness_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 367075158,
+  "center": {
+    "lat": 42.1068214,
+    "lon": 13.9516554
+  },
+  "tags": {
+    "building": "yes",
+    "fee": "no",
+    "fireplace": "yes",
+    "name": "Rifugio le Vicenne",
+    "tourism": "wilderness_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 373194350,
+  "center": {
+    "lat": 42.8790510,
+    "lon": 13.3076127
+  },
+  "tags": {
+    "addr:city": "Montemonaco",
+    "addr:country": "IT",
+    "addr:place": "Altino",
+    "addr:postcode": "63088",
+    "building": "yes",
+    "capacity": "50",
+    "description": "Closed after earthquake in center Italy of 2016",
+    "description:it": "Inagibile a causa del terremoto del 2016",
+    "drinking_water": "yes",
+    "ele": "1031",
+    "email": "info@rifugioaltino.it",
+    "fee": "yes",
+    "image": "http://www.numeriopullio.altervista.org/StradeStoriche/wp-content/gallery/OSM/GAB_Immag0243_Altino_rifugio.jpg",
+    "name": "Rifugio Altino",
+    "phone": "+39 0736 610929; +39 338 6769985",
+    "reservation": "recommended",
+    "shower": "yes",
+    "tourism": "alpine_hut",
+    "website": "http://www.rifugioaltino.it/"
+  }
+},
+{
+  "type": "way",
+  "id": 380725739,
+  "center": {
+    "lat": 41.6263421,
+    "lon": 13.1461870
+  },
+  "tags": {
+    "building": "hut",
+    "name": "Rifugio Sorgente Canai",
+    "tourism": "wilderness_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 382202907,
+  "center": {
+    "lat": 41.6587504,
+    "lon": 13.1482257
+  },
+  "tags": {
+    "building": "yes",
+    "capacity:persons": "6-10",
+    "ele": "935",
+    "name": "Rifugio Santa Maria",
+    "operator": "Non gestito",
+    "operator:en": "No Operator",
+    "shelter": "yes",
+    "shelter_type": "hut",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 382204362,
+  "center": {
+    "lat": 41.6596690,
+    "lon": 13.1422423
+  },
+  "tags": {
+    "building": "yes",
+    "ele": "924",
+    "name": "Capanna de' Francisco",
+    "shelter_type": "basic_hut",
+    "tourism": "wilderness_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 383532821,
+  "center": {
+    "lat": 41.8373361,
+    "lon": 13.6657071
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Rifugio Fonte Astuni",
+    "note": "Rifugio gestito dal comune di Villavallelonga.",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 395801569,
+  "center": {
+    "lat": 41.9024981,
+    "lon": 13.5387887
+  },
+  "tags": {
+    "addr:city": "Collelongo",
+    "building": "yes",
+    "ele": "940",
+    "internet_access": "no",
+    "name": "Rifugio Canale",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 401037569,
+  "center": {
+    "lat": 41.6471023,
+    "lon": 13.1539101
+  },
+  "tags": {
+    "building": "yes",
+    "ele": "1190",
+    "name": "Rifugio Casetta Martorelli",
+    "note": "Rifugio privato (cacciatori) di solito aperto. Da usare in caso di necessità.",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 406595264,
+  "center": {
+    "lat": 42.4935394,
+    "lon": 13.5732202
+  },
+  "tags": {
+    "addr:city": "Pietracamela",
+    "building": "ruins",
+    "building:levels": "3",
+    "description": "Anno di costruzione 1935 ca, mai completato Edificio con murature portanti in pietra calcarea locale",
+    "ele": "1980",
+    "name": "Albergo diruto dell'Arapietra",
+    "note": "abbandonato, strutture interne pericolanti",
+    "roof:shape": "gabled",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 411783773,
+  "center": {
+    "lat": 42.8543207,
+    "lon": 13.1967096
+  },
+  "tags": {
+    "access": "private",
+    "addr:city": "Castelsantangelo sul Nera",
+    "addr:country": "IT",
+    "addr:place": "Forca di Gualdo",
+    "addr:postcode": "62039",
+    "building": "yes",
+    "capacity": "12",
+    "ele": "1453",
+    "name": "Rifugio Madonna della Cona",
+    "operator": "CAI Macerata",
+    "phone": "+39 073348704",
+    "reservation": "members_only",
+    "tourism": "wilderness_hut",
+    "website": "http://www.caimacerata.it/"
+  }
+},
+{
+  "type": "way",
+  "id": 421614653,
+  "center": {
+    "lat": 41.9833112,
+    "lon": 13.7811817
+  },
+  "tags": {
+    "ele": "1481",
+    "name": "Rifugio di Monte Mezzana",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 425989514,
+  "center": {
+    "lat": 42.1690470,
+    "lon": 13.5547449
+  },
+  "tags": {
+    "building": "hut",
+    "name": "Centro di osservazione della fauna selvatica",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 425990413,
+  "center": {
+    "lat": 42.1690742,
+    "lon": 13.5574363
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Rifugio La Vecchia",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 430230965,
+  "center": {
+    "lat": 42.8174005,
+    "lon": 13.2685047
+  },
+  "tags": {
+    "access": "yes",
+    "addr:city": "Arquata del Tronto",
+    "addr:country": "IT",
+    "addr:place": "Sella delle Ciaule",
+    "addr:postcode": "63096",
+    "building": "hut",
+    "capacity": "12",
+    "description:it": "Bivacco composto di una sezione sempre aperta con 4 posti letto e di un'altra, fruibile su prenotazione, dotata di 8 cuccette",
+    "drinking_water": "no",
+    "ele": "2253",
+    "fee": "no",
+    "fireplace": "no",
+    "material": "wood;aluminium",
+    "name": "Bivacco Tito Zilioli",
+    "name:etymology:wikidata": "Q100269476",
+    "operator": "CAI Ascoli Piceno",
+    "shower": "no",
+    "tourism": "wilderness_hut",
+    "website": "https://www.rifugiozilioli.it/",
+    "wikidata": "Q3935657",
+    "wikipedia": "it:Rifugio Tito Zilioli"
+  }
+},
+{
+  "type": "way",
+  "id": 430232949,
+  "center": {
+    "lat": 42.7976687,
+    "lon": 13.2743529
+  },
+  "tags": {
+    "building": "yes",
+    "earthquake:damage": "not_evaluated",
+    "name": "Rifugio mezzi litri",
+    "tourism": "alpine_hut",
+    "website": "https://www.mountbnb.com/en/491/rifugio-mezzi-litri/scheda-rifugio"
+  }
+},
+{
+  "type": "way",
+  "id": 430450430,
+  "center": {
+    "lat": 42.8754808,
+    "lon": 13.2694244
+  },
+  "tags": {
+    "building": "yes",
+    "internet_access": "yes",
+    "managed": "yes",
+    "name": "Taverna della Montagna",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 434737416,
+  "center": {
+    "lat": 42.8439670,
+    "lon": 13.3066124
+  },
+  "tags": {
+    "building": "yes",
+    "capacity": "24",
+    "description:it": "Il rifugio non è al momento gestito",
+    "name": "Rifugio Colle Montegallo tappa GAS",
+    "phone": "+39 0736 806310; +39 347 0344263",
+    "tourism": "wilderness_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 436413840,
+  "center": {
+    "lat": 41.7978758,
+    "lon": 13.9246361
+  },
+  "tags": {
+    "building": "yes",
+    "fee": "no",
+    "fireplace": "yes",
+    "name": "Stazzo Montagnola",
+    "operator": "Comune di Villetta Barrea",
+    "tourism": "wilderness_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 438606193,
+  "center": {
+    "lat": 41.8642806,
+    "lon": 13.7173024
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Rifugio della Cicerana",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 438843221,
+  "center": {
+    "lat": 42.7141421,
+    "lon": 13.3451835
+  },
+  "tags": {
+    "access": "private",
+    "building": "yes",
+    "name": "Bivacco della Pedata",
+    "tourism": "wilderness_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 439016112,
+  "center": {
+    "lat": 42.9077539,
+    "lon": 13.2914158
+  },
+  "tags": {
+    "building": "yes",
+    "capacity": "35",
+    "ele": "1540",
+    "email": "info@rifugiosibilla1540.com",
+    "name": "Rifugio Sibilla",
+    "phone": "+39 0736 856422",
+    "tourism": "alpine_hut",
+    "website": "http://www.rifugiosibilla1540.com/",
+    "wikidata": "Q3935631",
+    "wikipedia": "it:Rifugio Sibilla"
+  }
+},
+{
+  "type": "way",
+  "id": 439107655,
+  "center": {
+    "lat": 42.6388274,
+    "lon": 13.5006388
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Rifugio Bilancere",
+    "tourism": "wilderness_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 439659267,
+  "center": {
+    "lat": 42.6928336,
+    "lon": 13.3239573
+  },
+  "tags": {
+    "building": "yes",
+    "description": "costruzione in muratura accessibile della Comunità Montana",
+    "earthquake:damage": "not_evaluated",
+    "ele": "1780",
+    "name": "Rifugio Inversaturo",
+    "source": "local knowledge",
+    "tourism": "wilderness_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 440014839,
+  "center": {
+    "lat": 42.5981324,
+    "lon": 13.3518751
+  },
+  "tags": {
+    "description": "costruzione adatta a riparo di proprietà della Comunità Montana",
+    "earthquake:damage": "no",
+    "name": "Rifugio Le Serre",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 441925375,
+  "center": {
+    "lat": 42.4697106,
+    "lon": 13.0101797
+  },
+  "tags": {
+    "access": "yes",
+    "addr:city": "Micigliano",
+    "addr:country": "IT",
+    "addr:place": "Sella di Leonessa",
+    "addr:postcode": "02010",
+    "beds": "24",
+    "building": "yes",
+    "capacity": "24",
+    "drinking_water": "yes",
+    "ele": "1820",
+    "email": "rifugioangeloebastiani@virgilio.it",
+    "name": "Rifugio Angelo Sebastiani",
+    "operator": "CAI Rieti",
+    "phone": "+39 0746 261184",
+    "rooms": "8",
+    "toilets": "yes",
+    "tourism": "alpine_hut",
+    "website": "https://cairieti.it/",
+    "wikidata": "Q23995164",
+    "wikimedia_commons": "File:RifugioSebastiani.jpg",
+    "wikipedia": "it:Rifugio Angelo Sebastiani",
+    "winter_room": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 451692548,
+  "center": {
+    "lat": 42.9472192,
+    "lon": 13.0271444
+  },
+  "tags": {
+    "access": "yes",
+    "building": "yes",
+    "drinking_water": "yes",
+    "ele": "1290",
+    "email": "info@rifugideisibillini.it",
+    "name": "Casale Saliere",
+    "operator": "Rifugi dei Sibillini",
+    "phone": "+39 330 280 690",
+    "reservation": "required",
+    "toilets": "yes",
+    "tourism": "alpine_hut",
+    "website": "https://www.rifugideisibillini.it/",
+    "winter_room": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 452141175,
+  "center": {
+    "lat": 42.8371023,
+    "lon": 13.3090029
+  },
+  "tags": {
+    "addr:hamlet": "Astorara Colleluce",
+    "addr:postcode": "63094",
+    "addr:street": "Strada Provinciale 151 Sorgenti del Vettore",
+    "amenity": "restaurant",
+    "building": "yes",
+    "capacity": "0",
+    "ele": "1027",
+    "name": "AgriMusicismo CantaAntonella",
+    "opening_hours": "24/7",
+    "outdoor_seating": "yes",
+    "phone": "+39 328 615 7613",
+    "tourism": "alpine_hut",
+    "website": "https://www.facebook.com/cantantonellazar/"
+  }
+},
+{
+  "type": "way",
+  "id": 458822895,
+  "center": {
+    "lat": 42.9158116,
+    "lon": 13.2166039
+  },
+  "tags": {
+    "building": "yes",
+    "fee": "no",
+    "fireplace": "yes",
+    "name": "Casale Monte Berro",
+    "tourism": "wilderness_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 462217261,
+  "center": {
+    "lat": 42.3581478,
+    "lon": 13.8080601
+  },
+  "tags": {
+    "access": "permit",
+    "building": "yes",
+    "contact:email": "sezione@caipenne.it",
+    "contact:phone": "+39 085 8270151",
+    "contact:website": "www.caipenne.it",
+    "ele": "1434",
+    "name": "Rifugio Le Pagliare",
+    "ref": "923400602",
+    "source": "survey:CAI",
+    "source:ref": "9234006",
+    "tourism": "wilderness_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 469922200,
+  "center": {
+    "lat": 42.2297317,
+    "lon": 13.3332175
+  },
+  "tags": {
+    "building": "yes",
+    "fee": "no",
+    "name": "Rifugio del Cerasolo",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 472971699,
+  "center": {
+    "lat": 42.1445429,
+    "lon": 14.0753837
+  },
+  "tags": {
+    "building": "yes",
+    "name": "La Cesa",
+    "tourism": "wilderness_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 472978068,
+  "center": {
+    "lat": 42.1358325,
+    "lon": 14.0607731
+  },
+  "tags": {
+    "amenity": "shelter",
+    "building": "yes",
+    "contact:phone": "+39 085 922343;+39 085 54621",
+    "name": "Rifugio Paolo Barrasso",
+    "shelter_type": "weather_shelter",
+    "tourism": "wilderness_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 474633566,
+  "center": {
+    "lat": 42.2025113,
+    "lon": 13.3193911
+  },
+  "tags": {
+    "building": "yes",
+    "ele": "1739",
+    "name": "Rifugio Fonte la Vena",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 474904366,
+  "center": {
+    "lat": 42.1362990,
+    "lon": 13.4799965
+  },
+  "tags": {
+    "addr:place": "Monte Magnola",
+    "beds": "20",
+    "building": "hut",
+    "description": "Ritiro chiavi presso la sezione CAI di Avezzano. Accessi: da Ovindoli sentiero 2,30h; da valico fonte Capo la Maina per fonte Tavoloni sentiero 3,30h.",
+    "ele": "1980",
+    "email": "avezzano@cai.it",
+    "name": "Rifugio Telespazio",
+    "operator": "CAI Avezzano",
+    "phone": "+39 333 5720691",
+    "ref": "923401301",
+    "reservation": "members_only",
+    "source": "survey:CAI",
+    "source:ref": "9234013",
+    "tourism": "wilderness_hut",
+    "website": "http://caiavezzano.it/"
+  }
+},
+{
+  "type": "way",
+  "id": 477865345,
+  "center": {
+    "lat": 42.0862877,
+    "lon": 14.0864095
+  },
+  "tags": {
+    "bench": "yes",
+    "bin": "no",
+    "building": "yes",
+    "capacity:beds": "10",
+    "contact:mobile": "+39 331 3742409",
+    "description": "A partire da 19/8/2025, il Bivacco Pelino sulla cima del Monte Amaro (2.793 m), vetta più elevata del massiccio della Maiella, non risulterà più utilizzabile. Sarà a breve smantellato per lasciare il posto a una nuova struttura.https://www.loscarpone.cai.",
+    "disused:tourism": "wilderness_hut",
+    "ele": "2790",
+    "fee": "no",
+    "fireplace": "no",
+    "name": "Bivacco Cesare Mario Pelino",
+    "operator": "CAI",
+    "roof:colour": "red",
+    "roof:height": "4",
+    "roof:shape": "dome",
+    "shelter_type": "basic_hut",
+    "tourism": "wilderness_hut",
+    "wikimedia_commons": "File:Bivacco_Pelino_Monte_amaro_sunrise_hhzs.jpg"
+  }
+},
+{
+  "type": "way",
+  "id": 480998485,
+  "center": {
+    "lat": 42.0906926,
+    "lon": 13.9949506
+  },
+  "tags": {
+    "building": "yes",
+    "contact:phone": "+39085922343",
+    "ele": "1755",
+    "fireplace": "yes",
+    "name": "Rifugio Capoposto",
+    "tourism": "wilderness_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 482226026,
+  "center": {
+    "lat": 41.9705785,
+    "lon": 14.0163700
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Rifugio Il Maio",
+    "tourism": "wilderness_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 489096532,
+  "center": {
+    "lat": 41.6595290,
+    "lon": 13.1300304
+  },
+  "tags": {
+    "building": "yes",
+    "ele": "820",
+    "name": "Rifugio Valle Forana",
+    "note": "Aperto su richiesta",
+    "operator": "Tiziano Camilli",
+    "phone": "+39 339 2544383",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 490591470,
+  "center": {
+    "lat": 42.5000282,
+    "lon": 13.5602262
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Corpo Nazionale Soccorso Alpino e Speleologico stazione operativa Prati di Tivo Rifugio",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 490686818,
+  "center": {
+    "lat": 42.4595928,
+    "lon": 13.5924272
+  },
+  "tags": {
+    "beds": "4",
+    "building": "yes",
+    "description": "Rifugio con 4 posti letto e servizi igienici esterni. Di proprietà della sezione CAI di Isola Del Gran Sasso a cui fare richiesta delle chiavi ed eventuali prenotazioni.",
+    "ele": "1655",
+    "internet_access": "no",
+    "name": "Rifugio Nicola D'arcangelo",
+    "phone": "+39 0861 975450",
+    "reservation": "required",
+    "tourism": "alpine_hut",
+    "website": "https://www.isoladelgransasso.it/"
+  }
+},
+{
+  "type": "way",
+  "id": 490688237,
+  "center": {
+    "lat": 41.6150182,
+    "lon": 14.3826580
+  },
+  "tags": {
+    "building": "yes",
+    "description": "16 posti letto in 2 camerate, 2 bagni con doccia, sala da pranzo con camino, cucina, energia elettrica e riscaldamenti.",
+    "ele": "1393",
+    "name": "Rifugio Colle dell'Orso",
+    "power_supply": "yes",
+    "shower": "yes",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 493263536,
+  "center": {
+    "lat": 41.6213709,
+    "lon": 14.2775587
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Rifugio Fonte Maiuri",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 494033941,
+  "center": {
+    "lat": 41.7616373,
+    "lon": 13.7553192
+  },
+  "tags": {
+    "name": "Rifugio di Monte Tranquillo",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 494033961,
+  "center": {
+    "lat": 41.7589588,
+    "lon": 13.5307136
+  },
+  "tags": {
+    "alt_name": "Rifugio Cisterne",
+    "building": "yes",
+    "check_date": "2026-04-10",
+    "description:it": "Rifugio denominato Benedetto Trombetta, gestito dal Comune di Sora",
+    "ele": "1132",
+    "internet_access": "no",
+    "name": "Rifugio Trombetta",
+    "name:it": "Rifugio Trombetta",
+    "operator": "Comune di Sora",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 494034097,
+  "center": {
+    "lat": 41.7958762,
+    "lon": 13.7303384
+  },
+  "tags": {
+    "ele": "1835",
+    "name": "Rifugio Di Iorio",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 501081016,
+  "center": {
+    "lat": 42.5110370,
+    "lon": 13.0152034
+  },
+  "tags": {
+    "amenity": "shelter",
+    "ele": "1732",
+    "fireplace": "yes",
+    "name": "Rifugio Giuseppe Bonanni",
+    "old_name": "Rifugio Vallebona",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 501081019,
+  "center": {
+    "lat": 42.5005198,
+    "lon": 13.0090057
+  },
+  "tags": {
+    "ele": "1704",
+    "name": "Rifugio Maiolica",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 502794965,
+  "center": {
+    "lat": 41.7446593,
+    "lon": 14.2942844
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Bivacco San Mauro",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 508292458,
+  "center": {
+    "lat": 42.0378733,
+    "lon": 14.1603698
+  },
+  "tags": {
+    "building": "hut",
+    "name": "Rifugio Fonte Tari Lama dei Peligni",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 508292476,
+  "center": {
+    "lat": 42.0337509,
+    "lon": 14.1422686
+  },
+  "tags": {
+    "alt_name": "Rifugio Macchia di Taranta",
+    "building": "hut",
+    "capacity": "19",
+    "contact:phone": "+39 0872 910 118",
+    "name": "Rifugio Taranta Peligna",
+    "operator": "CAI Lanciano",
+    "tourism": "alpine_hut",
+    "winter_room": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 511795869,
+  "center": {
+    "lat": 41.9220768,
+    "lon": 13.6151776
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Rifugio Pietre Scritte",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 513590857,
+  "center": {
+    "lat": 41.8274815,
+    "lon": 13.3650753
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Rifugio Enel di Campovano",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 528333729,
+  "center": {
+    "lat": 42.1608103,
+    "lon": 13.3669848
+  },
+  "tags": {
+    "beds": "10",
+    "building": "yes",
+    "ele": "2119",
+    "name": "Rifugio Capanna di Sevice",
+    "operator": "G.E.V. Magliano de' Marsi",
+    "phone": "+39 380 543100",
+    "rooms": "2",
+    "tourism": "alpine_hut",
+    "website": "https://www.montevelinogev.it/"
+  }
+},
+{
+  "type": "way",
+  "id": 528342047,
+  "center": {
+    "lat": 42.1198391,
+    "lon": 13.4865901
+  },
+  "tags": {
+    "addr:city": "Ovindoli",
+    "addr:country": "IT",
+    "addr:place": "Monte Magnola",
+    "addr:postcode": "67046",
+    "alt_name": "Rifugio Piero Concia",
+    "beds": "12",
+    "building": "yes",
+    "description": "Il rifugio è dotato di 12 posti letto a castello di bagno, luce da pannello solare ecc. Dall' esterno si accede ad un locale invernale sempre aperto per ogni esigenza e con generi di prima necessità. E' gestito nei fine settimana di Luglio e tutto il mes",
+    "ele": "1390",
+    "email": "rifugiofontetavoloni@alice.it",
+    "name": "Rifugio Fonte Tavoloni",
+    "operator": "CAI Avezzano",
+    "phone": "+39 340 371 4559",
+    "tourism": "alpine_hut",
+    "website": "http://caiavezzano.it/"
+  }
+},
+{
+  "type": "way",
+  "id": 530052478,
+  "center": {
+    "lat": 41.8033185,
+    "lon": 13.8401072
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Stazzo di Monte Marsicano (Rifugio non gestito)",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 539905726,
+  "center": {
+    "lat": 42.3815839,
+    "lon": 13.2238859
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Rifugio Acqua Crovella",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 564644725,
+  "center": {
+    "lat": 42.1245862,
+    "lon": 13.3633788
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Rifugio L.A.M.F.O.R.",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 571668839,
+  "center": {
+    "lat": 41.9987220,
+    "lon": 13.2230440
+  },
+  "tags": {
+    "building": "yes",
+    "fireplace": "yes",
+    "name": "Rifugio Forestale",
+    "tourism": "wilderness_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 595461256,
+  "center": {
+    "lat": 42.4649131,
+    "lon": 13.3029414
+  },
+  "tags": {
+    "building": "yes",
+    "capacity": "23",
+    "ele": "1277",
+    "name": "Rifugio Santa Pupa",
+    "operator": "CAI L'Aquila",
+    "tourism": "alpine_hut",
+    "winter_room": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 595464274,
+  "center": {
+    "lat": 41.7024569,
+    "lon": 13.8538807
+  },
+  "tags": {
+    "building": "yes",
+    "capacity": "16",
+    "ele": "1230",
+    "name": "Rifugio Valle Fischia",
+    "operator": "CAI Frosinone",
+    "tourism": "wilderness_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 607666251,
+  "center": {
+    "lat": 42.0240606,
+    "lon": 13.2136767
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Rifugio Fonte della Spina",
+    "tourism": "wilderness_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 607675362,
+  "center": {
+    "lat": 41.9941603,
+    "lon": 13.2534830
+  },
+  "tags": {
+    "building": "yes",
+    "fireplace": "yes",
+    "name": "Rifugio Pratalata",
+    "tourism": "wilderness_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 627755108,
+  "center": {
+    "lat": 41.9648306,
+    "lon": 13.9284120
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Rifugio \"Il Lago\"",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 627755115,
+  "center": {
+    "lat": 41.9239721,
+    "lon": 13.9415159
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Rifugio del Pelosello",
+    "tourism": "wilderness_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 628817782,
+  "center": {
+    "lat": 41.8620269,
+    "lon": 14.3658032
+  },
+  "tags": {
+    "building": "shelter",
+    "name": "Rifugio Forestale Montecastelbarone",
+    "roof:material": "roof_tiles",
+    "roof:orientation": "along",
+    "roof:shape": "gabled",
+    "tourism": "wilderness_hut",
+    "window": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 630289796,
+  "center": {
+    "lat": 41.8873643,
+    "lon": 13.6845923
+  },
+  "tags": {
+    "building": "yes",
+    "ele": "1450",
+    "name": "La Guardia",
+    "tourism": "alpine_hut",
+    "wikidata": "Q140374412",
+    "wikimedia_commons": "Category:La Guardia (Lecce nei Marsi)",
+    "wikipedia": "it:La Guardia (Lecce nei Marsi)"
+  }
+},
+{
+  "type": "way",
+  "id": 638976692,
+  "center": {
+    "lat": 42.0358375,
+    "lon": 13.1878006
+  },
+  "tags": {
+    "building": "yes",
+    "fireplace": "yes",
+    "name": "Rifugio Acquaramata",
+    "tourism": "wilderness_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 648525223,
+  "center": {
+    "lat": 41.6254627,
+    "lon": 13.9486908
+  },
+  "tags": {
+    "building": "yes",
+    "name": "rifugio Selvapiana",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 648525347,
+  "center": {
+    "lat": 41.6208084,
+    "lon": 13.9551284
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Rifugio Aceroni",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 651742147,
+  "center": {
+    "lat": 41.9514901,
+    "lon": 13.3625858
+  },
+  "tags": {
+    "building": "yes",
+    "capacity": "15",
+    "contact:mobile": "+39 333 7162217",
+    "description": "Camera matrimoniale e 12 posti letto a castello",
+    "fee": "yes",
+    "name": "Rifugio del Principe",
+    "tourism": "alpine_hut",
+    "website": "http://www.rifugiodelprincipe.com/home"
+  }
+},
+{
+  "type": "way",
+  "id": 676177505,
+  "center": {
+    "lat": 42.0967277,
+    "lon": 14.0454438
+  },
+  "tags": {
+    "access": "private",
+    "drinking_water": "yes",
+    "name": "Rif. Di Donato",
+    "reservation": "members_only",
+    "tourism": "wilderness_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 677746190,
+  "center": {
+    "lat": 41.9694032,
+    "lon": 13.6829889
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Rifugio Capo Croce",
+    "tourism": "wilderness_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 689885365,
+  "center": {
+    "lat": 41.9803398,
+    "lon": 13.8785122
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Rifugio Risvolta",
+    "tourism": "wilderness_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 693731029,
+  "center": {
+    "lat": 42.3744906,
+    "lon": 13.0703705
+  },
+  "tags": {
+    "addr:place": "Piano del Monte",
+    "alt_name": "Casale Cicerone",
+    "beds": "12",
+    "building": "yes",
+    "capacity": "12",
+    "drinking_water": "yes",
+    "ele": "1240",
+    "name": "Rifugio Borgovelino",
+    "toilets": "yes",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 693732967,
+  "center": {
+    "lat": 42.3704056,
+    "lon": 13.0893937
+  },
+  "tags": {
+    "building": "yes",
+    "ele": "1450",
+    "fee": "no",
+    "name": "Rifugio Romolo De Angelis",
+    "operator": "Cignali ROAD Antrodoco ASD",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 722674431,
+  "center": {
+    "lat": 42.4438023,
+    "lon": 13.3055669
+  },
+  "tags": {
+    "building": "hut",
+    "name": "Rifugio Chicchirichi",
+    "source": "local knowledge;aerial imagery",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 726606281,
+  "center": {
+    "lat": 41.7716573,
+    "lon": 13.5461814
+  },
+  "tags": {
+    "ele": "972",
+    "name": "Rifugio Sambucito",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 729517235,
+  "center": {
+    "lat": 41.6217796,
+    "lon": 13.1751746
+  },
+  "tags": {
+    "building": "yes",
+    "ele": "1240",
+    "name": "Rifugio dei Cacciatori",
+    "operator": "Non gestito",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 761335357,
+  "center": {
+    "lat": 41.6303702,
+    "lon": 13.1445612
+  },
+  "tags": {
+    "addr:city": "Gorga",
+    "building": "yes",
+    "ele": "1161",
+    "name": "Rifugio dell'Orso",
+    "note": "No acqua",
+    "operator": "Associazione Amici del Cavallo",
+    "tourism": "wilderness_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 763417780,
+  "center": {
+    "lat": 41.6017410,
+    "lon": 13.1658678
+  },
+  "tags": {
+    "building": "yes",
+    "ele": "1088",
+    "fee": "no",
+    "fireplace": "yes",
+    "internet_access": "no",
+    "name": "Capanna Maguccio",
+    "note": "Molto spartano! Caminetto funzionante, tavolo per braciata, facilmente raggiungibile da macchina",
+    "operator": "Non gestito",
+    "shelter_type": "hut",
+    "tourism": "wilderness_hut",
+    "website": "https://www.lepiniorientali.it/project/rifugi_mlo/rifugi_mlo.htm"
+  }
+},
+{
+  "type": "way",
+  "id": 764637248,
+  "center": {
+    "lat": 41.8883546,
+    "lon": 13.8156764
+  },
+  "tags": {
+    "amenity": "shelter",
+    "building": "yes",
+    "ele": "1780",
+    "email": "info@wildlifeadventures.it",
+    "name": "Rifugio Terraegna",
+    "phone": "+39 0863 399696",
+    "reservation": "required",
+    "shower": "yes",
+    "tourism": "alpine_hut",
+    "website": "https://www.wildlifeadventures.it",
+    "winter_room": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 767597199,
+  "center": {
+    "lat": 42.5174239,
+    "lon": 12.9880533
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Rifugio Vallonina",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 795886167,
+  "center": {
+    "lat": 41.9209229,
+    "lon": 13.1779727
+  },
+  "tags": {
+    "building": "yes",
+    "ele": "1400",
+    "name": "Rifugio Forestale",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 795924060,
+  "center": {
+    "lat": 41.9671218,
+    "lon": 13.3151804
+  },
+  "tags": {
+    "building": "yes",
+    "description": "Rifugio gestito da Geomont Abruzzo, solo Agosto. tel prenotazioni: 3476873118",
+    "ele": "1452",
+    "fee": "yes",
+    "internet_access": "no",
+    "name": "Rifugio Cesa Volpe",
+    "operator": "Geomont Abruzzo",
+    "phone": "+39 347 6873118",
+    "reservation": "required",
+    "rooms": "2",
+    "tourism": "wilderness_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 795924062,
+  "center": {
+    "lat": 41.9372786,
+    "lon": 13.3457763
+  },
+  "tags": {
+    "building": "yes",
+    "building:levels": "1",
+    "height": "6",
+    "name": "Rifuglio Colle Mozzone",
+    "roof:colour": "orange",
+    "roof:material": "tile",
+    "roof:shape": "gabled",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 853269634,
+  "center": {
+    "lat": 41.7969791,
+    "lon": 13.9353391
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Rifugio Le Macchie",
+    "tourism": "wilderness_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 883266456,
+  "center": {
+    "lat": 41.8362676,
+    "lon": 13.3655739
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Fonte del Pozzotello",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 893149449,
+  "center": {
+    "lat": 41.8328081,
+    "lon": 13.3376424
+  },
+  "tags": {
+    "building": "yes",
+    "ele": "1780",
+    "name": "Rifugio Mario Calderari",
+    "operator": "CAI Frosinone",
+    "phone": "+39 0775 435939",
+    "power_supply": "yes",
+    "ref": "923200301",
+    "shower": "no",
+    "source": "survey:CAI",
+    "source:ref": "9232003",
+    "tourism": "wilderness_hut",
+    "website": "https://www.rifugiappennino.it/RifugioMarioCalderari"
+  }
+},
+{
+  "type": "way",
+  "id": 902804188,
+  "center": {
+    "lat": 42.4963272,
+    "lon": 12.9556941
+  },
+  "tags": {
+    "building": "yes",
+    "name": "rifugio Castiglioni",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 903128900,
+  "center": {
+    "lat": 41.9801208,
+    "lon": 13.8698402
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Rifugio La Defenza",
+    "tourism": "wilderness_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 903606109,
+  "center": {
+    "lat": 41.6197350,
+    "lon": 13.0127051
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Jo Volubro",
+    "operator": "Associazione per la tutela dell'altopiano di collemezzo",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 910812581,
+  "center": {
+    "lat": 42.2854665,
+    "lon": 13.4238038
+  },
+  "tags": {
+    "building": "yes",
+    "internet_access": "no",
+    "name": "Ricovero per pastori",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 910812584,
+  "center": {
+    "lat": 42.3029637,
+    "lon": 13.4122648
+  },
+  "tags": {
+    "building": "yes",
+    "internet_access": "no",
+    "name": "Ricovero per pastori",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 917752612,
+  "center": {
+    "lat": 41.9167199,
+    "lon": 13.5959469
+  },
+  "tags": {
+    "building": "yes",
+    "name": "rifugio Aranello",
+    "operator": "Comune di Collelongo",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 944849817,
+  "center": {
+    "lat": 42.2433341,
+    "lon": 13.2891305
+  },
+  "tags": {
+    "building": "yes",
+    "layer": "-1",
+    "name": "Ferrarecce",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 945055787,
+  "center": {
+    "lat": 41.6119320,
+    "lon": 14.3736452
+  },
+  "tags": {
+    "access": "customers",
+    "building": "farm",
+    "ele": "1240",
+    "fee": "no",
+    "fireplace": "yes",
+    "name": "Rifugio",
+    "opening_hours": "closed",
+    "power_supply": "yes",
+    "shower": "yes",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 1013138686,
+  "center": {
+    "lat": 42.1790818,
+    "lon": 13.3924204
+  },
+  "tags": {
+    "addr:city": "Rocca di Mezzo",
+    "addr:postcode": "67048",
+    "alt_name": "Rifugio Sebastiani",
+    "beds": "13",
+    "building": "yes",
+    "description": "dispone di 13 posti letto nella camerata principale. Dispone di coperte e cuscini; è quindi necessario portare con sé il sacco-lenzuolo o il sacco a pelo. non dispone di acqua e non ci sono sorgenti vicine. elettricità data da pannelli fotovoltaici",
+    "ele": "2102",
+    "email": "info@rifugiovincenzosebastiani.it",
+    "fee": "yes",
+    "internet_access": "no",
+    "level": "1",
+    "name": "Rifugio Vincenzo Sebastiani",
+    "operator": "CAI Roma",
+    "phone": "+39 368 279463",
+    "roof:levels": "1",
+    "roof:shape": "skillion",
+    "tourism": "alpine_hut",
+    "website": "https://www.rifugiovincenzosebastiani.it/",
+    "wikidata": "Q3935673",
+    "wikipedia": "it:Rifugio Vincenzo Sebastiani",
+    "winter_room": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1047061017,
+  "center": {
+    "lat": 41.6672693,
+    "lon": 12.9702043
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Rifugio dell'Escursionista",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 1047061026,
+  "center": {
+    "lat": 41.6667362,
+    "lon": 12.9697019
+  },
+  "tags": {
+    "building": "yes",
+    "email": "info@nickavventura.it",
+    "name": "Rifugio la Cesa dei Monti Lepini",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 1053104690,
+  "center": {
+    "lat": 41.8175240,
+    "lon": 13.4766611
+  },
+  "tags": {
+    "building": "yes",
+    "ele": "1321",
+    "name": "Rifugio Fracassi",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 1056772719,
+  "center": {
+    "lat": 42.3749830,
+    "lon": 13.8311240
+  },
+  "tags": {
+    "addr:city": "Civitella Casanova",
+    "building": "yes",
+    "ele": "1320",
+    "name": "Rifugio Pantani",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 1060239699,
+  "center": {
+    "lat": 41.9498622,
+    "lon": 13.7179588
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Rifugio Monte Serrone",
+    "operator": "Club Alpino Italiano",
+    "source": "survey:CAI",
+    "tourism": "wilderness_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 1075075683,
+  "center": {
+    "lat": 42.3816067,
+    "lon": 13.2068143
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Rifugio Monte Calvo",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 1079372965,
+  "center": {
+    "lat": 41.6297934,
+    "lon": 13.1747420
+  },
+  "tags": {
+    "building": "yes",
+    "ele": "1315",
+    "name": "Rifugio Croce i Preti",
+    "note": "Struttura non gestita.",
+    "tourism": "wilderness_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 1109130082,
+  "center": {
+    "lat": 41.7592170,
+    "lon": 13.8370126
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Stazzo Vallefredda",
+    "tourism": "wilderness_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 1185307639,
+  "center": {
+    "lat": 41.6260502,
+    "lon": 12.9488194
+  },
+  "tags": {
+    "access": "permit",
+    "building": "yes",
+    "contact:phone": "+393398701187",
+    "name": "Casetta forestale",
+    "tourism": "wilderness_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 1193696630,
+  "center": {
+    "lat": 41.7862221,
+    "lon": 13.7726324
+  },
+  "tags": {
+    "name": "Baita Alpina Padre Terzi",
+    "operator": "CAI Pescasseroli",
+    "phone": "+393496454384",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 1197030973,
+  "center": {
+    "lat": 42.5501161,
+    "lon": 13.1934156
+  },
+  "tags": {
+    "bench": "yes",
+    "building": "yes",
+    "name": "Rifugio Luigi Ferretti",
+    "tourism": "wilderness_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 1198259427,
+  "center": {
+    "lat": 42.6147098,
+    "lon": 13.1277518
+  },
+  "tags": {
+    "building": "yes",
+    "description": "Il rifugio, che si trova a una quota di 1.540 mt,, è dedicato all'alpino Adamo Mannetti di Cittareale medaglia d'argento al valor militare.",
+    "name": "Rifugio Adamo Mannetti",
+    "operator": "Non gestio",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 1202919393,
+  "center": {
+    "lat": 42.2494022,
+    "lon": 13.2136558
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Refuge",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 1286987318,
+  "center": {
+    "lat": 42.8539069,
+    "lon": 13.2381265
+  },
+  "tags": {
+    "amenity": "shelter",
+    "building": "yes",
+    "capacity": "4",
+    "ele": "2002",
+    "fireplace": "yes",
+    "mattress": "no",
+    "name": "Casale Argentella",
+    "shelter_type": "basic_hut",
+    "source": "survey",
+    "tourism": "wilderness_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 1347975138,
+  "center": {
+    "lat": 42.4320697,
+    "lon": 13.6992359
+  },
+  "tags": {
+    "access": "yes",
+    "building": "yes",
+    "fireplace": "no",
+    "name": "Bivacco Desiati (ex Lubrano)",
+    "tourism": "wilderness_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 1390814624,
+  "center": {
+    "lat": 41.6285045,
+    "lon": 14.3764765
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Rifugio San Lorenzo",
+    "opening_hours": "closed",
+    "source": "microsoft/BuildingFootprints",
+    "tourism": "alpine_hut",
+    "wikimedia_commons": "File:Rifugio San Lorenzo, Civitanova del Sannio, Molise.jpg"
+  }
+},
+{
+  "type": "way",
+  "id": 1394945409,
+  "center": {
+    "lat": 41.7532047,
+    "lon": 13.7258698
+  },
+  "tags": {
+    "addr:city": "Campoli Appennino",
+    "addr:postcode": "03030",
+    "addr:street": "Strada Regionale 666 di Sora",
+    "building": "yes",
+    "email": "info@csorsamaggiore.com",
+    "name": "Rifugio Orsa Maggiore",
+    "phone": "+393514729394",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 1412259823,
+  "center": {
+    "lat": 42.6039526,
+    "lon": 13.0143166
+  },
+  "tags": {
+    "alt_name": "Rifugio Monte Tolentino",
+    "building": "yes",
+    "ele": "1496",
+    "name": "Rifigio Palmieri",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 1435920784,
+  "center": {
+    "lat": 42.0935091,
+    "lon": 13.6178687
+  },
+  "tags": {
+    "access": "yes",
+    "building": "yes",
+    "drinking_water": "no",
+    "fee": "no",
+    "fireplace": "yes",
+    "name": "La Canala",
+    "tourism": "wilderness_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 1455471395,
+  "center": {
+    "lat": 42.0370907,
+    "lon": 13.2038353
+  },
+  "tags": {
+    "access": "yes",
+    "building": "yes",
+    "fireplace": "yes",
+    "name": "Rifugio Piana del Pozzo",
+    "tourism": "wilderness_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 1455480447,
+  "center": {
+    "lat": 42.0218745,
+    "lon": 13.3077004
+  },
+  "tags": {
+    "building": "yes",
+    "fireplace": "yes",
+    "name": "Rifugio \"Danilo Gargano\"",
+    "tourism": "wilderness_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 1523437661,
+  "center": {
+    "lat": 41.6142100,
+    "lon": 14.3721550
+  },
+  "tags": {
+    "access": "customers",
+    "building": "farm",
+    "ele": "1240",
+    "fee": "no",
+    "fireplace": "yes",
+    "name": "Rifugio",
+    "opening_hours": "closed",
+    "power_supply": "yes",
+    "shower": "yes",
+    "tourism": "alpine_hut"
+  }
+}
+
+  ]
+}

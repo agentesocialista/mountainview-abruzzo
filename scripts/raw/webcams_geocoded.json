@@ -1,0 +1,1262 @@
+[
+  {
+    "key": "a1",
+    "label": "Rifugio Duca degli Abruzzi",
+    "elevation": 2388,
+    "province": " Provincia de L'Aquila",
+    "lat": 42.4481102,
+    "lon": 13.5521006,
+    "geocoded": true,
+    "displayName": "Rifugio Duca degli Abruzzi, Monte Portella, L'Aquila, Abruzzo, 67026, Italia"
+  },
+  {
+    "key": "a2",
+    "label": "Campo Imperatore",
+    "elevation": 2137,
+    "province": " Provincia de L'Aquila",
+    "lat": 42.4430453,
+    "lon": 13.5587238,
+    "geocoded": true,
+    "displayName": "Campo Imperatore, L'Aquila, Abruzzo, 67026, Italia"
+  },
+  {
+    "key": "a3",
+    "label": "Campo Imperatore",
+    "elevation": 1950,
+    "province": " Provincia de L'Aquila",
+    "lat": 42.4430453,
+    "lon": 13.5587238,
+    "geocoded": true,
+    "displayName": "Campo Imperatore, L'Aquila, Abruzzo, 67026, Italia"
+  },
+  {
+    "key": "a4",
+    "label": "Campo Imperatore",
+    "elevation": 2130,
+    "province": " Provincia de L'Aquila",
+    "lat": 42.4430453,
+    "lon": 13.5587238,
+    "geocoded": true,
+    "displayName": "Campo Imperatore, L'Aquila, Abruzzo, 67026, Italia"
+  },
+  {
+    "key": "a5",
+    "label": "Campo Imperatore",
+    "elevation": 2130,
+    "province": " Provincia de L'Aquila",
+    "lat": 42.4430453,
+    "lon": 13.5587238,
+    "geocoded": true,
+    "displayName": "Campo Imperatore, L'Aquila, Abruzzo, 67026, Italia"
+  },
+  {
+    "key": "a6",
+    "label": "Campo Imperatore",
+    "elevation": 2130,
+    "province": " Provincia de L'Aquila",
+    "lat": 42.4430453,
+    "lon": 13.5587238,
+    "geocoded": true,
+    "displayName": "Campo Imperatore, L'Aquila, Abruzzo, 67026, Italia"
+  },
+  {
+    "key": "a7",
+    "label": "Rifugio Capanna di Sevice",
+    "elevation": 2119,
+    "province": " Provincia de L'Aquila",
+    "lat": 42.1608044,
+    "lon": 13.3669932,
+    "geocoded": true,
+    "displayName": "Rifugio Capanna di Sevice, 1E, Borgorose, Lucoli, L'Aquila, Abruzzo, Italia"
+  },
+  {
+    "key": "a8",
+    "label": "Rifugio Capanna di Sevice",
+    "elevation": 2119,
+    "province": " Provincia de L'Aquila",
+    "lat": 42.1608044,
+    "lon": 13.3669932,
+    "geocoded": true,
+    "displayName": "Rifugio Capanna di Sevice, 1E, Borgorose, Lucoli, L'Aquila, Abruzzo, Italia"
+  },
+  {
+    "key": "a9",
+    "label": "Rifugio Capanna di Sevice",
+    "elevation": 2119,
+    "province": " Provincia de L'Aquila",
+    "lat": 42.1608044,
+    "lon": 13.3669932,
+    "geocoded": true,
+    "displayName": "Rifugio Capanna di Sevice, 1E, Borgorose, Lucoli, L'Aquila, Abruzzo, Italia"
+  },
+  {
+    "key": "a10",
+    "label": "Monte Genzana",
+    "elevation": 1980,
+    "province": " Provincia de L'Aquila",
+    "lat": 41.9480498,
+    "lon": 13.8874474,
+    "geocoded": true,
+    "displayName": "Monte Genzana, Scanno, L'Aquila, Abruzzo, 67038, Italia"
+  },
+  {
+    "key": "a11",
+    "label": "Ovindoli [Piste da Sci]",
+    "elevation": 1750,
+    "province": " Provincia de L'Aquila",
+    "lat": 42.137031,
+    "lon": 13.516097,
+    "geocoded": true,
+    "displayName": "Ovindoli, L'Aquila, Abruzzo, 67046, Italia"
+  },
+  {
+    "key": "a12",
+    "label": "Campo Felice",
+    "elevation": 1538,
+    "province": " Provincia de L'Aquila",
+    "lat": 42.2062548,
+    "lon": 13.4650464,
+    "geocoded": true,
+    "displayName": "Campo Felice, Rocca di Cambio, L'Aquila, Abruzzo, Italia"
+  },
+  {
+    "key": "a128",
+    "label": "Passo Godi",
+    "elevation": 1562,
+    "province": " Provincia de L'Aquila",
+    "lat": 41.8439051,
+    "lon": 13.9309955,
+    "geocoded": true,
+    "displayName": "Passo Godi, Scanno, L'Aquila, Abruzzo, Italia"
+  },
+  {
+    "key": "a14",
+    "label": "Montecristo",
+    "elevation": 1475,
+    "province": " Provincia de L'Aquila",
+    "lat": 42.4145619,
+    "lon": 13.5581495,
+    "geocoded": true,
+    "displayName": "Piazzale di Montecristo, L'Aquila, Abruzzo, 67026, Italia"
+  },
+  {
+    "key": "a15",
+    "label": "Rifugio Fioretti",
+    "elevation": 1500,
+    "province": " Provincia de L'Aquila",
+    "lat": 42.4436807,
+    "lon": 13.2575838,
+    "geocoded": true,
+    "displayName": "Colle Fioretti, Barete, L'Aquila, Abruzzo, 67012, Italia"
+  },
+  {
+    "key": "a16",
+    "label": "Piani Di Pezza",
+    "elevation": 1450,
+    "province": " Provincia de L'Aquila",
+    "lat": 42.1849163,
+    "lon": 13.4576439,
+    "geocoded": true,
+    "displayName": "Piani di Pezza, Rocca di Mezzo, L'Aquila, Abruzzo, 67047, Italia"
+  },
+  {
+    "key": "a17",
+    "label": "Rocca di Cambio",
+    "elevation": 1434,
+    "province": " Provincia de L'Aquila",
+    "lat": 42.2279571,
+    "lon": 13.4766759,
+    "geocoded": true,
+    "displayName": "Rocca di Cambio, L'Aquila, Abruzzo, 67047, Italia"
+  },
+  {
+    "key": "a18",
+    "label": "Rocca di Cambio",
+    "elevation": 1434,
+    "province": " Provincia de L'Aquila",
+    "lat": 42.2279571,
+    "lon": 13.4766759,
+    "geocoded": true,
+    "displayName": "Rocca di Cambio, L'Aquila, Abruzzo, 67047, Italia"
+  },
+  {
+    "key": "a19",
+    "label": "Ovindoli",
+    "elevation": 1450,
+    "province": " Provincia de L'Aquila",
+    "lat": 42.137031,
+    "lon": 13.516097,
+    "geocoded": true,
+    "displayName": "Ovindoli, L'Aquila, Abruzzo, 67046, Italia"
+  },
+  {
+    "key": "a20",
+    "label": "Marsia",
+    "elevation": 1450,
+    "province": " Provincia de L'Aquila",
+    "lat": 42.0644868,
+    "lon": 13.1866486,
+    "geocoded": true,
+    "displayName": "Marsia, Tagliacozzo, L'Aquila, Abruzzo, 67065, Italia"
+  },
+  {
+    "key": "a21",
+    "label": "Campotosto",
+    "elevation": 1410,
+    "province": " Provincia de L'Aquila",
+    "lat": 42.547886,
+    "lon": 13.3642111,
+    "geocoded": true,
+    "displayName": "Campotosto, L'Aquila, Abruzzo, 67013, Italia"
+  },
+  {
+    "key": "a22",
+    "label": "RdM [Rovere]",
+    "elevation": 1370,
+    "province": " Provincia de L'Aquila",
+    "lat": 42.2162977,
+    "lon": 14.3862855,
+    "geocoded": true,
+    "displayName": "RDM Ricambi, Via Zona Industriale, Santo Spirito, Lanciano, Chieti, Abruzzo, 66034, Italia"
+  },
+  {
+    "key": "a23",
+    "label": "RdM [Rovere]",
+    "elevation": 1370,
+    "province": " Provincia de L'Aquila",
+    "lat": 42.2162977,
+    "lon": 14.3862855,
+    "geocoded": true,
+    "displayName": "RDM Ricambi, Via Zona Industriale, Santo Spirito, Lanciano, Chieti, Abruzzo, 66034, Italia"
+  },
+  {
+    "key": "a24",
+    "label": "Rivisondoli",
+    "elevation": 1300,
+    "province": " Provincia de L'Aquila",
+    "lat": 41.8708957,
+    "lon": 14.0674295,
+    "geocoded": true,
+    "displayName": "Rivisondoli, L'Aquila, Abruzzo, 67036, Italia"
+  },
+  {
+    "key": "a25",
+    "label": "Rocca di Mezzo",
+    "elevation": 1280,
+    "province": " Provincia de L'Aquila",
+    "lat": 42.2130189,
+    "lon": 13.5281238,
+    "geocoded": true,
+    "displayName": "Rocca di Mezzo, L'Aquila, Abruzzo, 67048, Italia"
+  },
+  {
+    "key": "a26",
+    "label": "Rocca di Mezzo",
+    "elevation": 1280,
+    "province": " Provincia de L'Aquila",
+    "lat": 42.2130189,
+    "lon": 13.5281238,
+    "geocoded": true,
+    "displayName": "Rocca di Mezzo, L'Aquila, Abruzzo, 67048, Italia"
+  },
+  {
+    "key": "a27",
+    "label": "Rocca di Mezzo",
+    "elevation": 1280,
+    "province": " Provincia de L'Aquila",
+    "lat": 42.2130189,
+    "lon": 13.5281238,
+    "geocoded": true,
+    "displayName": "Rocca di Mezzo, L'Aquila, Abruzzo, 67048, Italia"
+  },
+  {
+    "key": "a28",
+    "label": "Altopiano delle Cinque Miglia",
+    "elevation": 1250,
+    "province": " Provincia de L'Aquila",
+    "lat": 42.35,
+    "lon": 13.4,
+    "geocoded": false,
+    "displayName": null
+  },
+  {
+    "key": "a29",
+    "label": "RdM [Terranera]",
+    "elevation": 1270,
+    "province": " Provincia de L'Aquila",
+    "lat": 42.2162977,
+    "lon": 14.3862855,
+    "geocoded": true,
+    "displayName": "RDM Ricambi, Via Zona Industriale, Santo Spirito, Lanciano, Chieti, Abruzzo, 66034, Italia"
+  },
+  {
+    "key": "a30",
+    "label": "RdM [Fonteavignone]",
+    "elevation": 1217,
+    "province": " Provincia de L'Aquila",
+    "lat": 42.2162977,
+    "lon": 14.3862855,
+    "geocoded": true,
+    "displayName": "RDM Ricambi, Via Zona Industriale, Santo Spirito, Lanciano, Chieti, Abruzzo, 66034, Italia"
+  },
+  {
+    "key": "a31",
+    "label": "Bisegna",
+    "elevation": 1200,
+    "province": " Provincia de L'Aquila",
+    "lat": 41.9222034,
+    "lon": 13.7670803,
+    "geocoded": true,
+    "displayName": "Bisegna, L'Aquila, Abruzzo, Italia"
+  },
+  {
+    "key": "a32",
+    "label": "Pescasseroli",
+    "elevation": 1200,
+    "province": " Provincia de L'Aquila",
+    "lat": 41.8122502,
+    "lon": 13.7862141,
+    "geocoded": true,
+    "displayName": "Pescasseroli, L'Aquila, Abruzzo, 67032, Italia"
+  },
+  {
+    "key": "a33",
+    "label": "Forme",
+    "elevation": 1000,
+    "province": " Provincia de L'Aquila",
+    "lat": 42.1126189,
+    "lon": 13.445,
+    "geocoded": true,
+    "displayName": "Forme, Massa d'Albe, L'Aquila, Abruzzo, Italia"
+  },
+  {
+    "key": "a34",
+    "label": "Campo di Giove",
+    "elevation": 1064,
+    "province": " Provincia de L'Aquila",
+    "lat": 42.010132,
+    "lon": 14.03941,
+    "geocoded": true,
+    "displayName": "Campo di Giove, L'Aquila, Abruzzo, Italia"
+  },
+  {
+    "key": "a35",
+    "label": "Campo di Giove",
+    "elevation": 1064,
+    "province": " Provincia de L'Aquila",
+    "lat": 42.010132,
+    "lon": 14.03941,
+    "geocoded": true,
+    "displayName": "Campo di Giove, L'Aquila, Abruzzo, Italia"
+  },
+  {
+    "key": "a36",
+    "label": "Scanno",
+    "elevation": 1100,
+    "province": " Provincia de L'Aquila",
+    "lat": 41.886842,
+    "lon": 13.8956161,
+    "geocoded": true,
+    "displayName": "Scanno, L'Aquila, Abruzzo, 67038, Italia"
+  },
+  {
+    "key": "a37",
+    "label": "Scanno",
+    "elevation": 1050,
+    "province": " Provincia de L'Aquila",
+    "lat": 41.886842,
+    "lon": 13.8956161,
+    "geocoded": true,
+    "displayName": "Scanno, L'Aquila, Abruzzo, 67038, Italia"
+  },
+  {
+    "key": "a38",
+    "label": "Cappadocia",
+    "elevation": 1100,
+    "province": " Provincia de L'Aquila",
+    "lat": 41.9815716,
+    "lon": 13.2766093,
+    "geocoded": true,
+    "displayName": "Cappadocia, L'Aquila, Abruzzo, 67060, Italia"
+  },
+  {
+    "key": "a39",
+    "label": "Scontrone",
+    "elevation": 1050,
+    "province": " Provincia de L'Aquila",
+    "lat": 41.7682662,
+    "lon": 14.0521759,
+    "geocoded": true,
+    "displayName": "Scontrone, L'Aquila, Abruzzo, Italia"
+  },
+  {
+    "key": "a40",
+    "label": "Villetta Barrea",
+    "elevation": 990,
+    "province": " Provincia de L'Aquila",
+    "lat": 41.8013605,
+    "lon": 13.9359508,
+    "geocoded": true,
+    "displayName": "Villetta Barrea, L'Aquila, Abruzzo, Italia"
+  },
+  {
+    "key": "a41",
+    "label": "Villetta Barrea",
+    "elevation": 990,
+    "province": " Provincia de L'Aquila",
+    "lat": 41.8013605,
+    "lon": 13.9359508,
+    "geocoded": true,
+    "displayName": "Villetta Barrea, L'Aquila, Abruzzo, Italia"
+  },
+  {
+    "key": "a42",
+    "label": "Castel Del Monte",
+    "elevation": 1350,
+    "province": " Provincia de L'Aquila",
+    "lat": 42.3915219,
+    "lon": 13.7120537,
+    "geocoded": true,
+    "displayName": "Castel del Monte, L'Aquila, Abruzzo, 67023, Italia"
+  },
+  {
+    "key": "a43",
+    "label": "Passo San Leonardo",
+    "elevation": 1282,
+    "province": " Provincia de L'Aquila",
+    "lat": 42.0736731,
+    "lon": 14.0303143,
+    "geocoded": true,
+    "displayName": "Passo San Leonardo, Pacentro, L'Aquila, Abruzzo, Italia"
+  },
+  {
+    "key": "a44",
+    "label": "Bosco di Sant'Antonio",
+    "elevation": 1342,
+    "province": " Provincia de L'Aquila",
+    "lat": 41.9487058,
+    "lon": 14.0275145,
+    "geocoded": true,
+    "displayName": "Bosco di Sant'Antonio, Villaggio Sant'Antonio, Pescocostanzo, L'Aquila, Abruzzo, Italia"
+  },
+  {
+    "key": "a45",
+    "label": "Quarto di Santa Chiara",
+    "elevation": 1260,
+    "province": " Provincia de L'Aquila",
+    "lat": 42.35,
+    "lon": 13.4,
+    "geocoded": false,
+    "displayName": null
+  },
+  {
+    "key": "a46",
+    "label": "Montereale (Aringo)",
+    "elevation": 984,
+    "province": " Provincia de L'Aquila",
+    "lat": 42.5712451,
+    "lon": 13.2622464,
+    "geocoded": true,
+    "displayName": "Corso Italia, Santa Lucia, Aringo, Montereale, L'Aquila, Abruzzo, Italia"
+  },
+  {
+    "key": "a47",
+    "label": "Montereale (Aringo)",
+    "elevation": 984,
+    "province": " Provincia de L'Aquila",
+    "lat": 42.5712451,
+    "lon": 13.2622464,
+    "geocoded": true,
+    "displayName": "Corso Italia, Santa Lucia, Aringo, Montereale, L'Aquila, Abruzzo, Italia"
+  },
+  {
+    "key": "a48",
+    "label": "Collelongo",
+    "elevation": 900,
+    "province": " Provincia de L'Aquila",
+    "lat": 41.884856,
+    "lon": 13.5642859,
+    "geocoded": true,
+    "displayName": "Collelongo, L'Aquila, Abruzzo, Italia"
+  },
+  {
+    "key": "a49",
+    "label": "Roio (AQ)",
+    "elevation": 880,
+    "province": " Provincia de L'Aquila",
+    "lat": 42.3481975,
+    "lon": 13.3985637,
+    "geocoded": true,
+    "displayName": "Portico della Banca d'Italia, Quarto di San Giorgio, Sant'Elia, Poggio di Roio, L'Aquila, Abruzzo, 67100, Italia"
+  },
+  {
+    "key": "a50",
+    "label": "L'Aquila [San Giacomo]",
+    "elevation": 810,
+    "province": " Provincia de L'Aquila",
+    "lat": 42.1368853,
+    "lon": 13.610341,
+    "geocoded": true,
+    "displayName": "L'Aquila, Abruzzo, Italia"
+  },
+  {
+    "key": "a51",
+    "label": "L'Aquila [Bagno]",
+    "elevation": 640,
+    "province": " Provincia de L'Aquila",
+    "lat": 42.1368853,
+    "lon": 13.610341,
+    "geocoded": true,
+    "displayName": "L'Aquila, Abruzzo, Italia"
+  },
+  {
+    "key": "a52",
+    "label": "Navelli",
+    "elevation": 720,
+    "province": " Provincia de L'Aquila",
+    "lat": 42.2359748,
+    "lon": 13.7351443,
+    "geocoded": true,
+    "displayName": "Navelli, L'Aquila, Abruzzo, Italia"
+  },
+  {
+    "key": "a53",
+    "label": "Tagliacozzo",
+    "elevation": 730,
+    "province": " Provincia de L'Aquila",
+    "lat": 42.0645685,
+    "lon": 13.2394936,
+    "geocoded": true,
+    "displayName": "Tagliacozzo, L'Aquila, Abruzzo, 67069, Italia"
+  },
+  {
+    "key": "a54",
+    "label": "Civitella Alfedena",
+    "elevation": 1120,
+    "province": " Provincia de L'Aquila",
+    "lat": 41.7784471,
+    "lon": 13.9033024,
+    "geocoded": true,
+    "displayName": "Civitella Alfedena, L'Aquila, Abruzzo, Italia"
+  },
+  {
+    "key": "a55",
+    "label": "Trasacco",
+    "elevation": 690,
+    "province": " Provincia de L'Aquila",
+    "lat": 41.9424409,
+    "lon": 13.5400738,
+    "geocoded": true,
+    "displayName": "Trasacco, L'Aquila, Abruzzo, 67059, Italia"
+  },
+  {
+    "key": "a56",
+    "label": "Avezzano",
+    "elevation": 700,
+    "province": " Provincia de L'Aquila",
+    "lat": 42.0402067,
+    "lon": 13.4545144,
+    "geocoded": true,
+    "displayName": "Avezzano, L'Aquila, Abruzzo, 67051, Italia"
+  },
+  {
+    "key": "a57",
+    "label": "Avezzano Est",
+    "elevation": 700,
+    "province": " Provincia de L'Aquila",
+    "lat": 42.35,
+    "lon": 13.4,
+    "geocoded": false,
+    "displayName": null
+  },
+  {
+    "key": "a58",
+    "label": "Canistro Sponga",
+    "elevation": 565,
+    "province": " Provincia de L'Aquila",
+    "lat": 42.35,
+    "lon": 13.4,
+    "geocoded": false,
+    "displayName": null
+  },
+  {
+    "key": "a59",
+    "label": "Civitella Roveto",
+    "elevation": 530,
+    "province": " Provincia de L'Aquila",
+    "lat": 41.896704,
+    "lon": 13.4092937,
+    "geocoded": true,
+    "displayName": "Civitella Roveto, L'Aquila, Abruzzo, 67054, Italia"
+  },
+  {
+    "key": "a60",
+    "label": "Civitella Roveto",
+    "elevation": 528,
+    "province": " Provincia de L'Aquila",
+    "lat": 41.896704,
+    "lon": 13.4092937,
+    "geocoded": true,
+    "displayName": "Civitella Roveto, L'Aquila, Abruzzo, 67054, Italia"
+  },
+  {
+    "key": "a61",
+    "label": "Rifugio Franchetti",
+    "elevation": 2433,
+    "province": " Provincia di Teramo",
+    "lat": 42.4771117,
+    "lon": 13.5652158,
+    "geocoded": true,
+    "displayName": "Rifugio Carlo Franchetti, Vallone delle Cornacchie, Pietracamela, Teramo, Abruzzo, 64047, Italia"
+  },
+  {
+    "key": "a62",
+    "label": "La Madonnina",
+    "elevation": 2015,
+    "province": " Provincia di Teramo",
+    "lat": 42.3838295,
+    "lon": 13.3580539,
+    "geocoded": true,
+    "displayName": "La madonnina, Via delle Svolte, Cansatessa, L'Aquila, Abruzzo, Italia"
+  },
+  {
+    "key": "a63",
+    "label": "Prati di Tivo",
+    "elevation": 1450,
+    "province": " Provincia di Teramo",
+    "lat": 42.4997632,
+    "lon": 13.5595881,
+    "geocoded": true,
+    "displayName": "Prati di Tivo, Pietracamela, Teramo, Abruzzo, 64047, Italia"
+  },
+  {
+    "key": "a64",
+    "label": "Prati di Tivo",
+    "elevation": 1450,
+    "province": " Provincia di Teramo",
+    "lat": 42.4997632,
+    "lon": 13.5595881,
+    "geocoded": true,
+    "displayName": "Prati di Tivo, Pietracamela, Teramo, Abruzzo, 64047, Italia"
+  },
+  {
+    "key": "a65",
+    "label": "Prati di Tivo",
+    "elevation": 2015,
+    "province": " Provincia di Teramo",
+    "lat": 42.4997632,
+    "lon": 13.5595881,
+    "geocoded": true,
+    "displayName": "Prati di Tivo, Pietracamela, Teramo, Abruzzo, 64047, Italia"
+  },
+  {
+    "key": "a66",
+    "label": "Prati di Tivo",
+    "elevation": 1450,
+    "province": " Provincia di Teramo",
+    "lat": 42.4997632,
+    "lon": 13.5595881,
+    "geocoded": true,
+    "displayName": "Prati di Tivo, Pietracamela, Teramo, Abruzzo, 64047, Italia"
+  },
+  {
+    "key": "a67",
+    "label": "Monte Piselli",
+    "elevation": 1426,
+    "province": " Provincia di Teramo",
+    "lat": 42.7797736,
+    "lon": 13.5851994,
+    "geocoded": true,
+    "displayName": "Monte Piselli, Valle Castellana, Teramo, Abruzzo, Italia"
+  },
+  {
+    "key": "a68",
+    "label": "Rifugio Il Ceppo",
+    "elevation": 1334,
+    "province": " Provincia di Teramo",
+    "lat": 42.6641902,
+    "lon": 13.463534,
+    "geocoded": true,
+    "displayName": "Il Ceppo, Sentiero del Ceppo, Ceppo, Rocca Santa Maria, Teramo, Abruzzo, 64040, Italia"
+  },
+  {
+    "key": "a69",
+    "label": "Monti della Laga",
+    "elevation": 1073,
+    "province": " Provincia di Teramo",
+    "lat": 42.6491527,
+    "lon": 13.384414,
+    "geocoded": true,
+    "displayName": "Monti della Laga, Rocca Santa Maria, Teramo, Abruzzo, Italia"
+  },
+  {
+    "key": "a70",
+    "label": "Pietracamela",
+    "elevation": 1005,
+    "province": " Provincia di Teramo",
+    "lat": 42.52354,
+    "lon": 13.555392,
+    "geocoded": true,
+    "displayName": "Pietracamela, Teramo, Abruzzo, Italia"
+  },
+  {
+    "key": "a71",
+    "label": "Fano Adriano",
+    "elevation": 950,
+    "province": " Provincia di Teramo",
+    "lat": 42.5521311,
+    "lon": 13.5379617,
+    "geocoded": true,
+    "displayName": "Fano Adriano, Teramo, Abruzzo, Italia"
+  },
+  {
+    "key": "a72",
+    "label": "Fano Adriano",
+    "elevation": 950,
+    "province": " Provincia di Teramo",
+    "lat": 42.5521311,
+    "lon": 13.5379617,
+    "geocoded": true,
+    "displayName": "Fano Adriano, Teramo, Abruzzo, Italia"
+  },
+  {
+    "key": "a73",
+    "label": "Valle Castellana",
+    "elevation": 630,
+    "province": " Provincia di Teramo",
+    "lat": 42.7329058,
+    "lon": 13.548748,
+    "geocoded": true,
+    "displayName": "Valle Castellana, Teramo, Abruzzo, Italia"
+  },
+  {
+    "key": "a74",
+    "label": "Campli",
+    "elevation": 516,
+    "province": " Provincia di Teramo",
+    "lat": 42.7262307,
+    "lon": 13.6862844,
+    "geocoded": true,
+    "displayName": "Campli, Teramo, Abruzzo, 64012, Italia"
+  },
+  {
+    "key": "a75",
+    "label": "Campli",
+    "elevation": 400,
+    "province": " Provincia di Teramo",
+    "lat": 42.7262307,
+    "lon": 13.6862844,
+    "geocoded": true,
+    "displayName": "Campli, Teramo, Abruzzo, 64012, Italia"
+  },
+  {
+    "key": "a76",
+    "label": "Arsita",
+    "elevation": 470,
+    "province": " Provincia di Teramo",
+    "lat": 42.5021621,
+    "lon": 13.7828321,
+    "geocoded": true,
+    "displayName": "Arsita, Teramo, Abruzzo, 64031, Italia"
+  },
+  {
+    "key": "a77",
+    "label": "Canzano",
+    "elevation": 380,
+    "province": " Provincia di Teramo",
+    "lat": 42.004432,
+    "lon": 14.01191,
+    "geocoded": true,
+    "displayName": "Cansano, L'Aquila, Abruzzo, Italia"
+  },
+  {
+    "key": "a78",
+    "label": "Canzano",
+    "elevation": 380,
+    "province": " Provincia di Teramo",
+    "lat": 42.004432,
+    "lon": 14.01191,
+    "geocoded": true,
+    "displayName": "Cansano, L'Aquila, Abruzzo, Italia"
+  },
+  {
+    "key": "a79",
+    "label": "Teramo",
+    "elevation": 270,
+    "province": " Provincia di Teramo",
+    "lat": 42.6581008,
+    "lon": 13.6980117,
+    "geocoded": true,
+    "displayName": "Teramo, Abruzzo, Italia"
+  },
+  {
+    "key": "a80",
+    "label": "Castelnuovo Vomano",
+    "elevation": 120,
+    "province": " Provincia di Teramo",
+    "lat": 42.6293977,
+    "lon": 13.847154,
+    "geocoded": true,
+    "displayName": "Castelnuovo Vomano, Castellalto, Teramo, Abruzzo, 64024, Italia"
+  },
+  {
+    "key": "a81",
+    "label": "Castelnuovo Vomano",
+    "elevation": 120,
+    "province": " Provincia di Teramo",
+    "lat": 42.6293977,
+    "lon": 13.847154,
+    "geocoded": true,
+    "displayName": "Castelnuovo Vomano, Castellalto, Teramo, Abruzzo, 64024, Italia"
+  },
+  {
+    "key": "a82",
+    "label": "Silvi Alta",
+    "elevation": 235,
+    "province": " Provincia di Teramo",
+    "lat": 42.564807,
+    "lon": 14.0922575,
+    "geocoded": true,
+    "displayName": "Silvi, Teramo, Abruzzo, 64028, Italia"
+  },
+  {
+    "key": "a83",
+    "label": "Giulianova Alta",
+    "elevation": 80,
+    "province": " Provincia di Teramo",
+    "lat": 42.35,
+    "lon": 13.4,
+    "geocoded": false,
+    "displayName": null
+  },
+  {
+    "key": "a84",
+    "label": "Alba Adriatica",
+    "elevation": 15,
+    "province": " Provincia di Teramo",
+    "lat": 42.8343422,
+    "lon": 13.927816,
+    "geocoded": true,
+    "displayName": "Alba Adriatica, Unione dei Comuni della Val Vibrata, Teramo, Abruzzo, 64011, Italia"
+  },
+  {
+    "key": "a85",
+    "label": "Altopiano del Voltigno",
+    "elevation": 1350,
+    "province": " Provincia di Pescara",
+    "lat": 42.35,
+    "lon": 13.4,
+    "geocoded": false,
+    "displayName": null
+  },
+  {
+    "key": "a86",
+    "label": "Farindola",
+    "elevation": 672,
+    "province": " Provincia di Pescara",
+    "lat": 42.4411465,
+    "lon": 13.8234374,
+    "geocoded": true,
+    "displayName": "Farindola, Pescara, Abruzzo, Italia"
+  },
+  {
+    "key": "a87",
+    "label": "Penne",
+    "elevation": 450,
+    "province": " Provincia di Pescara",
+    "lat": 42.4582153,
+    "lon": 13.9273256,
+    "geocoded": true,
+    "displayName": "Penne, Pescara, Abruzzo, 65017, Italia"
+  },
+  {
+    "key": "a88",
+    "label": "Loreto Aprutino",
+    "elevation": 324,
+    "province": " Provincia di Pescara",
+    "lat": 42.434634,
+    "lon": 13.9832322,
+    "geocoded": true,
+    "displayName": "Loreto Aprutino, Pescara, Abruzzo, 65014, Italia"
+  },
+  {
+    "key": "a89",
+    "label": "Castiglione a Casauria",
+    "elevation": 240,
+    "province": " Provincia di Pescara",
+    "lat": 42.2311405,
+    "lon": 13.8977925,
+    "geocoded": true,
+    "displayName": "Castiglione a Casauria, Pescara, Abruzzo, Italia"
+  },
+  {
+    "key": "a90",
+    "label": "Città Sant'Angelo",
+    "elevation": 200,
+    "province": " Provincia di Pescara",
+    "lat": 42.518144,
+    "lon": 14.059203,
+    "geocoded": true,
+    "displayName": "Città Sant'Angelo, Pescara, Abruzzo, 65013, Italia"
+  },
+  {
+    "key": "a91",
+    "label": "Pescara [Colle Scorrano]",
+    "elevation": 100,
+    "province": " Provincia di Pescara",
+    "lat": 42.3097631,
+    "lon": 13.9579989,
+    "geocoded": true,
+    "displayName": "Pescara, Abruzzo, Italia"
+  },
+  {
+    "key": "a92",
+    "label": "Caramanico [San Nicolao]",
+    "elevation": 700,
+    "province": " Provincia di Pescara",
+    "lat": 42.3778996,
+    "lon": 14.3106955,
+    "geocoded": true,
+    "displayName": "Caramanico, Miglianico, Chieti, Abruzzo, 66023, Italia"
+  },
+  {
+    "key": "a93",
+    "label": "Montesilvano",
+    "elevation": 5,
+    "province": " Provincia di Pescara",
+    "lat": 42.5136032,
+    "lon": 14.1516203,
+    "geocoded": true,
+    "displayName": "Montesilvano, Pescara, Abruzzo, Italia"
+  },
+  {
+    "key": "a94",
+    "label": "Rifugio Pomilio",
+    "elevation": 1980,
+    "province": " Provincia di Chieti",
+    "lat": 42.1755586,
+    "lon": 14.4870587,
+    "geocoded": true,
+    "displayName": "Pomilio, 29, SP119, Piana del Mulino, Paglieta, Chieti, Abruzzo, 66020, Italia"
+  },
+  {
+    "key": "a96",
+    "label": "Majelletta",
+    "elevation": 1650,
+    "province": " Provincia di Chieti",
+    "lat": 42.1712721,
+    "lon": 14.1162563,
+    "geocoded": true,
+    "displayName": "Maielletta, Roccamorice, Pescara, Abruzzo, Italia"
+  },
+  {
+    "key": "a97",
+    "label": "Majelletta",
+    "elevation": 1650,
+    "province": " Provincia di Chieti",
+    "lat": 42.1712721,
+    "lon": 14.1162563,
+    "geocoded": true,
+    "displayName": "Maielletta, Roccamorice, Pescara, Abruzzo, Italia"
+  },
+  {
+    "key": "a98",
+    "label": "Mammarosa",
+    "elevation": 1650,
+    "province": " Provincia di Chieti",
+    "lat": 42.1711161,
+    "lon": 14.1165473,
+    "geocoded": true,
+    "displayName": "Cima Mammarosa, Roccamorice, Pescara, Abruzzo, Italia"
+  },
+  {
+    "key": "a99",
+    "label": "Passo Lanciano",
+    "elevation": 1300,
+    "province": " Provincia di Chieti",
+    "lat": 42.1889481,
+    "lon": 14.1045022,
+    "geocoded": true,
+    "displayName": "Passo Lanciano, Pretoro, Chieti, Abruzzo, Italia"
+  },
+  {
+    "key": "a100",
+    "label": "Passo Lanciano",
+    "elevation": 1300,
+    "province": " Provincia di Chieti",
+    "lat": 42.1889481,
+    "lon": 14.1045022,
+    "geocoded": true,
+    "displayName": "Passo Lanciano, Pretoro, Chieti, Abruzzo, Italia"
+  },
+  {
+    "key": "a101",
+    "label": "Schiavi d'Abruzzo",
+    "elevation": 1172,
+    "province": " Provincia di Chieti",
+    "lat": 41.7728948,
+    "lon": 14.4941099,
+    "geocoded": true,
+    "displayName": "Schiavi d’Abruzzo, Strada Statale 650 di Fondo Valle Trigno, Schiavi di Abruzzo, Chieti, Abruzzo, 66045, Italia"
+  },
+  {
+    "key": "a102",
+    "label": "Monte Pallano",
+    "elevation": 1040,
+    "province": " Provincia di Chieti",
+    "lat": 42.039401,
+    "lon": 14.3890589,
+    "geocoded": true,
+    "displayName": "Monte Pallano, Bomba, Chieti, Abruzzo, 66042, Italia"
+  },
+  {
+    "key": "a103",
+    "label": "Monte Ferrante",
+    "elevation": 800,
+    "province": " Provincia di Chieti",
+    "lat": 42.35,
+    "lon": 13.4,
+    "geocoded": false,
+    "displayName": null
+  },
+  {
+    "key": "a104",
+    "label": "Crecchio",
+    "elevation": 208,
+    "province": " Provincia di Chieti",
+    "lat": 42.2985442,
+    "lon": 14.3268988,
+    "geocoded": true,
+    "displayName": "Crecchio, Chieti, Abruzzo, 66014, Italia"
+  },
+  {
+    "key": "a105",
+    "label": "Lanciano",
+    "elevation": null,
+    "province": " Provincia di Chieti",
+    "lat": 42.2305316,
+    "lon": 14.3907794,
+    "geocoded": true,
+    "displayName": "Lanciano, Chieti, Abruzzo, 66034, Italia"
+  },
+  {
+    "key": "a106",
+    "label": "Fara San Martino",
+    "elevation": 440,
+    "province": " Provincia di Chieti",
+    "lat": 42.0915379,
+    "lon": 14.1491289,
+    "geocoded": true,
+    "displayName": "Fara San Martino, Chieti, Abruzzo, 66015, Italia"
+  },
+  {
+    "key": "a107",
+    "label": "Casoli",
+    "elevation": 305,
+    "province": " Provincia di Chieti",
+    "lat": 42.1147159,
+    "lon": 14.290695,
+    "geocoded": true,
+    "displayName": "Casoli, Chieti, Abruzzo, 66044, Italia"
+  },
+  {
+    "key": "a108",
+    "label": "Chieti Alta",
+    "elevation": 330,
+    "province": " Provincia di Chieti",
+    "lat": 42.4225542,
+    "lon": 14.1872341,
+    "geocoded": true,
+    "displayName": "Corso Italia, San Giovanni alta, Sambuceto, San Giovanni Teatino, Chieti, Abruzzo, 65131, Italia"
+  },
+  {
+    "key": "a109",
+    "label": "Chieti Alta",
+    "elevation": 330,
+    "province": " Provincia di Chieti",
+    "lat": 42.4225542,
+    "lon": 14.1872341,
+    "geocoded": true,
+    "displayName": "Corso Italia, San Giovanni alta, Sambuceto, San Giovanni Teatino, Chieti, Abruzzo, 65131, Italia"
+  },
+  {
+    "key": "a110",
+    "label": "Torrevecchia Teatina",
+    "elevation": 220,
+    "province": " Provincia di Chieti",
+    "lat": 42.3817643,
+    "lon": 14.2092674,
+    "geocoded": true,
+    "displayName": "Torrevecchia Teatina, Chieti, Abruzzo, Italia"
+  },
+  {
+    "key": "a111",
+    "label": "Torrevecchia Teatina",
+    "elevation": 220,
+    "province": " Provincia di Chieti",
+    "lat": 42.3817643,
+    "lon": 14.2092674,
+    "geocoded": true,
+    "displayName": "Torrevecchia Teatina, Chieti, Abruzzo, Italia"
+  },
+  {
+    "key": "a112",
+    "label": "Torrevecchia Teatina",
+    "elevation": 220,
+    "province": " Provincia di Chieti",
+    "lat": 42.3817643,
+    "lon": 14.2092674,
+    "geocoded": true,
+    "displayName": "Torrevecchia Teatina, Chieti, Abruzzo, Italia"
+  },
+  {
+    "key": "a113",
+    "label": "Chieti Tricalle",
+    "elevation": 260,
+    "province": " Provincia di Chieti",
+    "lat": 42.3610088,
+    "lon": 14.1669987,
+    "geocoded": true,
+    "displayName": "Tricalle, Chieti, Abruzzo, 66100, Italia"
+  },
+  {
+    "key": "a114",
+    "label": "Chieti Scalo",
+    "elevation": 50,
+    "province": " Provincia di Chieti",
+    "lat": 42.3625098,
+    "lon": 14.1403222,
+    "geocoded": true,
+    "displayName": "Chieti Scalo, Chieti, Abruzzo, 66100, Italia"
+  },
+  {
+    "key": "a115",
+    "label": "Francavilla al Mare",
+    "elevation": 2,
+    "province": " Provincia di Chieti",
+    "lat": 42.4168011,
+    "lon": 14.2914819,
+    "geocoded": true,
+    "displayName": "Francavilla al Mare, Chieti, Abruzzo, 66023, Italia"
+  },
+  {
+    "key": "a116",
+    "label": "Lanciano",
+    "elevation": 260,
+    "province": " Provincia di Chieti",
+    "lat": 42.2305316,
+    "lon": 14.3907794,
+    "geocoded": true,
+    "displayName": "Lanciano, Chieti, Abruzzo, 66034, Italia"
+  },
+  {
+    "key": "a117",
+    "label": "Ortona",
+    "elevation": 50,
+    "province": " Provincia di Chieti",
+    "lat": 42.349643,
+    "lon": 14.403913,
+    "geocoded": true,
+    "displayName": "Ortona, Chieti, Abruzzo, Italia"
+  },
+  {
+    "key": "a118",
+    "label": "Rocca San Giovanni",
+    "elevation": 50,
+    "province": " Provincia di Chieti",
+    "lat": 42.2507698,
+    "lon": 14.4648413,
+    "geocoded": true,
+    "displayName": "Rocca San Giovanni, Chieti, Abruzzo, Italia"
+  },
+  {
+    "key": "a119",
+    "label": "Campo Staffi",
+    "elevation": 1800,
+    "province": " Webcam Appennino",
+    "lat": 41.9221522,
+    "lon": 13.3489835,
+    "geocoded": true,
+    "displayName": "Falesia di Campo Staffi, Capistrello, L'Aquila, Abruzzo, Italia"
+  },
+  {
+    "key": "a120",
+    "label": "Viterbo",
+    "elevation": 200,
+    "province": " Webcam Appennino",
+    "lat": 42.6737961,
+    "lon": 14.0190552,
+    "geocoded": true,
+    "displayName": "Via Viterbo, Piana Grande, Roseto degli Abruzzi, Teramo, Abruzzo, 64026, Italia"
+  },
+  {
+    "key": "a121",
+    "label": "Campo Catino",
+    "elevation": 1800,
+    "province": " Webcam Appennino",
+    "lat": 42.35,
+    "lon": 13.4,
+    "geocoded": false,
+    "displayName": null
+  },
+  {
+    "key": "a122",
+    "label": "Rocca Priora",
+    "elevation": 700,
+    "province": " Webcam Appennino",
+    "lat": 42.35,
+    "lon": 13.4,
+    "geocoded": false,
+    "displayName": null
+  },
+  {
+    "key": "a123",
+    "label": "Castelluccio di Norcia",
+    "elevation": 1296,
+    "province": " Webcam Appennino",
+    "lat": 42.35,
+    "lon": 13.4,
+    "geocoded": false,
+    "displayName": null
+  },
+  {
+    "key": "a124",
+    "label": "Filettino",
+    "elevation": 1075,
+    "province": " Webcam Appennino",
+    "lat": 41.9647447,
+    "lon": 13.3799903,
+    "geocoded": true,
+    "displayName": "Via Filettino, Pescocanale, Capistrello, L'Aquila, Abruzzo, 67053, Italia"
+  },
+  {
+    "key": "a125",
+    "label": "Acquasanta Terme [San Gregorio] (AP)",
+    "elevation": 1018,
+    "province": " Webcam Appennino",
+    "lat": 42.35,
+    "lon": 13.4,
+    "geocoded": false,
+    "displayName": null
+  },
+  {
+    "key": "a126",
+    "label": "Capracotta",
+    "elevation": 1421,
+    "province": " Webcam Appennino",
+    "lat": 42.35,
+    "lon": 13.4,
+    "geocoded": false,
+    "displayName": null
+  },
+  {
+    "key": "a127",
+    "label": "Capracotta",
+    "elevation": 1421,
+    "province": " Webcam Appennino",
+    "lat": 42.35,
+    "lon": 13.4,
+    "geocoded": false,
+    "displayName": null
+  }
+]

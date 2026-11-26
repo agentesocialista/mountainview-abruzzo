@@ -1,0 +1,1202 @@
+[
+  {
+    "title": "Monte Sirente",
+    "qid": "Q3322114",
+    "lat": 42.1461,
+    "lon": 13.611,
+    "elevation": 2349,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sirente%20Autunno%202005.JPG?width=1200",
+    "sourceUrl": "https://it.wikipedia.org/wiki/Monte_Sirente",
+    "category": "Categoria:Montagne della provincia dell'Aquila"
+  },
+  {
+    "title": "Monti Ernici",
+    "qid": "Q957717",
+    "lat": null,
+    "lon": null,
+    "elevation": 2064,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/20/Monti_Ernici.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "sourceUrl": "https://it.wikipedia.org/wiki/Monti_Ernici",
+    "category": "Categoria:Montagne della provincia dell'Aquila"
+  },
+  {
+    "title": "Monte Velino",
+    "qid": "Q2631149",
+    "lat": 42.147097,
+    "lon": 13.381358,
+    "elevation": 2487,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Vette%20gemelle%20del%20Monte%20Velino.jpg?width=1200",
+    "sourceUrl": "https://it.wikipedia.org/wiki/Monte_Velino",
+    "category": "Categoria:Montagne della provincia dell'Aquila"
+  },
+  {
+    "title": "Monte Monna",
+    "qid": "Q3861757",
+    "lat": 41.8064,
+    "lon": 13.3711,
+    "elevation": 1952,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Alatri%20dalla%20crocetta.jpg?width=1200",
+    "sourceUrl": "https://it.wikipedia.org/wiki/Monte_Monna",
+    "category": "Categoria:Montagne della provincia dell'Aquila"
+  },
+  {
+    "title": "Monti Simbruini",
+    "qid": "Q838788",
+    "lat": null,
+    "lon": null,
+    "elevation": 2015,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/27%20-%20M.Livata%20M.%20Autore.JPG?width=1200",
+    "sourceUrl": "https://it.wikipedia.org/wiki/Monti_Simbruini",
+    "category": "Categoria:Montagne della provincia dell'Aquila"
+  },
+  {
+    "title": "Monte Meta",
+    "qid": "Q3861742",
+    "lat": 41.68884,
+    "lon": 13.93978,
+    "elevation": 2241,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Parco_Nazionale_d%27Abruzzo%2C_Lazio_e_Molise.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "sourceUrl": "https://it.wikipedia.org/wiki/Monte_Meta",
+    "category": "Categoria:Montagne della provincia dell'Aquila"
+  },
+  {
+    "title": "Pizzo Cefalone",
+    "qid": "Q848255",
+    "lat": 42.468611,
+    "lon": 13.561944,
+    "elevation": 2533,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/80/Cefalone001.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "sourceUrl": "https://it.wikipedia.org/wiki/Pizzo_Cefalone",
+    "category": "Categoria:Montagne della provincia dell'Aquila"
+  },
+  {
+    "title": "Monti Cantari",
+    "qid": "Q3862435",
+    "lat": null,
+    "lon": null,
+    "elevation": 2156,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Monti%20Cantari%2002.jpg?width=1200",
+    "sourceUrl": "https://it.wikipedia.org/wiki/Monti_Cantari",
+    "category": "Categoria:Montagne della provincia dell'Aquila"
+  },
+  {
+    "title": "Monte Viglio",
+    "qid": "Q3862123",
+    "lat": 41.8845,
+    "lon": 13.3736,
+    "elevation": 2156,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Meta%20di%20Civitella%20Roveto%20monte%20Viglio%201.jpg?width=1200",
+    "sourceUrl": "https://it.wikipedia.org/wiki/Monte_Viglio",
+    "category": "Categoria:Montagne della provincia dell'Aquila"
+  },
+  {
+    "title": "Montagne del Morrone",
+    "qid": "Q3861081",
+    "lat": 42.118675,
+    "lon": 13.965736,
+    "elevation": 2061,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Monte%20Morrone.JPG?width=1200",
+    "sourceUrl": "https://it.wikipedia.org/wiki/Montagne_del_Morrone",
+    "category": "Categoria:Montagne della provincia dell'Aquila"
+  },
+  {
+    "title": "Monte Camicia",
+    "qid": "Q929442",
+    "lat": 42.44,
+    "lon": 13.718,
+    "elevation": 2564,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Monte_Camicia_lato_Fonte_Vetica_319.jpg/1280px-Monte_Camicia_lato_Fonte_Vetica_319.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "sourceUrl": "https://it.wikipedia.org/wiki/Monte_Camicia",
+    "category": "Categoria:Montagne della provincia dell'Aquila"
+  },
+  {
+    "title": "Monte Portella",
+    "qid": "Q1829349",
+    "lat": 42.4517,
+    "lon": 13.523611,
+    "elevation": 2388,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Monteportella.jpg?width=1200",
+    "sourceUrl": "https://it.wikipedia.org/wiki/Monte_Portella",
+    "category": "Categoria:Montagne della provincia dell'Aquila"
+  },
+  {
+    "title": "Monte Ruzza",
+    "qid": "Q3861939",
+    "lat": 42.381389,
+    "lon": 13.5625,
+    "elevation": 1643,
+    "image": null,
+    "sourceUrl": "https://it.wikipedia.org/wiki/Monte_Ruzza",
+    "category": "Categoria:Montagne della provincia dell'Aquila"
+  },
+  {
+    "title": "Monte Cornacchia (Appennino abruzzese)",
+    "qid": "Q8540842",
+    "lat": null,
+    "lon": null,
+    "elevation": 2003,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Vallelonga_monte_Cornacchia.jpg/1280px-Vallelonga_monte_Cornacchia.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "sourceUrl": "https://it.wikipedia.org/wiki/Monte_Cornacchia_(Appennino_abruzzese)",
+    "category": "Categoria:Montagne della provincia dell'Aquila"
+  },
+  {
+    "title": "Monte Salviano",
+    "qid": "Q57016127",
+    "lat": null,
+    "lon": null,
+    "elevation": 1011,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/La%20seduta%20dell'amore.jpg?width=1200",
+    "sourceUrl": "https://it.wikipedia.org/wiki/Monte_Salviano",
+    "category": "Categoria:Montagne della provincia dell'Aquila"
+  },
+  {
+    "title": "Monte Aquila (Gran Sasso)",
+    "qid": "Q427856",
+    "lat": null,
+    "lon": null,
+    "elevation": 2498,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Wikimonteaquila.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "sourceUrl": "https://it.wikipedia.org/wiki/Monte_Aquila_(Gran_Sasso)",
+    "category": "Categoria:Montagne della provincia dell'Aquila"
+  },
+  {
+    "title": "Pizzo Deta",
+    "qid": "Q3905990",
+    "lat": null,
+    "lon": null,
+    "elevation": 2041,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Pizzo%20Deta%20Marsica.jpg?width=1200",
+    "sourceUrl": "https://it.wikipedia.org/wiki/Pizzo_Deta",
+    "category": "Categoria:Montagne della provincia dell'Aquila"
+  },
+  {
+    "title": "Collerotondo",
+    "qid": "Q3683004",
+    "lat": null,
+    "lon": null,
+    "elevation": null,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Chiesa_degli_alpini.JPG/1280px-Chiesa_degli_alpini.JPG?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "sourceUrl": "https://it.wikipedia.org/wiki/Collerotondo",
+    "category": "Categoria:Montagne della provincia dell'Aquila"
+  },
+  {
+    "title": "Monte Rotondo (Sirente-Velino)",
+    "qid": "Q3861929",
+    "lat": null,
+    "lon": null,
+    "elevation": 2064,
+    "image": null,
+    "sourceUrl": "https://it.wikipedia.org/wiki/Monte_Rotondo_(Sirente-Velino)",
+    "category": "Categoria:Montagne della provincia dell'Aquila"
+  },
+  {
+    "title": "Monte Mozzano",
+    "qid": "Q3861762",
+    "lat": null,
+    "lon": null,
+    "elevation": 1493,
+    "image": null,
+    "sourceUrl": "https://it.wikipedia.org/wiki/Monte_Mozzano",
+    "category": "Categoria:Montagne della provincia dell'Aquila"
+  },
+  {
+    "title": "Monte Arunzo",
+    "qid": "Q3936803",
+    "lat": null,
+    "lon": null,
+    "elevation": 1455,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Spunto_Villa_San_Sebastiano_Vecchia.jpg/1280px-Spunto_Villa_San_Sebastiano_Vecchia.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "sourceUrl": "https://it.wikipedia.org/wiki/Monte_Arunzo",
+    "category": "Categoria:Montagne della provincia dell'Aquila"
+  },
+  {
+    "title": "Monte Corvo",
+    "qid": "Q2343705",
+    "lat": null,
+    "lon": null,
+    "elevation": 2623,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/25/Montecorvo.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "sourceUrl": "https://it.wikipedia.org/wiki/Monte_Corvo",
+    "category": "Categoria:Montagne della provincia dell'Aquila"
+  },
+  {
+    "title": "Monte Capo di Serre",
+    "qid": "Q3861300",
+    "lat": null,
+    "lon": null,
+    "elevation": 1771,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Castel_del_Monte_01%28RaBoe%29.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "sourceUrl": "https://it.wikipedia.org/wiki/Monte_Capo_di_Serre",
+    "category": "Categoria:Montagne della provincia dell'Aquila"
+  },
+  {
+    "title": "Monte Porrara",
+    "qid": "Q3861863",
+    "lat": null,
+    "lon": null,
+    "elevation": 2137,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Monte%20Porrara.JPG?width=1200",
+    "sourceUrl": "https://it.wikipedia.org/wiki/Monte_Porrara",
+    "category": "Categoria:Montagne della provincia dell'Aquila"
+  },
+  {
+    "title": "Monte Prena",
+    "qid": "Q2121362",
+    "lat": null,
+    "lon": null,
+    "elevation": 2561,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Monteprena.jpg?width=1200",
+    "sourceUrl": "https://it.wikipedia.org/wiki/Monte_Prena",
+    "category": "Categoria:Montagne della provincia dell'Aquila"
+  },
+  {
+    "title": "Monte Scindarella",
+    "qid": "Q2218606",
+    "lat": null,
+    "lon": null,
+    "elevation": 2233,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Montedellascindarella.jpg?width=1200",
+    "sourceUrl": "https://it.wikipedia.org/wiki/Monte_Scindarella",
+    "category": "Categoria:Montagne della provincia dell'Aquila"
+  },
+  {
+    "title": "Gruppo montuoso di Monte Ocre-Monte Cagno",
+    "qid": "Q3777928",
+    "lat": null,
+    "lon": null,
+    "elevation": null,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Monte_Ocre_-_Monte_Cagno.jpg/1280px-Monte_Ocre_-_Monte_Cagno.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "sourceUrl": "https://it.wikipedia.org/wiki/Gruppo_montuoso_di_Monte_Ocre-Monte_Cagno",
+    "category": "Categoria:Montagne della provincia dell'Aquila"
+  },
+  {
+    "title": "Gruppo montuoso Monte San Rocco-Monte Cava",
+    "qid": "Q3777924",
+    "lat": null,
+    "lon": null,
+    "elevation": null,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Verde_da_Pi%C3%A9_La_Costa.JPG/1280px-Verde_da_Pi%C3%A9_La_Costa.JPG?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "sourceUrl": "https://it.wikipedia.org/wiki/Gruppo_montuoso_Monte_San_Rocco-Monte_Cava",
+    "category": "Categoria:Montagne della provincia dell'Aquila"
+  },
+  {
+    "title": "Gruppo montuoso di Monte Calvo",
+    "qid": "Q3777926",
+    "lat": null,
+    "lon": null,
+    "elevation": null,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Sella_di_Corno_-_ferrovia_Terni-Sulmona_al_km_150%2C_automotrice_ALn_776_e_statale_17_%2818000625280%29.jpg/1280px-Sella_di_Corno_-_ferrovia_Terni-Sulmona_al_km_150%2C_automotrice_ALn_776_e_statale_17_%2818000625280%29.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "sourceUrl": "https://it.wikipedia.org/wiki/Gruppo_montuoso_di_Monte_Calvo",
+    "category": "Categoria:Montagne della provincia dell'Aquila"
+  },
+  {
+    "title": "Monte Brancastello",
+    "qid": "Q429784",
+    "lat": null,
+    "lon": null,
+    "elevation": 2387,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Montebrancastello.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "sourceUrl": "https://it.wikipedia.org/wiki/Monte_Brancastello",
+    "category": "Categoria:Montagne della provincia dell'Aquila"
+  },
+  {
+    "title": "Monte Luco (Appennino abruzzese)",
+    "qid": "Q3861699",
+    "lat": null,
+    "lon": null,
+    "elevation": 987,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/79/Italy_relief_location_map.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "sourceUrl": "https://it.wikipedia.org/wiki/Monte_Luco_(Appennino_abruzzese)",
+    "category": "Categoria:Montagne della provincia dell'Aquila"
+  },
+  {
+    "title": "Monte Magnola",
+    "qid": "Q31619759",
+    "lat": null,
+    "lon": null,
+    "elevation": 2220,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/79/Ovindoli_monte_Magnola.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "sourceUrl": "https://it.wikipedia.org/wiki/Monte_Magnola",
+    "category": "Categoria:Montagne della provincia dell'Aquila"
+  },
+  {
+    "title": "Monte Greco",
+    "qid": "Q3861611",
+    "lat": null,
+    "lon": null,
+    "elevation": 2285,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Monte_Greco.JPG/1280px-Monte_Greco.JPG?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "sourceUrl": "https://it.wikipedia.org/wiki/Monte_Greco",
+    "category": "Categoria:Montagne della provincia dell'Aquila"
+  },
+  {
+    "title": "Monte Cava",
+    "qid": "Q31624587",
+    "lat": null,
+    "lon": null,
+    "elevation": 2000,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/79/Italy_relief_location_map.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "sourceUrl": "https://it.wikipedia.org/wiki/Monte_Cava",
+    "category": "Categoria:Montagne della provincia dell'Aquila"
+  },
+  {
+    "title": "Macera della Morte",
+    "qid": "Q20008324",
+    "lat": null,
+    "lon": null,
+    "elevation": 2073,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Macera_della_Morte%2C_Monti_della_Laga%2C_Italy.jpg/1280px-Macera_della_Morte%2C_Monti_della_Laga%2C_Italy.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "sourceUrl": "https://it.wikipedia.org/wiki/Macera_della_Morte",
+    "category": "Categoria:Montagne della provincia dell'Aquila"
+  },
+  {
+    "title": "Montecristo (Abruzzo)",
+    "qid": "Q21235754",
+    "lat": null,
+    "lon": null,
+    "elevation": 1921,
+    "image": null,
+    "sourceUrl": "https://it.wikipedia.org/wiki/Montecristo_(Abruzzo)",
+    "category": "Categoria:Montagne della provincia dell'Aquila"
+  },
+  {
+    "title": "Monti dell'Alto Aterno",
+    "qid": "Q24933845",
+    "lat": null,
+    "lon": null,
+    "elevation": null,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Monti_dell%27Alto_Aterno.jpg/1280px-Monti_dell%27Alto_Aterno.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "sourceUrl": "https://it.wikipedia.org/wiki/Monti_dell'Alto_Aterno",
+    "category": "Categoria:Montagne della provincia dell'Aquila"
+  },
+  {
+    "title": "Monte San Franco",
+    "qid": "Q30888228",
+    "lat": null,
+    "lon": null,
+    "elevation": null,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Monte%20San%20Franco..jpg?width=1200",
+    "sourceUrl": "https://it.wikipedia.org/wiki/Monte_San_Franco",
+    "category": "Categoria:Montagne della provincia dell'Aquila"
+  },
+  {
+    "title": "Monte Pozzotello",
+    "qid": "Q55831358",
+    "lat": null,
+    "lon": null,
+    "elevation": 1995,
+    "image": null,
+    "sourceUrl": "https://it.wikipedia.org/wiki/Monte_Pozzotello",
+    "category": "Categoria:Montagne della provincia dell'Aquila"
+  },
+  {
+    "title": "Coppo Chiappino",
+    "qid": "Q55831589",
+    "lat": null,
+    "lon": null,
+    "elevation": null,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/79/Italy_relief_location_map.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "sourceUrl": "https://it.wikipedia.org/wiki/Coppo_Chiappino",
+    "category": "Categoria:Montagne della provincia dell'Aquila"
+  },
+  {
+    "title": "Serre di Vigliano",
+    "qid": "Q55831590",
+    "lat": null,
+    "lon": null,
+    "elevation": null,
+    "image": null,
+    "sourceUrl": "https://it.wikipedia.org/wiki/Serre_di_Vigliano",
+    "category": "Categoria:Montagne della provincia dell'Aquila"
+  },
+  {
+    "title": "Monte Ginepro",
+    "qid": "Q54857610",
+    "lat": null,
+    "lon": null,
+    "elevation": null,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Monte_Ginepro_Duchessa.jpg/1280px-Monte_Ginepro_Duchessa.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "sourceUrl": "https://it.wikipedia.org/wiki/Monte_Ginepro",
+    "category": "Categoria:Montagne della provincia dell'Aquila"
+  },
+  {
+    "title": "Monte San Rocco",
+    "qid": "Q31614373",
+    "lat": null,
+    "lon": null,
+    "elevation": null,
+    "image": null,
+    "sourceUrl": "https://it.wikipedia.org/wiki/Monte_San_Rocco",
+    "category": "Categoria:Montagne della provincia dell'Aquila"
+  },
+  {
+    "title": "Monte Rotondo (Borgorose)",
+    "qid": "Q54857579",
+    "lat": null,
+    "lon": null,
+    "elevation": null,
+    "image": null,
+    "sourceUrl": "https://it.wikipedia.org/wiki/Monte_Rotondo_(Borgorose)",
+    "category": "Categoria:Montagne della provincia dell'Aquila"
+  },
+  {
+    "title": "Monte Crepacuore",
+    "qid": "Q55831618",
+    "lat": null,
+    "lon": null,
+    "elevation": null,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Monte_Crepacuore.jpg/1280px-Monte_Crepacuore.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "sourceUrl": "https://it.wikipedia.org/wiki/Monte_Crepacuore",
+    "category": "Categoria:Montagne della provincia dell'Aquila"
+  },
+  {
+    "title": "Peschio delle Ciavole",
+    "qid": "Q55831619",
+    "lat": null,
+    "lon": null,
+    "elevation": null,
+    "image": null,
+    "sourceUrl": "https://it.wikipedia.org/wiki/Peschio_delle_Ciavole",
+    "category": "Categoria:Montagne della provincia dell'Aquila"
+  },
+  {
+    "title": "Peschio delle Cornacchie",
+    "qid": "Q55831620",
+    "lat": null,
+    "lon": null,
+    "elevation": null,
+    "image": null,
+    "sourceUrl": "https://it.wikipedia.org/wiki/Peschio_delle_Cornacchie",
+    "category": "Categoria:Montagne della provincia dell'Aquila"
+  },
+  {
+    "title": "Monte Ortara",
+    "qid": "Q55831625",
+    "lat": null,
+    "lon": null,
+    "elevation": null,
+    "image": null,
+    "sourceUrl": "https://it.wikipedia.org/wiki/Monte_Ortara",
+    "category": "Categoria:Montagne della provincia dell'Aquila"
+  },
+  {
+    "title": "Monte Prato (Ernici)",
+    "qid": "Q54857599",
+    "lat": null,
+    "lon": null,
+    "elevation": null,
+    "image": null,
+    "sourceUrl": "https://it.wikipedia.org/wiki/Monte_Prato_(Ernici)",
+    "category": "Categoria:Montagne della provincia dell'Aquila"
+  },
+  {
+    "title": "Monte Ginepro (Ernici)",
+    "qid": "Q54857613",
+    "lat": null,
+    "lon": null,
+    "elevation": 2004,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Monte_Ginepro.jpg/1280px-Monte_Ginepro.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "sourceUrl": "https://it.wikipedia.org/wiki/Monte_Ginepro_(Ernici)",
+    "category": "Categoria:Montagne della provincia dell'Aquila"
+  },
+  {
+    "title": "Monte Cappello (Ernici)",
+    "qid": "Q55831627",
+    "lat": null,
+    "lon": null,
+    "elevation": null,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Monte_Cappello.jpg/1280px-Monte_Cappello.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "sourceUrl": "https://it.wikipedia.org/wiki/Monte_Cappello_(Ernici)",
+    "category": "Categoria:Montagne della provincia dell'Aquila"
+  },
+  {
+    "title": "Monte Brecciaro",
+    "qid": "Q55831628",
+    "lat": null,
+    "lon": null,
+    "elevation": null,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/79/Italy_relief_location_map.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "sourceUrl": "https://it.wikipedia.org/wiki/Monte_Brecciaro",
+    "category": "Categoria:Montagne della provincia dell'Aquila"
+  },
+  {
+    "title": "Monte del Passeggio",
+    "qid": "Q55831629",
+    "lat": null,
+    "lon": null,
+    "elevation": 2064,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Monti_Ernici_dal_Ginepro.jpg/1280px-Monti_Ernici_dal_Ginepro.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "sourceUrl": "https://it.wikipedia.org/wiki/Monte_del_Passeggio",
+    "category": "Categoria:Montagne della provincia dell'Aquila"
+  },
+  {
+    "title": "Monte Serra Comune",
+    "qid": "Q55831637",
+    "lat": null,
+    "lon": null,
+    "elevation": 1870,
+    "image": null,
+    "sourceUrl": "https://it.wikipedia.org/wiki/Monte_Serra_Comune",
+    "category": "Categoria:Montagne della provincia dell'Aquila"
+  },
+  {
+    "title": "Monte Tre Confini",
+    "qid": "Q55831642",
+    "lat": null,
+    "lon": null,
+    "elevation": 1991,
+    "image": null,
+    "sourceUrl": "https://it.wikipedia.org/wiki/Monte_Tre_Confini",
+    "category": "Categoria:Montagne della provincia dell'Aquila"
+  },
+  {
+    "title": "Monte Serrone",
+    "qid": "Q131192277",
+    "lat": null,
+    "lon": null,
+    "elevation": 1371,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Coseismic%20surface%20faulting.jpg?width=1200",
+    "sourceUrl": "https://it.wikipedia.org/wiki/Monte_Serrone",
+    "category": "Categoria:Montagne della provincia dell'Aquila"
+  },
+  {
+    "title": "Picco La Rocca",
+    "qid": "Q55831665",
+    "lat": null,
+    "lon": null,
+    "elevation": null,
+    "image": null,
+    "sourceUrl": "https://it.wikipedia.org/wiki/Picco_La_Rocca",
+    "category": "Categoria:Montagne della provincia dell'Aquila"
+  },
+  {
+    "title": "Monte la Rocca",
+    "qid": "Q55831667",
+    "lat": null,
+    "lon": null,
+    "elevation": null,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Monti_Marsicani%2C_Monte_Serrone%2C_Monte_delle_Vitelle%2C_Vallone_Carbonara%2C_Monte_La_Rocca%2C_Pescasseroli%2C_Monte_Schiena_di_Cavallo_-_Abruzzo%2C_Lazio_and_Molise_National_Park_aerial_%28cropped%29.jpg/1280px-thumbnail.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "sourceUrl": "https://it.wikipedia.org/wiki/Monte_la_Rocca",
+    "category": "Categoria:Montagne della provincia dell'Aquila"
+  },
+  {
+    "title": "Monte della Strega",
+    "qid": "Q55831668",
+    "lat": null,
+    "lon": null,
+    "elevation": null,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/79/Italy_relief_location_map.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "sourceUrl": "https://it.wikipedia.org/wiki/Monte_della_Strega",
+    "category": "Categoria:Montagne della provincia dell'Aquila"
+  },
+  {
+    "title": "Monte Petroso",
+    "qid": "Q31616708",
+    "lat": null,
+    "lon": null,
+    "elevation": 2249,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Foto%20monte%20amaro.jpg?width=1200",
+    "sourceUrl": "https://it.wikipedia.org/wiki/Monte_Petroso",
+    "category": "Categoria:Montagne della provincia dell'Aquila"
+  },
+  {
+    "title": "Monte Marsicano",
+    "qid": "Q57583274",
+    "lat": null,
+    "lon": null,
+    "elevation": 2245,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Marsicano_da_Val_Fondillo_-_panoramio.jpg/1280px-Marsicano_da_Val_Fondillo_-_panoramio.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "sourceUrl": "https://it.wikipedia.org/wiki/Monte_Marsicano",
+    "category": "Categoria:Montagne della provincia dell'Aquila"
+  },
+  {
+    "title": "Montagna Grande (Appennino abruzzese)",
+    "qid": "Q31621235",
+    "lat": null,
+    "lon": null,
+    "elevation": 2208,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/57/Bisegna_2009_013_%28RaBoe%29.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "sourceUrl": "https://it.wikipedia.org/wiki/Montagna_Grande_(Appennino_abruzzese)",
+    "category": "Categoria:Montagne della provincia dell'Aquila"
+  },
+  {
+    "title": "Monte Tino",
+    "qid": "Q92811073",
+    "lat": null,
+    "lon": null,
+    "elevation": 1923,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Celano%20piazza%20IV%20Novembre%20e%20serra.jpg?width=1200",
+    "sourceUrl": "https://it.wikipedia.org/wiki/Monte_Tino",
+    "category": "Categoria:Montagne della provincia dell'Aquila"
+  },
+  {
+    "title": "Monte Genzana",
+    "qid": "Q31621513",
+    "lat": null,
+    "lon": null,
+    "elevation": null,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Monte_Genzana_Abruzzo.jpg/1280px-Monte_Genzana_Abruzzo.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "sourceUrl": "https://it.wikipedia.org/wiki/Monte_Genzana",
+    "category": "Categoria:Montagne della provincia dell'Aquila"
+  },
+  {
+    "title": "Monte Serra Rocca Chiarano",
+    "qid": "Q110086682",
+    "lat": null,
+    "lon": null,
+    "elevation": 2262,
+    "image": null,
+    "sourceUrl": "https://it.wikipedia.org/wiki/Monte_Serra_Rocca_Chiarano",
+    "category": "Categoria:Montagne della provincia dell'Aquila"
+  },
+  {
+    "title": "Monte Bolza",
+    "qid": "Q31626104",
+    "lat": null,
+    "lon": null,
+    "elevation": null,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Castel_del_Monte_01%28RaBoe%29.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "sourceUrl": "https://it.wikipedia.org/wiki/Monte_Bolza",
+    "category": "Categoria:Montagne della provincia dell'Aquila"
+  },
+  {
+    "title": "Monte Pratello",
+    "qid": "Q110461062",
+    "lat": null,
+    "lon": null,
+    "elevation": 2058,
+    "image": null,
+    "sourceUrl": "https://it.wikipedia.org/wiki/Monte_Pratello",
+    "category": "Categoria:Montagne della provincia dell'Aquila"
+  },
+  {
+    "title": "Monte Godi",
+    "qid": "Q110461053",
+    "lat": null,
+    "lon": null,
+    "elevation": 2011,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Passo_Godi_2009_012_%28RaBoe%29.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "sourceUrl": "https://it.wikipedia.org/wiki/Monte_Godi",
+    "category": "Categoria:Montagne della provincia dell'Aquila"
+  },
+  {
+    "title": "Monte Cappucciata",
+    "qid": "Q31625174",
+    "lat": null,
+    "lon": null,
+    "elevation": null,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/79/Italy_relief_location_map.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "sourceUrl": "https://it.wikipedia.org/wiki/Monte_Cappucciata",
+    "category": "Categoria:Montagne della provincia dell'Aquila"
+  },
+  {
+    "title": "Gruppo montuoso di Monte Orsello-Monte Puzzillo",
+    "qid": "Q110456629",
+    "lat": null,
+    "lon": null,
+    "elevation": null,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Tornimparte_-_panorama_da_Castiglione.JPG/1280px-Tornimparte_-_panorama_da_Castiglione.JPG?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "sourceUrl": "https://it.wikipedia.org/wiki/Gruppo_montuoso_di_Monte_Orsello-Monte_Puzzillo",
+    "category": "Categoria:Montagne della provincia dell'Aquila"
+  },
+  {
+    "title": "Monte Morrone (Montagne della Duchessa)",
+    "qid": "Q110408095",
+    "lat": null,
+    "lon": null,
+    "elevation": 2141,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Monte%20Morrone.JPG?width=1200",
+    "sourceUrl": "https://it.wikipedia.org/wiki/Monte_Morrone_(Montagne_della_Duchessa)",
+    "category": "Categoria:Montagne della provincia dell'Aquila"
+  },
+  {
+    "title": "Monte Costone (Montagne della Duchessa)",
+    "qid": "Q130600293",
+    "lat": null,
+    "lon": null,
+    "elevation": 2239,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Circhi%20glaciali%20del%20Monte%20Velino.jpg?width=1200",
+    "sourceUrl": "https://it.wikipedia.org/wiki/Monte_Costone_(Montagne_della_Duchessa)",
+    "category": "Categoria:Montagne della provincia dell'Aquila"
+  },
+  {
+    "title": "Monte Cafornia",
+    "qid": "Q31625855",
+    "lat": null,
+    "lon": null,
+    "elevation": 2424,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Vette_gemelle_del_Monte_Velino.jpg/1280px-Vette_gemelle_del_Monte_Velino.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "sourceUrl": "https://it.wikipedia.org/wiki/Monte_Cafornia",
+    "category": "Categoria:Montagne della provincia dell'Aquila"
+  },
+  {
+    "title": "Punta dell'Uccettù",
+    "qid": "Q110461631",
+    "lat": null,
+    "lon": null,
+    "elevation": 2005,
+    "image": null,
+    "sourceUrl": "https://it.wikipedia.org/wiki/Punta_dell'Uccett%C3%B9",
+    "category": "Categoria:Montagne della provincia dell'Aquila"
+  },
+  {
+    "title": "Monte di Mezzo (Appennino abruzzese)",
+    "qid": "Q107395121",
+    "lat": null,
+    "lon": null,
+    "elevation": 2155,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lago%20di%20Campotosto%202015%20by-RaBoe%20039.jpg?width=1200",
+    "sourceUrl": "https://it.wikipedia.org/wiki/Monte_di_Mezzo_(Appennino_abruzzese)",
+    "category": "Categoria:Montagne della provincia dell'Aquila"
+  },
+  {
+    "title": "Monte di Sevice",
+    "qid": "Q100707537",
+    "lat": null,
+    "lon": null,
+    "elevation": 2355,
+    "image": null,
+    "sourceUrl": "https://it.wikipedia.org/wiki/Monte_di_Sevice",
+    "category": "Categoria:Montagne della provincia dell'Aquila"
+  },
+  {
+    "title": "Punta Trento (Abruzzo)",
+    "qid": "Q100707525",
+    "lat": null,
+    "lon": null,
+    "elevation": 2243,
+    "image": null,
+    "sourceUrl": "https://it.wikipedia.org/wiki/Punta_Trento_(Abruzzo)",
+    "category": "Categoria:Montagne della provincia dell'Aquila"
+  },
+  {
+    "title": "Punta Trieste",
+    "qid": "Q110086790",
+    "lat": null,
+    "lon": null,
+    "elevation": 2230,
+    "image": null,
+    "sourceUrl": "https://it.wikipedia.org/wiki/Punta_Trieste",
+    "category": "Categoria:Montagne della provincia dell'Aquila"
+  },
+  {
+    "title": "Costa della Tavola",
+    "qid": "Q110102363",
+    "lat": null,
+    "lon": null,
+    "elevation": 2182,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/79/Italy_relief_location_map.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "sourceUrl": "https://it.wikipedia.org/wiki/Costa_della_Tavola",
+    "category": "Categoria:Montagne della provincia dell'Aquila"
+  },
+  {
+    "title": "Costone della Cerasa",
+    "qid": "Q110455350",
+    "lat": null,
+    "lon": null,
+    "elevation": 2119,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/79/Italy_relief_location_map.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "sourceUrl": "https://it.wikipedia.org/wiki/Costone_della_Cerasa",
+    "category": "Categoria:Montagne della provincia dell'Aquila"
+  },
+  {
+    "title": "Monte Rotella",
+    "qid": "Q31615215",
+    "lat": null,
+    "lon": null,
+    "elevation": 2129,
+    "image": null,
+    "sourceUrl": "https://it.wikipedia.org/wiki/Monte_Rotella",
+    "category": "Categoria:Montagne della provincia dell'Aquila"
+  },
+  {
+    "title": "Cima Avezzano",
+    "qid": "Q100721945",
+    "lat": null,
+    "lon": null,
+    "elevation": 2378,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Cima_Avezzano.jpg/1280px-Cima_Avezzano.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "sourceUrl": "https://it.wikipedia.org/wiki/Cima_Avezzano",
+    "category": "Categoria:Montagne della provincia dell'Aquila"
+  },
+  {
+    "title": "Monte Amaro",
+    "qid": "Q21992975",
+    "lat": null,
+    "lon": null,
+    "elevation": 2793,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Monte_Amaro_Majella.jpg/1280px-Monte_Amaro_Majella.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "sourceUrl": "https://it.wikipedia.org/wiki/Monte_Amaro",
+    "category": "Categoria:Montagne della provincia dell'Aquila"
+  },
+  {
+    "title": "Monte Rozza",
+    "qid": "Q100744515",
+    "lat": null,
+    "lon": null,
+    "elevation": 2064,
+    "image": null,
+    "sourceUrl": "https://it.wikipedia.org/wiki/Monte_Rozza",
+    "category": "Categoria:Montagne della provincia dell'Aquila"
+  },
+  {
+    "title": "Monte San Nicola (Abruzzo)",
+    "qid": "Q100744693",
+    "lat": null,
+    "lon": null,
+    "elevation": 2012,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Catena%20del%20Sirente-Velino.jpg?width=1200",
+    "sourceUrl": "https://it.wikipedia.org/wiki/Monte_San_Nicola_(Abruzzo)",
+    "category": "Categoria:Montagne della provincia dell'Aquila"
+  },
+  {
+    "title": "Monte Macellaro",
+    "qid": "Q100774576",
+    "lat": null,
+    "lon": null,
+    "elevation": 2646,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Relief_map_of_Italien_Abruzzen.png/1280px-Relief_map_of_Italien_Abruzzen.png?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "sourceUrl": "https://it.wikipedia.org/wiki/Monte_Macellaro",
+    "category": "Categoria:Montagne della provincia dell'Aquila"
+  },
+  {
+    "title": "Monte Acquaviva",
+    "qid": "Q31627807",
+    "lat": null,
+    "lon": null,
+    "elevation": 2737,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Monte_Acquaviva%2C_Majella.jpg/1280px-Monte_Acquaviva%2C_Majella.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "sourceUrl": "https://it.wikipedia.org/wiki/Monte_Acquaviva",
+    "category": "Categoria:Montagne della provincia dell'Aquila"
+  },
+  {
+    "title": "Monte Focalone",
+    "qid": "Q100805630",
+    "lat": null,
+    "lon": null,
+    "elevation": 2676,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Monte_Focalone.jpg/1280px-Monte_Focalone.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "sourceUrl": "https://it.wikipedia.org/wiki/Monte_Focalone",
+    "category": "Categoria:Montagne della provincia dell'Aquila"
+  },
+  {
+    "title": "Tavola Rotonda (Maiella)",
+    "qid": "Q110086635",
+    "lat": null,
+    "lon": null,
+    "elevation": 2403,
+    "image": null,
+    "sourceUrl": "https://it.wikipedia.org/wiki/Tavola_Rotonda_(Maiella)",
+    "category": "Categoria:Montagne della provincia dell'Aquila"
+  },
+  {
+    "title": "Monte Pesco Falcone",
+    "qid": "Q108271735",
+    "lat": null,
+    "lon": null,
+    "elevation": 2657,
+    "image": null,
+    "sourceUrl": "https://it.wikipedia.org/wiki/Monte_Pesco_Falcone",
+    "category": "Categoria:Montagne della provincia dell'Aquila"
+  },
+  {
+    "title": "Monte Bove (Appennino abruzzese)",
+    "qid": "Q102251551",
+    "lat": null,
+    "lon": null,
+    "elevation": 1346,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/38/Valico_Monte_Bove.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "sourceUrl": "https://it.wikipedia.org/wiki/Monte_Bove_(Appennino_abruzzese)",
+    "category": "Categoria:Montagne della provincia dell'Aquila"
+  },
+  {
+    "title": "Monte Midia",
+    "qid": "Q31618856",
+    "lat": null,
+    "lon": null,
+    "elevation": 1737,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Faggeta%20monte%20Midia.jpg?width=1200",
+    "sourceUrl": "https://it.wikipedia.org/wiki/Monte_Midia",
+    "category": "Categoria:Montagne della provincia dell'Aquila"
+  },
+  {
+    "title": "Monte Palombo",
+    "qid": "Q110533065",
+    "lat": null,
+    "lon": null,
+    "elevation": 2013,
+    "image": null,
+    "sourceUrl": "https://it.wikipedia.org/wiki/Monte_Palombo",
+    "category": "Categoria:Montagne della provincia dell'Aquila"
+  },
+  {
+    "title": "Monte Pizzalto",
+    "qid": "Q123503397",
+    "lat": null,
+    "lon": null,
+    "elevation": 1968,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Monte%20Pizzalto%20%E2%80%93%20vetta.jpg?width=1200",
+    "sourceUrl": "https://it.wikipedia.org/wiki/Monte_Pizzalto",
+    "category": "Categoria:Montagne della provincia dell'Aquila"
+  },
+  {
+    "title": "Monte Toppe del Tesoro",
+    "qid": "Q123502976",
+    "lat": null,
+    "lon": null,
+    "elevation": 2140,
+    "image": null,
+    "sourceUrl": "https://it.wikipedia.org/wiki/Monte_Toppe_del_Tesoro",
+    "category": "Categoria:Montagne della provincia dell'Aquila"
+  },
+  {
+    "title": "Tre Monti (Avezzano)",
+    "qid": "Q123917463",
+    "lat": null,
+    "lon": null,
+    "elevation": 1398,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/I%20Tre%20Monti.jpg?width=1200",
+    "sourceUrl": "https://it.wikipedia.org/wiki/Tre_Monti_(Avezzano)",
+    "category": "Categoria:Montagne della provincia dell'Aquila"
+  },
+  {
+    "title": "Monte Labbrone",
+    "qid": "Q124054586",
+    "lat": null,
+    "lon": null,
+    "elevation": 1099,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Monte_Labbrone.jpg/1280px-Monte_Labbrone.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "sourceUrl": "https://it.wikipedia.org/wiki/Monte_Labbrone",
+    "category": "Categoria:Montagne della provincia dell'Aquila"
+  },
+  {
+    "title": "Monte Serrone (Appennino abruzzese)",
+    "qid": "Q55831664",
+    "lat": null,
+    "lon": null,
+    "elevation": 1974,
+    "image": null,
+    "sourceUrl": "https://it.wikipedia.org/wiki/Monte_Serrone_(Appennino_abruzzese)",
+    "category": "Categoria:Montagne della provincia dell'Aquila"
+  },
+  {
+    "title": "Monte delle Vitelle",
+    "qid": "Q141775906",
+    "lat": null,
+    "lon": null,
+    "elevation": 1846,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Monte_delle_Vitelle.jpg/1280px-Monte_delle_Vitelle.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "sourceUrl": "https://it.wikipedia.org/wiki/Monte_delle_Vitelle",
+    "category": "Categoria:Montagne della provincia dell'Aquila"
+  },
+  {
+    "title": "Monte Girifalco",
+    "qid": "Q141806387",
+    "lat": null,
+    "lon": null,
+    "elevation": 1268,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Monte_Girifalco_Corcumello.jpg/1280px-Monte_Girifalco_Corcumello.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "sourceUrl": "https://it.wikipedia.org/wiki/Monte_Girifalco",
+    "category": "Categoria:Montagne della provincia dell'Aquila"
+  },
+  {
+    "title": "Monte Guardia d'Orlando",
+    "qid": "Q141955338",
+    "lat": null,
+    "lon": null,
+    "elevation": 1353,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Area_boschiva_riserva_naturale_regionale_Grotte_di_Luppa.jpg/1280px-Area_boschiva_riserva_naturale_regionale_Grotte_di_Luppa.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "sourceUrl": "https://it.wikipedia.org/wiki/Monte_Guardia_d'Orlando",
+    "category": "Categoria:Montagne della provincia dell'Aquila"
+  },
+  {
+    "title": "Corno Grande",
+    "qid": "Q636540",
+    "lat": 42.469167,
+    "lon": 13.565556,
+    "elevation": 2912,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Corno_grande_da_campo_imperatore.jpg/1280px-Corno_grande_da_campo_imperatore.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "sourceUrl": "https://it.wikipedia.org/wiki/Corno_Grande",
+    "category": "Categoria:Montagne della provincia di Teramo"
+  },
+  {
+    "title": "Corno Piccolo",
+    "qid": "Q2997570",
+    "lat": 42.46667,
+    "lon": 13.55,
+    "elevation": 2655,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Corno_Piccolo%2C_Gran_Sasso%2C_Province_of_Teramo%2C_Abruzzo%2C_Italy_-_panoramio.jpg/1280px-Corno_Piccolo%2C_Gran_Sasso%2C_Province_of_Teramo%2C_Abruzzo%2C_Italy_-_panoramio.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "sourceUrl": "https://it.wikipedia.org/wiki/Corno_Piccolo",
+    "category": "Categoria:Montagne della provincia di Teramo"
+  },
+  {
+    "title": "Monte Gorzano",
+    "qid": "Q3861600",
+    "lat": 42.61823,
+    "lon": 13.39558,
+    "elevation": 2458,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Veduta_di_Monte_Gorzano_da_Pagliaroli.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "sourceUrl": "https://it.wikipedia.org/wiki/Monte_Gorzano",
+    "category": "Categoria:Montagne della provincia di Teramo"
+  },
+  {
+    "title": "Pizzo Intermesoli",
+    "qid": "Q2097658",
+    "lat": 42.47245,
+    "lon": 13.527646,
+    "elevation": 2635,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Pizzo_Intersemoli.jpg/1280px-Pizzo_Intersemoli.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "sourceUrl": "https://it.wikipedia.org/wiki/Pizzo_Intermesoli",
+    "category": "Categoria:Montagne della provincia di Teramo"
+  },
+  {
+    "title": "Monte Giove (Abruzzo)",
+    "qid": "Q3861590",
+    "lat": 42.568136,
+    "lon": 13.791354,
+    "elevation": 749,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/79/Italy_relief_location_map.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "sourceUrl": "https://it.wikipedia.org/wiki/Monte_Giove_(Abruzzo)",
+    "category": "Categoria:Montagne della provincia di Teramo"
+  },
+  {
+    "title": "Pizzo di Sevo",
+    "qid": "Q3906036",
+    "lat": null,
+    "lon": null,
+    "elevation": 2419,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Pizzo_di_Sevo_%28Monti_della_Laga%29.jpg/1280px-Pizzo_di_Sevo_%28Monti_della_Laga%29.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "sourceUrl": "https://it.wikipedia.org/wiki/Pizzo_di_Sevo",
+    "category": "Categoria:Montagne della provincia di Teramo"
+  },
+  {
+    "title": "Cima Lepri",
+    "qid": "Q31641599",
+    "lat": null,
+    "lon": null,
+    "elevation": 2445,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Monti_della_Laga_1.jpg/1280px-Monti_della_Laga_1.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "sourceUrl": "https://it.wikipedia.org/wiki/Cima_Lepri",
+    "category": "Categoria:Montagne della provincia di Teramo"
+  },
+  {
+    "title": "Monte Pizzitello",
+    "qid": "Q55831490",
+    "lat": null,
+    "lon": null,
+    "elevation": 2221,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/79/Italy_relief_location_map.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "sourceUrl": "https://it.wikipedia.org/wiki/Monte_Pizzitello",
+    "category": "Categoria:Montagne della provincia di Teramo"
+  },
+  {
+    "title": "Monte Pelone Meridionale",
+    "qid": "Q31616966",
+    "lat": null,
+    "lon": null,
+    "elevation": null,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/79/Italy_relief_location_map.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "sourceUrl": "https://it.wikipedia.org/wiki/Monte_Pelone_Meridionale",
+    "category": "Categoria:Montagne della provincia di Teramo"
+  },
+  {
+    "title": "Cima della Laghetta",
+    "qid": "Q31620655",
+    "lat": null,
+    "lon": null,
+    "elevation": null,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Panorama_dall%27anticima_nord_della_Cima_della_Laghetta.jpg/1280px-Panorama_dall%27anticima_nord_della_Cima_della_Laghetta.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "sourceUrl": "https://it.wikipedia.org/wiki/Cima_della_Laghetta",
+    "category": "Categoria:Montagne della provincia di Teramo"
+  },
+  {
+    "title": "Pizzo di Moscio",
+    "qid": "Q107395040",
+    "lat": null,
+    "lon": null,
+    "elevation": 2411,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Pizzo_di_Moscio.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "sourceUrl": "https://it.wikipedia.org/wiki/Pizzo_di_Moscio",
+    "category": "Categoria:Montagne della provincia di Teramo"
+  },
+  {
+    "title": "Picco Pio XI",
+    "qid": "Q1849947",
+    "lat": null,
+    "lon": null,
+    "elevation": 2282,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Picco_Pio_XI_%28Gran_Sasso%29%2C_Teramo%2C_Abruzzo%2C_Italy.jpg/1280px-Picco_Pio_XI_%28Gran_Sasso%29%2C_Teramo%2C_Abruzzo%2C_Italy.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "sourceUrl": "https://it.wikipedia.org/wiki/Picco_Pio_XI",
+    "category": "Categoria:Montagne della provincia di Teramo"
+  },
+  {
+    "title": "Monte Bertona",
+    "qid": "Q3861228",
+    "lat": 42.4,
+    "lon": 13.85,
+    "elevation": 1220,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Bertona1.jpg/1280px-Bertona1.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "sourceUrl": "https://it.wikipedia.org/wiki/Monte_Bertona",
+    "category": "Categoria:Montagne della provincia di Pescara"
+  },
+  {
+    "title": "Cima della Cioccola",
+    "qid": "Q3676805",
+    "lat": 42.37255,
+    "lon": 13.825672,
+    "elevation": 1581,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Cima_della_Cioccola.JPG/1280px-Cima_della_Cioccola.JPG?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "sourceUrl": "https://it.wikipedia.org/wiki/Cima_della_Cioccola",
+    "category": "Categoria:Montagne della provincia di Pescara"
+  },
+  {
+    "title": "Cima Blockhaus",
+    "qid": "Q21154533",
+    "lat": 42.145135,
+    "lon": 14.110975,
+    "elevation": 2143,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Cima_Blockhaus.JPG/1280px-Cima_Blockhaus.JPG?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "sourceUrl": "https://it.wikipedia.org/wiki/Cima_Blockhaus",
+    "category": "Categoria:Montagne della provincia di Pescara"
+  },
+  {
+    "title": "Monte Pallano",
+    "qid": "Q3861810",
+    "lat": 42.0320896,
+    "lon": 14.3769818,
+    "elevation": 1020,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Monte_Pallano.jpg/1280px-Monte_Pallano.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "sourceUrl": "https://it.wikipedia.org/wiki/Monte_Pallano",
+    "category": "Categoria:Montagne della provincia di Chieti"
+  },
+  {
+    "title": "Monte Castelfraiano",
+    "qid": "Q3861416",
+    "lat": 41.885511,
+    "lon": 14.408939,
+    "elevation": 1415,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Monte_Castelfraiano.PNG?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "sourceUrl": "https://it.wikipedia.org/wiki/Monte_Castelfraiano",
+    "category": "Categoria:Montagne della provincia di Chieti"
+  },
+  {
+    "title": "Cima delle Murelle",
+    "qid": "Q109378222",
+    "lat": 42.111923,
+    "lon": 14.133041,
+    "elevation": 2596,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Cima_delle_Murelle.jpg/1280px-Cima_delle_Murelle.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "sourceUrl": "https://it.wikipedia.org/wiki/Cima_delle_Murelle",
+    "category": "Categoria:Montagne della provincia di Chieti"
+  },
+  {
+    "title": "Cima Mammarosa",
+    "qid": "Q108137931",
+    "lat": 42.171193,
+    "lon": 14.116475,
+    "elevation": null,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Blockhaus_Parco_nazionale_della_Majella_2010-by-RaBoe-28.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "sourceUrl": "https://it.wikipedia.org/wiki/Cima_Mammarosa",
+    "category": "Categoria:Montagne della provincia di Chieti"
+  }
+]
