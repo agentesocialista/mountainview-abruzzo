@@ -3,8 +3,8 @@
   "counts": {
     "peaks": 100,
     "huts": 111,
-    "webcams": 117,
-    "total": 328
+    "webcams": 118,
+    "total": 329
   },
   "sources": [
     {
@@ -26,6 +26,11 @@
       "label": "Ass. AQ Caput Frigoris — webcam",
       "url": "https://www.caputfrigoris.it/webcam_abruzzo.php",
       "license": "Immagini dei rispettivi proprietari"
+    },
+    {
+      "label": "MeteoProject / CAI Roma — webcam Rifugio Vincenzo Sebastiani",
+      "url": "https://stazioni.meteoproject.it/dati/rifugiosebastiani/webcam.php",
+      "license": "Immagine del proprietario"
     }
   ]
 }

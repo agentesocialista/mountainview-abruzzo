@@ -4,6 +4,7 @@ import { createPortal } from "react-dom";
 import type { WebcamPoi } from "../types";
 import { formatElevation } from "../lib/geo";
 import { LiveImage } from "./LiveImage";
+import { uniqueWebcamSources, WebcamSourceLinks } from "./WebcamSources";
 
 interface LightboxProps {
   webcam: WebcamPoi;
@@ -65,8 +66,8 @@ export function Lightbox({ webcam, onClose }: LightboxProps) {
         />
         <div className="lightbox__footer">
           <span>
-            Immagini per gentile concessione dei rispettivi proprietari · Fonte Ass. AQ
-            Caput Frigoris
+            Immagini per gentile concessione dei rispettivi proprietari · Fonte{" "}
+            <WebcamSourceLinks sources={uniqueWebcamSources([webcam])} />
           </span>
           <a href={webcam.sourceUrl} target="_blank" rel="noreferrer">
             Apri la fonte <ExternalLink size={13} aria-hidden="true" />

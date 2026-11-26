@@ -334,6 +334,32 @@ const webcamRecords = webcamsRaw
     };
   });
 
+// Webcam del Rifugio Vincenzo Sebastiani, pubblicata dall'osservatorio
+// meteorologico MeteoProject / CAI Roma (non presente nell'elenco Caput Frigoris).
+const sebastianiLat = 42.179;
+const sebastianiLon = 13.392;
+const sebastianiGroup = groupOf(sebastianiLat, sebastianiLon, 2102);
+webcamRecords.push({
+  id: "webcam-sebastiani",
+  kind: "webcam",
+  name: "Rifugio Vincenzo Sebastiani",
+  lat: sebastianiLat,
+  lon: sebastianiLon,
+  elevation: 2102,
+  group: sebastianiGroup,
+  province: "L'Aquila",
+  description:
+    "Vista in diretta dal Rifugio Vincenzo Sebastiani, al Colletto di Pezza nel cuore del Sirente-Velino. L'immagine è pubblicata dall'osservatorio meteorologico MeteoProject / CAI Roma.",
+  imageUrl: "https://stazioni.meteoproject.it/webcam/rifugiosebastiani/sebastiani.jpg",
+  imageCredit: "MeteoProject / CAI Roma",
+  sourceUrl: "https://stazioni.meteoproject.it/dati/rifugiosebastiani/webcam.php",
+  sourceLabel: "MeteoProject · CAI Roma",
+  tags: ["Webcam live", sebastianiGroup],
+  featured: true,
+  webcamKey: "sebastiani",
+  accuracy: "locality",
+});
+
 const wikiRefugeByKey = new Map(
   wikiRefuges.map((item) => [normalizeName(item.title.replace(/\s*\(.*?\)\s*/g, "")), item]),
 );
@@ -435,7 +461,7 @@ for (const hut of hutRecords) {
     const cam = webcamForHut(hut.name);
     if (cam) {
       hut.imageUrl = cam.imageUrl;
-      hut.imageCredit = "Webcam Ass. AQ Caput Frigoris";
+      hut.imageCredit = `Webcam ${cam.imageCredit ?? cam.sourceLabel}`;
     }
   }
 }
@@ -465,6 +491,11 @@ const meta = {
       label: "Ass. AQ Caput Frigoris — webcam",
       url: "https://www.caputfrigoris.it/webcam_abruzzo.php",
       license: "Immagini dei rispettivi proprietari",
+    },
+    {
+      label: "MeteoProject / CAI Roma — webcam Rifugio Vincenzo Sebastiani",
+      url: "https://stazioni.meteoproject.it/dati/rifugiosebastiani/webcam.php",
+      license: "Immagine del proprietario",
     },
   ],
 };

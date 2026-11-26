@@ -2,6 +2,7 @@ import { Camera, ExternalLink, Maximize2 } from "lucide-react";
 import type { Poi, WebcamPoi } from "../types";
 import { formatDistance, formatElevation, nearbyWebcams } from "../lib/geo";
 import { LiveImage } from "./LiveImage";
+import { uniqueWebcamSources, WebcamSourceLinks } from "./WebcamSources";
 
 interface WebcamSectionProps {
   poi: Poi;
@@ -19,6 +20,7 @@ export function WebcamSection({
   const isWebcam = poi.kind === "webcam";
   const nearby = nearbyWebcams(poi, webcams, 4, 30);
   const title = isWebcam ? "Altre webcam vicine" : "Webcam nelle vicinanze";
+  const sources = uniqueWebcamSources(nearby.map(({ webcam }) => webcam));
 
   return (
     <section className="detail-section webcam-section" aria-labelledby="webcam-title">
@@ -95,12 +97,14 @@ export function WebcamSection({
 
       <div className="webcam-source">
         <span>
-          Immagini live per gentile concessione dei rispettivi proprietari. Fonte: Ass. AQ
-          Caput Frigoris.
+          Immagini live per gentile concessione dei rispettivi proprietari. Fonte:{" "}
+          <WebcamSourceLinks sources={sources} />.
         </span>
-        <a href="https://www.caputfrigoris.it/webcam_abruzzo.php" target="_blank" rel="noreferrer">
-          Vedi tutte <ExternalLink size={13} aria-hidden="true" />
-        </a>
+        {sources.length === 1 && (
+          <a href={sources[0].url} target="_blank" rel="noreferrer">
+            Vedi tutte <ExternalLink size={13} aria-hidden="true" />
+          </a>
+        )}
       </div>
     </section>
   );

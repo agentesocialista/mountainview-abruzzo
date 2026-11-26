@@ -63,13 +63,14 @@ Per raccogliere di nuovo i dati grezzi (richiede rete) eseguire, nell'ordine, `s
 | Quote mancanti | [Open-Meteo Elevation API](https://open-meteo.com/en/docs/elevation-api) | CC BY 4.0 |
 | Previsioni meteo | [Open-Meteo Forecast API](https://open-meteo.com) | CC BY 4.0; richieste dal browser, cache 20 minuti |
 | Webcam | [Ass. AQ Caput Frigoris](https://www.caputfrigoris.it/webcam_abruzzo.php) | Immagini dei rispettivi proprietari |
+| Webcam Rifugio Vincenzo Sebastiani | [MeteoProject / CAI Roma](https://stazioni.meteoproject.it/dati/rifugiosebastiani/webcam.php) | Immagine del proprietario; aggiunta come record curato in `scripts/build-data.mjs` |
 
-Le immagini delle webcam sono caricate direttamente da `webcam_proxy.php` del sito Caput Frigoris, con aggiornamento anti-cache. L'attribuzione alla fonte e ai proprietari è visibile nella sidebar, nelle schede, nelle webcam vicine e nel lightbox. **Prima di una pubblicazione commerciale o di un uso diverso da quello informativo, occorre ottenere l'autorizzazione dei proprietari delle immagini.**
+Le immagini delle webcam Caput Frigoris sono caricate direttamente dal loro `webcam_proxy.php`, con aggiornamento anti-cache; quella del Rifugio Vincenzo Sebastiani è caricata dal sito MeteoProject / CAI Roma. L'attribuzione alla fonte specifica di ogni webcam e ai proprietari è visibile nella sidebar, nelle schede, nelle webcam vicine e nel lightbox. **Prima di una pubblicazione commerciale o di un uso diverso da quello informativo, occorre ottenere l'autorizzazione dei proprietari delle immagini.**
 
 ### Note sulla qualità dei dati
 
 - Le vette includono alcune cime di confine appena fuori dal poligono dell'Abruzzo (Monti della Laga, Montagne della Duchessa, Ernici): sono meta abituale degli escursionisti abruzzesi e quindi mantenute.
-- 21 webcam hanno coordinate derivate dalla località e non dal punto esatto della camera; la scheda lo segnala con "Posizione indicativa, ricavata dalla località". I marker coincidenti vengono leggermente separati sulla mappa per restare cliccabili.
+- 21 webcam hanno coordinate derivate dalla località e non dal punto esatto della camera; la scheda lo segnala con "Posizione indicativa, ricavata dalla località". La webcam del Rifugio Vincenzo Sebastiani usa invece le coordinate pubblicate dalla stazione meteorologica (42.179 N, 13.392 E). I marker coincidenti vengono leggermente separati sulla mappa per restare cliccabili.
 - Le quote possono mancare (`n.d.`) quando nessuna fonte le riporta: il meteo usa in quel caso la quota del modello Open-Meteo.
 
 ## Limitazioni

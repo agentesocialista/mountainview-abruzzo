@@ -6,6 +6,7 @@ import { FilterBar } from "./FilterBar";
 import { LiveImage } from "./LiveImage";
 import { Logo } from "./Logo";
 import { SearchBox } from "./SearchBox";
+import { uniqueWebcamSources, WebcamSourceLinks } from "./WebcamSources";
 
 interface SidebarProps {
   peaks: Poi[];
@@ -165,8 +166,8 @@ export function Sidebar({
               </span>
             </button>
             <p className="sidebar__note">
-              Immagini per gentile concessione dei rispettivi proprietari, fonte Ass. AQ
-              Caput Frigoris.
+              Immagini per gentile concessione dei rispettivi proprietari, fonte{" "}
+              <WebcamSourceLinks sources={uniqueWebcamSources([liveCam])} />.
             </p>
           </section>
         )}

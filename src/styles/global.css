@@ -546,6 +546,16 @@ img {
   color: var(--muted);
 }
 
+.sidebar__note a {
+  color: var(--forest);
+  font-weight: 750;
+  text-decoration: none;
+}
+
+.sidebar__note a:hover {
+  color: var(--terra);
+}
+
 /* ------------------------------------------------------------------ */
 /* Search                                                              */
 /* ------------------------------------------------------------------ */
