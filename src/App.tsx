@@ -2,6 +2,7 @@ import { Menu, Search, TriangleAlert } from "lucide-react";
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import type { MapStyle, Poi, PoiKind, WebcamPoi } from "./types";
 import { useDataset } from "./hooks/useDataset";
+import { useFavorites } from "./hooks/useFavorites";
 import { FilterBar } from "./components/FilterBar";
 import { DetailPanel } from "./components/DetailPanel";
 import { Lightbox } from "./components/Lightbox";
@@ -13,6 +14,8 @@ const isMobile = () => window.matchMedia("(max-width: 1024px)").matches;
 
 export default function App() {
   const { data, meta, loading, error } = useDataset();
+  const { favoriteIds, toggleFavorite } = useFavorites();
+  const [favoritesOnly, setFavoritesOnly] = useState(false);
   const [activeTypes, setActiveTypes] = useState<Record<PoiKind, boolean>>({
     peak: true,
     hut: true,
@@ -61,10 +64,24 @@ export default function App() {
     [data, selectedId],
   );
 
-  const visiblePois = useMemo(
-    () => (data ? data.all.filter((poi) => activeTypes[poi.kind]) : []),
-    [data, activeTypes],
+  const favoritePois = useMemo(
+    () => (data ? data.all.filter((poi) => favoriteIds.has(poi.id)) : []),
+    [data, favoriteIds],
   );
+
+  const visiblePois = useMemo(
+    () =>
+      data
+        ? data.all.filter(
+            (poi) => activeTypes[poi.kind] && (!favoritesOnly || favoriteIds.has(poi.id)),
+          )
+        : [],
+    [data, activeTypes, favoritesOnly, favoriteIds],
+  );
+
+  useEffect(() => {
+    if (favoritePois.length === 0) setFavoritesOnly(false);
+  }, [favoritePois.length]);
 
   const handleSelect = useCallback(
     (poi: Poi | null) => {
@@ -92,6 +109,19 @@ export default function App() {
     },
     [selectedPoi, closeDetail],
   );
+
+  const handleToggleFavorite = useCallback(
+    (id: string) => {
+      const wasFavorite = favoriteIds.has(id);
+      toggleFavorite(id);
+      if (favoritesOnly && wasFavorite && id === selectedId) closeDetail();
+    },
+    [favoriteIds, toggleFavorite, favoritesOnly, selectedId, closeDetail],
+  );
+
+  const handleToggleFavoritesOnly = useCallback(() => {
+    setFavoritesOnly((current) => !current);
+  }, []);
 
   const openSidebar = (focusSearch = false) => {
     setSidebarOpen(true);
@@ -158,6 +188,10 @@ export default function App() {
           search={search}
           onSearchChange={setSearch}
           onSelect={handleSelect}
+          favoritePois={favoritePois}
+          favoritesOnly={favoritesOnly}
+          onToggleFavorites={handleToggleFavoritesOnly}
+          onToggleFavorite={handleToggleFavorite}
           onClose={() => setSidebarOpen(false)}
           searchInputRef={searchInputRef}
         />
@@ -177,6 +211,7 @@ export default function App() {
           pois={visiblePois}
           selected={selectedPoi}
           onSelect={handleSelect}
+          favoriteIds={favoriteIds}
           mapStyle={mapStyle}
           onMapStyleChange={setMapStyle}
         />
@@ -215,6 +250,9 @@ export default function App() {
             counts={counts}
             active={activeTypes}
             onToggle={handleToggleType}
+            favoriteCount={favoritePois.length}
+            favoritesOnly={favoritesOnly}
+            onToggleFavorites={handleToggleFavoritesOnly}
             compact
           />
         </div>
@@ -226,6 +264,8 @@ export default function App() {
             onClose={closeDetail}
             onSelectWebcam={(webcam) => handleSelect(webcam)}
             onOpenLightbox={setLightbox}
+            favorite={favoriteIds.has(selectedPoi.id)}
+            onToggleFavorite={handleToggleFavorite}
             closing={closingDetail}
           />
         )}

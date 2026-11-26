@@ -1,10 +1,13 @@
-import { Camera, Home, Mountain } from "lucide-react";
+import { Camera, Home, Mountain, Star } from "lucide-react";
 import type { PoiKind } from "../types";
 
 interface FilterBarProps {
   counts: Record<PoiKind, number>;
   active: Record<PoiKind, boolean>;
   onToggle: (kind: PoiKind) => void;
+  favoriteCount?: number;
+  favoritesOnly?: boolean;
+  onToggleFavorites?: () => void;
   compact?: boolean;
 }
 
@@ -18,7 +21,17 @@ const filters: Array<{
   { kind: "webcam", label: "Webcam", icon: Camera },
 ];
 
-export function FilterBar({ counts, active, onToggle, compact = false }: FilterBarProps) {
+export function FilterBar({
+  counts,
+  active,
+  onToggle,
+  favoriteCount = 0,
+  favoritesOnly = false,
+  onToggleFavorites,
+  compact = false,
+}: FilterBarProps) {
+  const showFavorites = onToggleFavorites && (favoriteCount > 0 || favoritesOnly);
+
   return (
     <div className={`filter-bar ${compact ? "filter-bar--compact" : ""}`} role="group" aria-label="Filtra i luoghi sulla mappa">
       {filters.map(({ kind, label, icon: Icon }) => (
@@ -35,6 +48,18 @@ export function FilterBar({ counts, active, onToggle, compact = false }: FilterB
           <span className="filter-chip__count">{counts[kind]}</span>
         </button>
       ))}
+      {showFavorites && (
+        <button
+          type="button"
+          className={`filter-chip filter-chip--favorite ${favoritesOnly ? "is-active" : ""}`}
+          aria-pressed={favoritesOnly}
+          onClick={onToggleFavorites}
+        >
+          <Star size={15} strokeWidth={1.9} fill={favoritesOnly ? "currentColor" : "none"} aria-hidden="true" />
+          <span>Preferiti</span>
+          <span className="filter-chip__count">{favoriteCount}</span>
+        </button>
+      )}
     </div>
   );
 }

@@ -1,4 +1,4 @@
-import { ArrowUpRight, Camera, ExternalLink, MapPin, Mountain, X } from "lucide-react";
+import { ArrowUpRight, Camera, ExternalLink, MapPin, Mountain, Star, X } from "lucide-react";
 import { useEffect, useRef } from "react";
 import type { Poi, WebcamPoi } from "../types";
 import {
@@ -19,6 +19,8 @@ interface DetailPanelProps {
   onClose: () => void;
   onSelectWebcam: (webcam: WebcamPoi) => void;
   onOpenLightbox: (webcam: WebcamPoi) => void;
+  favorite: boolean;
+  onToggleFavorite: (id: string) => void;
   closing?: boolean;
 }
 
@@ -28,6 +30,8 @@ export function DetailPanel({
   onClose,
   onSelectWebcam,
   onOpenLightbox,
+  favorite,
+  onToggleFavorite,
   closing = false,
 }: DetailPanelProps) {
   const weather = useWeather(poi);
@@ -44,6 +48,16 @@ export function DetailPanel({
       aria-label={`Dettaglio di ${poi.name}`}
     >
       <div className="detail-panel__handle" aria-hidden="true" />
+      <button
+        type="button"
+        className={`detail-favorite${favorite ? " is-active" : ""}`}
+        onClick={() => onToggleFavorite(poi.id)}
+        aria-pressed={favorite}
+        aria-label={favorite ? `Rimuovi ${poi.name} dai preferiti` : `Aggiungi ${poi.name} ai preferiti`}
+        title={favorite ? "Rimuovi dai preferiti" : "Aggiungi ai preferiti"}
+      >
+        <Star size={19} fill={favorite ? "currentColor" : "none"} aria-hidden="true" />
+      </button>
       <button
         type="button"
         className="detail-close"

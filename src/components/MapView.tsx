@@ -9,6 +9,7 @@ interface MapViewProps {
   pois: Poi[];
   selected: Poi | null;
   onSelect: (poi: Poi | null) => void;
+  favoriteIds: ReadonlySet<string>;
   mapStyle: MapStyle;
   onMapStyleChange: (style: MapStyle) => void;
 }
@@ -93,6 +94,17 @@ const escapeHtml = (value: string) =>
       })[character] ?? character,
   );
 
+const tooltipFor = (poi: Poi, favorite: boolean) =>
+  `<div class="mv-tooltip"><span class="mv-tooltip__type">${kindLabel(poi.kind)}</span><strong>${escapeHtml(
+    poi.name,
+  )}</strong><span>${formatElevation(poi.elevation)} · ${escapeHtml(poi.group)}</span>${
+    poi.kind === "webcam"
+      ? '<span class="mv-tooltip__live"><i></i> LIVE</span>'
+      : ""
+  }${
+    favorite ? '<span class="mv-tooltip__fav">★ Nei preferiti</span>' : ""
+  }</div>`;
+
 const ICONS = {
   peak: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m3 20 6.5-11 4 6 2-3L21 20H3Z"/></svg>',
   hut: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m3 11 9-7 9 7"/><path d="M5 10v10h14V10"/><path d="M9 20v-6h6v6"/></svg>',
@@ -100,19 +112,22 @@ const ICONS = {
     '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 7h3l2-3h6l2 3h3v13H4z"/><circle cx="12" cy="13" r="3.3"/></svg>',
 };
 
-const iconFor = (poi: Poi, selected = false): L.DivIcon => {
+const iconFor = (poi: Poi, selected = false, favorite = false): L.DivIcon => {
   const major = poi.kind === "peak" && (poi.elevation ?? 0) >= 2400;
   const classes = [
     "mv-pin",
     `mv-pin--${poi.kind}`,
     major ? "is-major" : "",
     selected ? "is-selected" : "",
+    favorite ? "is-favorite" : "",
   ]
     .filter(Boolean)
     .join(" ");
   return L.divIcon({
     className: "mv-marker",
-    html: `<span class="${classes}"><span class="mv-pin__icon">${ICONS[poi.kind]}</span>${poi.kind === "webcam" ? '<span class="mv-pin__pulse"></span>' : ""}</span>`,
+    html: `<span class="${classes}"><span class="mv-pin__icon">${ICONS[poi.kind]}</span>${
+      poi.kind === "webcam" ? '<span class="mv-pin__pulse"></span>' : ""
+    }${favorite ? '<span class="mv-pin__fav" aria-hidden="true">★</span>' : ""}</span>`,
     iconSize: major ? [38, 38] : [32, 32],
     iconAnchor: major ? [19, 34] : [16, 29],
   });
@@ -128,7 +143,14 @@ const clusterIcon = (cluster: L.MarkerCluster): L.DivIcon => {
   });
 };
 
-export function MapView({ pois, selected, onSelect, mapStyle, onMapStyleChange }: MapViewProps) {
+export function MapView({
+  pois,
+  selected,
+  onSelect,
+  favoriteIds,
+  mapStyle,
+  onMapStyleChange,
+}: MapViewProps) {
   const containerRef = useRef<HTMLDivElement>(null);
   const mapRef = useRef<L.Map | null>(null);
   const tileRef = useRef<L.TileLayer | null>(null);
@@ -220,30 +242,22 @@ export function MapView({ pois, selected, onSelect, mapStyle, onMapStyleChange }
     for (const poi of pois) {
       poiMapRef.current.set(poi.id, poi);
       const position = markerPositions.get(poi.id) ?? [poi.lat, poi.lon];
+      const favorite = favoriteIds.has(poi.id);
       const marker = L.marker(position, {
-        icon: iconFor(poi, poi.id === selectedIdRef.current),
+        icon: iconFor(poi, poi.id === selectedIdRef.current, favorite),
         title: poi.name,
         riseOnHover: true,
         keyboard: true,
-        alt: `${kindLabel(poi.kind)}: ${poi.name}`,
+        alt: `${kindLabel(poi.kind)}: ${poi.name}${favorite ? " · nei preferiti" : ""}`,
       });
       marker.on("click", () => onSelectRef.current(poi));
-      marker.bindTooltip(
-        `<div class="mv-tooltip"><span class="mv-tooltip__type">${kindLabel(poi.kind)}</span><strong>${escapeHtml(
-          poi.name,
-        )}</strong><span>${formatElevation(poi.elevation)} · ${escapeHtml(poi.group)}</span>${
-          poi.kind === "webcam"
-            ? '<span class="mv-tooltip__live"><i></i> LIVE</span>'
-            : ""
-        }</div>`,
-        {
-          direction: "top",
-          offset: [0, -30],
-          opacity: 1,
-          className: "mv-tooltip-shell",
-          sticky: false,
-        },
-      );
+      marker.bindTooltip(tooltipFor(poi, favorite), {
+        direction: "top",
+        offset: [0, -30],
+        opacity: 1,
+        className: "mv-tooltip-shell",
+        sticky: false,
+      });
       markersRef.current.set(poi.id, marker);
       cluster.addLayer(marker);
     }
@@ -265,15 +279,24 @@ export function MapView({ pois, selected, onSelect, mapStyle, onMapStyleChange }
     if (previous && previous !== selectedIdRef.current) {
       const marker = markersRef.current.get(previous);
       const poi = poiMapRef.current.get(previous);
-      if (marker && poi) marker.setIcon(iconFor(poi, false));
+      if (marker && poi) marker.setIcon(iconFor(poi, false, favoriteIds.has(poi.id)));
     }
     if (selectedIdRef.current) {
       const marker = markersRef.current.get(selectedIdRef.current);
       const poi = poiMapRef.current.get(selectedIdRef.current);
-      if (marker && poi) marker.setIcon(iconFor(poi, true));
+      if (marker && poi) marker.setIcon(iconFor(poi, true, favoriteIds.has(poi.id)));
     }
     previousSelectedRef.current = selectedIdRef.current;
-  }, [selected]);
+  }, [selected, favoriteIds]);
+
+  useEffect(() => {
+    for (const [id, marker] of markersRef.current) {
+      const poi = poiMapRef.current.get(id);
+      if (!poi) continue;
+      marker.setIcon(iconFor(poi, id === selectedIdRef.current, favoriteIds.has(id)));
+      marker.setTooltipContent(tooltipFor(poi, favoriteIds.has(id)));
+    }
+  }, [favoriteIds]);
 
   useEffect(() => {
     if (!selected || !mapRef.current) return;
@@ -379,7 +402,7 @@ export function MapView({ pois, selected, onSelect, mapStyle, onMapStyleChange }
         <span><i className="legend-dot legend-dot--peak" /> Vette</span>
         <span><i className="legend-dot legend-dot--hut" /> Rifugi</span>
         <span><i className="legend-dot legend-dot--webcam" /> Webcam</span>
-        <strong>{visibleCount} luoghi</strong>
+        <strong>{visibleCount} {visibleCount === 1 ? "luogo" : "luoghi"}</strong>
       </div>
 
       <div className="map-status">

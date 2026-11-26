@@ -9,6 +9,7 @@ Il sito è completamente statico: non richiede un backend e può essere pubblica
 - Mappa Leaflet con tre stili (rilievo OpenTopoMap, satellite Esri, mappa chiara CARTO), clustering dei marker, tooltip, zoom, geolocalizzazione e pulsante "torna all'Abruzzo".
 - Ricerca full-text (vette, rifugi, webcam) con scorciatoia `⌘K` / `Ctrl+K` e navigazione da tastiera.
 - Filtri per tipologia, condivisi tra la barra desktop e quella mobile.
+- Preferiti: stella nella scheda di dettaglio, elenco nella sidebar e filtro "Preferiti" per mostrare solo i luoghi salvati; tutto persistito in `localStorage` e sincronizzato tra schede.
 - Scheda di dettaglio con dati tecnici, previsioni Open-Meteo a 7 giorni e webcam nel raggio di 30 km.
 - Webcam live con aggiornamento automatico ogni 2 minuti, ingrandimento a schermo intero e link alla fonte.
 - Interfaccia responsive: pannello laterale su desktop, basso foglio su mobile.
@@ -35,8 +36,8 @@ Per pubblicare sotto un sotto-percorso, imposta `base` in `vite.config.ts`; `use
 src/
   App.tsx               stato dell'app, filtri, selezione, scorciatoie
   components/           mappa, sidebar, scheda, meteo, webcam, lightbox
-  hooks/                caricamento dataset e stato meteo
-  lib/                  geometria, formattazione, client Open-Meteo
+  hooks/                caricamento dataset, stato meteo e preferiti
+  lib/                  geometria, formattazione, preferiti, client Open-Meteo
   styles/global.css     design system e layout responsive
 scripts/
   build-data.mjs        genera i JSON da scripts/raw/

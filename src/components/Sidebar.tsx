@@ -1,6 +1,6 @@
-import { ArrowUpRight, Camera, Sparkles, X } from "lucide-react";
+import { ArrowUpRight, Camera, Home, Mountain, Sparkles, Star, X } from "lucide-react";
 import type { DatasetMeta, Poi, PoiKind, WebcamPoi } from "../types";
-import { formatElevation, pluralKind } from "../lib/geo";
+import { formatElevation, kindLabel, pluralKind } from "../lib/geo";
 import { FeatureCard } from "./FeatureCard";
 import { FilterBar } from "./FilterBar";
 import { LiveImage } from "./LiveImage";
@@ -19,6 +19,10 @@ interface SidebarProps {
   search: string;
   onSearchChange: (value: string) => void;
   onSelect: (poi: Poi) => void;
+  favoritePois: Poi[];
+  favoritesOnly: boolean;
+  onToggleFavorites: () => void;
+  onToggleFavorite: (id: string) => void;
   onClose?: () => void;
   searchInputRef?: React.RefObject<HTMLInputElement | null>;
 }
@@ -34,9 +38,18 @@ export function Sidebar({
   search,
   onSearchChange,
   onSelect,
+  favoritePois,
+  favoritesOnly,
+  onToggleFavorites,
+  onToggleFavorite,
   onClose,
   searchInputRef,
 }: SidebarProps) {
+  const kindIcon = (kind: Poi["kind"]) => {
+    if (kind === "peak") return <Mountain size={15} aria-hidden="true" />;
+    if (kind === "hut") return <Home size={15} aria-hidden="true" />;
+    return <Camera size={15} aria-hidden="true" />;
+  };
   const featuredPeaks = peaks.filter((poi) => poi.featured).slice(0, 3);
   const featuredHuts = huts.filter((poi) => poi.featured).slice(0, 2);
   const featured = [...featuredPeaks, ...featuredHuts];
@@ -108,9 +121,56 @@ export function Sidebar({
             counts={counts}
             active={activeTypes}
             onToggle={onToggleType}
+            favoriteCount={favoritePois.length}
+            favoritesOnly={favoritesOnly}
+            onToggleFavorites={onToggleFavorites}
             compact
           />
         </div>
+
+        {favoritePois.length > 0 && (
+          <section className="sidebar__section sidebar__favorites">
+            <div className="section-heading">
+              <div>
+                <p className="eyebrow eyebrow--small">
+                  <Star size={12} aria-hidden="true" /> Preferiti
+                </p>
+                <h2>I tuoi luoghi</h2>
+              </div>
+              <span className="section-heading__hint">Salvati su questo dispositivo</span>
+            </div>
+            <div className="favorite-list">
+              {favoritePois.map((poi) => (
+                <div className="favorite-row" key={poi.id}>
+                  <button
+                    type="button"
+                    className="favorite-row__main"
+                    onClick={() => onSelect(poi)}
+                  >
+                    <span className={`favorite-row__icon favorite-row__icon--${poi.kind}`}>
+                      {kindIcon(poi.kind)}
+                    </span>
+                    <span className="favorite-row__text">
+                      <strong>{poi.name}</strong>
+                      <span>
+                        {kindLabel(poi.kind)} · {formatElevation(poi.elevation)} · {poi.group}
+                      </span>
+                    </span>
+                  </button>
+                  <button
+                    type="button"
+                    className="favorite-row__remove"
+                    onClick={() => onToggleFavorite(poi.id)}
+                    aria-label={`Rimuovi ${poi.name} dai preferiti`}
+                    title="Rimuovi dai preferiti"
+                  >
+                    <Star size={15} fill="currentColor" aria-hidden="true" />
+                  </button>
+                </div>
+              ))}
+            </div>
+          </section>
+        )}
 
         <section className="sidebar__section">
           <div className="section-heading">
