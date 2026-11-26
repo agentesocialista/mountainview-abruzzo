@@ -272,7 +272,30 @@ const webcamName = (label) =>
     .replace(/\s+/g, " ")
     .trim();
 
+// Il feed Caput Frigoris di queste due webcam è fermo a una vecchia immagine:
+// si usano quindi i feed aggiornati pubblicati da WeatherCam.it / MeteoProject.
+const weatherCamSource = {
+  imageCredit: "MeteoProject / WeatherCam.it",
+  sourceLabel: "WeatherCam.it · MeteoProject",
+};
+
 const webcamOverrides = {
+  a1: {
+    ...weatherCamSource,
+    imageUrl: "https://stazioni.meteoproject.it/webcam/rifugioducaabruzzi/gransasso.jpg",
+    sourceUrl: "https://www.weathercam.it/webcam/rifugioducaabruzzi",
+    description:
+      "Vista in diretta dal Rifugio Duca degli Abruzzi, a 2388 m sul versante meridionale della Maiella. L'immagine è pubblicata da WeatherCam.it / MeteoProject.",
+    accuracy: "locality",
+  },
+  a117: {
+    ...weatherCamSource,
+    imageUrl: "https://www.meteoproject.it/ftp/webcam/ortona/ortona.jpg",
+    sourceUrl: "https://www.weathercam.it/webcam/ortona",
+    description:
+      "Vista in diretta dal tetto dell'IIS Nautico “Leone Acciauoli” di Ortona, con l'abitato e il mare Adriatico sullo sfondo. L'immagine è pubblicata da WeatherCam.it / MeteoProject.",
+    accuracy: "locality",
+  },
   a15: { lat: 42.4775046, lon: 13.4591216 },
   a22: { lat: 42.1761605, lon: 13.5160862 },
   a23: { lat: 42.1761605, lon: 13.5160862 },
@@ -322,15 +345,17 @@ const webcamRecords = webcamsRaw
       elevation,
       group,
       province,
-      description: `Vista in diretta da ${name}${elevation ? `, a ${elevation} m` : ""}. L'immagine viene aggiornata automaticamente dalla rete di monitoraggio dell'Associazione AQ Caput Frigoris.`,
-      imageUrl: `https://www.caputfrigoris.it/webcam_proxy.php?k=${item.key}`,
-      imageCredit: "Ass. AQ Caput Frigoris",
-      sourceUrl: "https://www.caputfrigoris.it/webcam_abruzzo.php",
-      sourceLabel: "Caput Frigoris",
+      description:
+        override.description ??
+        `Vista in diretta da ${name}${elevation ? `, a ${elevation} m` : ""}. L'immagine viene aggiornata automaticamente dalla rete di monitoraggio dell'Associazione AQ Caput Frigoris.`,
+      imageUrl: override.imageUrl ?? `https://www.caputfrigoris.it/webcam_proxy.php?k=${item.key}`,
+      imageCredit: override.imageCredit ?? "Ass. AQ Caput Frigoris",
+      sourceUrl: override.sourceUrl ?? "https://www.caputfrigoris.it/webcam_abruzzo.php",
+      sourceLabel: override.sourceLabel ?? "Caput Frigoris",
       tags: ["Webcam live", group],
       featured: WEBCAM_FEATURED.has(item.key),
       webcamKey: item.key,
-      accuracy: item.geocoded && !override.lat ? "locality" : "approx",
+      accuracy: override.accuracy ?? (item.geocoded && !override.lat ? "locality" : "approx"),
     };
   });
 
@@ -357,6 +382,32 @@ webcamRecords.push({
   tags: ["Webcam live", sebastianiGroup],
   featured: true,
   webcamKey: "sebastiani",
+  accuracy: "locality",
+});
+
+// Webcam di Guardiagrele, dal centro del paese con la telecamera puntata
+// verso la Maiella: non è presente nell'elenco Caput Frigoris.
+const guardiagreleLat = 42.1954758;
+const guardiagreleLon = 14.2197122;
+const guardiagreleGroup = groupOf(guardiagreleLat, guardiagreleLon, 576);
+webcamRecords.push({
+  id: "webcam-guardiagrele",
+  kind: "webcam",
+  name: "Guardiagrele",
+  lat: guardiagreleLat,
+  lon: guardiagreleLon,
+  elevation: 576,
+  group: guardiagreleGroup,
+  province: "Chieti",
+  description:
+    "Webcam dal centro di Guardiagrele, sulle pendici orientali della Maiella, con la telecamera puntata verso il massiccio. L'immagine è pubblicata da WeatherCam.it / MeteoProject.",
+  imageUrl: "https://stazioni.meteoproject.it/webcam/guardiagrele/guardiagrele.jpg",
+  imageCredit: "MeteoProject / WeatherCam.it",
+  sourceUrl: "https://www.weathercam.it/webcam/guardiagrele",
+  sourceLabel: "WeatherCam.it · MeteoProject",
+  tags: ["Webcam live", guardiagreleGroup],
+  featured: false,
+  webcamKey: "guardiagrele",
   accuracy: "locality",
 });
 
@@ -496,6 +547,11 @@ const meta = {
       label: "MeteoProject / CAI Roma — webcam Rifugio Vincenzo Sebastiani",
       url: "https://stazioni.meteoproject.it/dati/rifugiosebastiani/webcam.php",
       license: "Immagine del proprietario",
+    },
+    {
+      label: "WeatherCam.it / MeteoProject — webcam Duca degli Abruzzi, Ortona e Guardiagrele",
+      url: "https://www.weathercam.it/live-webcam/Abruzzo",
+      license: "Immagini dei rispettivi proprietari",
     },
   ],
 };

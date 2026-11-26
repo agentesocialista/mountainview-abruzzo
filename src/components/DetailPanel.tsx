@@ -19,6 +19,7 @@ interface DetailPanelProps {
   onClose: () => void;
   onSelectWebcam: (webcam: WebcamPoi) => void;
   onOpenLightbox: (webcam: WebcamPoi) => void;
+  closing?: boolean;
 }
 
 export function DetailPanel({
@@ -27,6 +28,7 @@ export function DetailPanel({
   onClose,
   onSelectWebcam,
   onOpenLightbox,
+  closing = false,
 }: DetailPanelProps) {
   const weather = useWeather(poi);
   const scrollRef = useRef<HTMLDivElement>(null);
@@ -38,7 +40,7 @@ export function DetailPanel({
 
   return (
     <aside
-      className={`detail-panel detail-panel--${poi.kind}`}
+      className={`detail-panel detail-panel--${poi.kind}${closing ? " is-closing" : ""}`}
       aria-label={`Dettaglio di ${poi.name}`}
     >
       <div className="detail-panel__handle" aria-hidden="true" />

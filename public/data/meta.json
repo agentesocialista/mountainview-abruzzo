@@ -3,8 +3,8 @@
   "counts": {
     "peaks": 100,
     "huts": 111,
-    "webcams": 118,
-    "total": 329
+    "webcams": 119,
+    "total": 330
   },
   "sources": [
     {
@@ -31,6 +31,11 @@
       "label": "MeteoProject / CAI Roma — webcam Rifugio Vincenzo Sebastiani",
       "url": "https://stazioni.meteoproject.it/dati/rifugiosebastiani/webcam.php",
       "license": "Immagine del proprietario"
+    },
+    {
+      "label": "WeatherCam.it / MeteoProject — webcam Duca degli Abruzzi, Ortona e Guardiagrele",
+      "url": "https://www.weathercam.it/live-webcam/Abruzzo",
+      "license": "Immagini dei rispettivi proprietari"
     }
   ]
 }

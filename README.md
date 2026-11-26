@@ -64,8 +64,9 @@ Per raccogliere di nuovo i dati grezzi (richiede rete) eseguire, nell'ordine, `s
 | Previsioni meteo | [Open-Meteo Forecast API](https://open-meteo.com) | CC BY 4.0; richieste dal browser, cache 20 minuti |
 | Webcam | [Ass. AQ Caput Frigoris](https://www.caputfrigoris.it/webcam_abruzzo.php) | Immagini dei rispettivi proprietari |
 | Webcam Rifugio Vincenzo Sebastiani | [MeteoProject / CAI Roma](https://stazioni.meteoproject.it/dati/rifugiosebastiani/webcam.php) | Immagine del proprietario; aggiunta come record curato in `scripts/build-data.mjs` |
+| Webcam Duca degli Abruzzi, Ortona e Guardiagrele | [WeatherCam.it / MeteoProject](https://www.weathercam.it/live-webcam/Abruzzo) | Immagini dei rispettivi proprietari; il feed aggiornato sostituisce quello Caput Frigoris per Duca e Ortona, Guardiagrele è un nuovo record curato |
 
-Le immagini delle webcam Caput Frigoris sono caricate direttamente dal loro `webcam_proxy.php`, con aggiornamento anti-cache; quella del Rifugio Vincenzo Sebastiani è caricata dal sito MeteoProject / CAI Roma. L'attribuzione alla fonte specifica di ogni webcam e ai proprietari è visibile nella sidebar, nelle schede, nelle webcam vicine e nel lightbox. **Prima di una pubblicazione commerciale o di un uso diverso da quello informativo, occorre ottenere l'autorizzazione dei proprietari delle immagini.**
+Le immagini delle webcam Caput Frigoris sono caricate direttamente dal loro `webcam_proxy.php`, con aggiornamento anti-cache; quelle del Rifugio Vincenzo Sebastiani, del Rifugio Duca degli Abruzzi, di Ortona e di Guardiagrele sono caricate dai server MeteoProject. L'attribuzione alla fonte specifica di ogni webcam e ai proprietari è visibile nella sidebar, nelle schede, nelle webcam vicine e nel lightbox. **Prima di una pubblicazione commerciale o di un uso diverso da quello informativo, occorre ottenere l'autorizzazione dei proprietari delle immagini.**
 
 ### Note sulla qualità dei dati
 

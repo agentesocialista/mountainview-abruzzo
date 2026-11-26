@@ -23,7 +23,29 @@ export default function App() {
   const [mapStyle, setMapStyle] = useState<MapStyle>("relief");
   const [sidebarOpen, setSidebarOpen] = useState(false);
   const [lightbox, setLightbox] = useState<WebcamPoi | null>(null);
+  const [closingDetail, setClosingDetail] = useState(false);
   const searchInputRef = useRef<HTMLInputElement>(null);
+  const closeTimer = useRef<number | null>(null);
+
+  const cancelDetailClose = useCallback(() => {
+    if (closeTimer.current !== null) {
+      window.clearTimeout(closeTimer.current);
+      closeTimer.current = null;
+    }
+    setClosingDetail(false);
+  }, []);
+
+  const closeDetail = useCallback(() => {
+    if (closeTimer.current !== null) return;
+    setClosingDetail(true);
+    closeTimer.current = window.setTimeout(() => {
+      setSelectedId(null);
+      setClosingDetail(false);
+      closeTimer.current = null;
+    }, 180);
+  }, []);
+
+  useEffect(() => () => cancelDetailClose(), [cancelDetailClose]);
 
   const counts = useMemo<Record<PoiKind, number>>(
     () => ({
@@ -46,6 +68,7 @@ export default function App() {
 
   const handleSelect = useCallback(
     (poi: Poi | null) => {
+      cancelDetailClose();
       if (!poi) {
         setSelectedId(null);
         return;
@@ -57,17 +80,17 @@ export default function App() {
       setSearch("");
       if (isMobile()) setSidebarOpen(false);
     },
-    [],
+    [cancelDetailClose],
   );
 
   const handleToggleType = useCallback(
     (kind: PoiKind) => {
       setActiveTypes((current) => {
-        if (current[kind] && selectedPoi?.kind === kind) setSelectedId(null);
+        if (current[kind] && selectedPoi?.kind === kind) closeDetail();
         return { ...current, [kind]: !current[kind] };
       });
     },
-    [selectedPoi],
+    [selectedPoi, closeDetail],
   );
 
   const openSidebar = (focusSearch = false) => {
@@ -85,13 +108,13 @@ export default function App() {
       }
       if (event.key === "Escape") {
         if (lightbox) setLightbox(null);
-        else if (selectedId) setSelectedId(null);
+        else if (selectedId) closeDetail();
         else if (sidebarOpen) setSidebarOpen(false);
       }
     };
     document.addEventListener("keydown", onKeyDown);
     return () => document.removeEventListener("keydown", onKeyDown);
-  }, [lightbox, selectedId, sidebarOpen]);
+  }, [lightbox, selectedId, sidebarOpen, closeDetail]);
 
   if (loading) {
     return (
@@ -200,9 +223,10 @@ export default function App() {
           <DetailPanel
             poi={selectedPoi}
             webcams={data.webcams}
-            onClose={() => setSelectedId(null)}
+            onClose={closeDetail}
             onSelectWebcam={(webcam) => handleSelect(webcam)}
             onOpenLightbox={setLightbox}
+            closing={closingDetail}
           />
         )}
       </main>
